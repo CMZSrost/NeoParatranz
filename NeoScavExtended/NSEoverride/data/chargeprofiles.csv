@@ -1,5 +1,0 @@
-"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",4 electric charge per use,每次使用产生 4 电荷
-"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",1 electric charge per hour,每小时产生 1 电荷
-"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",6 electric charge per use,每次使用产生 6 电荷
-"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",8 electric charge per use,每次使用产生 8 电荷
-"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",XM54 cartridge used per hour equipped,XM54 滤芯每小时使用的数量
