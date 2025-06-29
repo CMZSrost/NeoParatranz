@@ -5,6 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.10"
 dependencies = [
     "lxml>=6.0.0",
+    "nuitka>=2.7.11",
     "typer>=0.16.0",
     "typing>=3.10.0.0",
 ]
