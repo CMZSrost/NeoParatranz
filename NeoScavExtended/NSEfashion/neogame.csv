@@ -1,0 +1,1303 @@
+"//table[@name=""conditions""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Wearing a clearweave overcoat,穿着一件显眼的编制大衣
+"//table[@name=""conditions""]/column[@name=""id""][text()=1]/../column[@name=""strDesc""]",<us> is wearing a clearweave overcoat.,<us> 穿着一件显眼的编制大衣。
+"//table[@name=""conditions""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Wearing a clearweave cowl,穿着显眼的织物风帽
+"//table[@name=""conditions""]/column[@name=""id""][text()=2]/../column[@name=""strDesc""]",<us> is wearing a clearweave cowl.,<us> 穿着显眼的织布风帽。
+"//table[@name=""conditions""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Wearing a clearweave cloak,穿着显眼的织布斗篷
+"//table[@name=""conditions""]/column[@name=""id""][text()=3]/../column[@name=""strDesc""]",<us> is wearing a clearweave cloak.,<us> 穿着显眼的织布斗篷。
+"//table[@name=""conditions""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Wearing a tarp overcloak,穿着防水布斗篷
+"//table[@name=""conditions""]/column[@name=""id""][text()=4]/../column[@name=""strDesc""]",<us> is wearing a tarp overcloak.,<us> 穿着防水布斗篷。
+"//table[@name=""conditions""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Wearing a sleeveless shirt,穿着无袖衬衫
+"//table[@name=""conditions""]/column[@name=""id""][text()=5]/../column[@name=""strDesc""]",<us> is wearing a sleeveless torso garment.,<us> 穿着无袖衬衫。
+"//table[@name=""conditions""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Wearing a deer pelt,穿着鹿皮
+"//table[@name=""conditions""]/column[@name=""id""][text()=6]/../column[@name=""strDesc""]",<us> is wearing a deer pelt.,<us> 穿着鹿皮。
+"//table[@name=""conditions""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Wearing tough pants,穿着耐磨裤子
+"//table[@name=""conditions""]/column[@name=""id""][text()=7]/../column[@name=""strDesc""]","You are wearing a pair of tough, long-sleeved leg garments.",你穿着一条坚固的长裤。
+"//table[@name=""conditions""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Looking like a Bad Mutha,看起来像一个摇滚帮
+"//table[@name=""conditions""]/column[@name=""id""][text()=8]/../column[@name=""strDesc""]",<us> looks like a Bad Mutha.,<us> 看起来像一个摇滚帮。
+"//table[@name=""conditions""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Intimidation Penalty,恐吓惩罚
+"//table[@name=""conditions""]/column[@name=""id""][text()=9]/../column[@name=""strDesc""]",<us> is wearing clothing that reduces intimidation.,<us> 穿着吓人的衣服。
+"//table[@name=""conditions""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Visibility Penalty,能见度惩罚
+"//table[@name=""conditions""]/column[@name=""id""][text()=10]/../column[@name=""strDesc""]",<us> is wearing clothing that increases visibility.,<us> 穿着容易被看见的衣服。
+"//table[@name=""conditions""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",Encumberance Bonus,负重加成
+"//table[@name=""conditions""]/column[@name=""id""][text()=11]/../column[@name=""strDesc""]",<us> is wearing a piece of garment that helps with carrying.,<us> 穿着一件有助于携带更多物品的衣服。
+"//table[@name=""conditions""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",Wearing a ghillie suit,穿着吉利服
+"//table[@name=""conditions""]/column[@name=""id""][text()=12]/../column[@name=""strDesc""]","<us> is wearing a ghillie suit, passively hiding them.",<us> 穿着吉利服，可以很好的隐藏行踪。
+"//table[@name=""conditions""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Wearing a fox pelt,穿着狐皮
+"//table[@name=""conditions""]/column[@name=""id""][text()=13]/../column[@name=""strDesc""]",<us> is wearing a fox pelt.,<us> 穿着狐皮。
+"//table[@name=""conditions""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Scent Penalty,气味惩罚
+"//table[@name=""conditions""]/column[@name=""id""][text()=14]/../column[@name=""strDesc""]",<us> is wearing clothing that makes them easier to track.,<us> 穿着容易被追踪的衣服。
+"//table[@name=""conditions""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",,
+"//table[@name=""conditions""]/column[@name=""id""][text()=15]/../column[@name=""strDesc""]",<us> is wearing a clean air filter.,<us> 佩戴清洁空气过滤器。
+"//table[@name=""conditions""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",Clean Air Filter Heartbeat,清洁空气过滤器工作中
+"//table[@name=""conditions""]/column[@name=""id""][text()=16]/../column[@name=""strDesc""]",<us> periodically has a working air filter.,<us> 有个工作中的空气过滤器。
+"//table[@name=""conditions""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",Wearing leather cap,戴着皮帽
+"//table[@name=""conditions""]/column[@name=""id""][text()=17]/../column[@name=""strDesc""]",<us> is wearing a leather cap.,<us> 戴着皮帽。
+"//table[@name=""conditions""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",Wearing Sunglasses,戴着墨镜
+"//table[@name=""conditions""]/column[@name=""id""][text()=18]/../column[@name=""strDesc""]",<us> is wearing a pair of sunglasses and looks cool.,<us> 戴着一副太阳镜，看起来很酷。
+"//table[@name=""conditions""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",Wearing a short coat,穿着短外套
+"//table[@name=""conditions""]/column[@name=""id""][text()=19]/../column[@name=""strDesc""]",<us> is wearing a shortened body garment.,<us> 穿着缩短的紧身衣。
+"//table[@name=""conditions""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",Wearing a Running Shoe,穿着跑鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=20]/../column[@name=""strDesc""]",<us> is wearing a running shoe.,<us> 穿着跑鞋。
+"//table[@name=""conditions""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",Wearing a Rag Shoe,穿着破布鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=21]/../column[@name=""strDesc""]",<us> is wearing a rag shoe.,<us> 穿着破布鞋。
+"//table[@name=""conditions""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Wearing a Gator Shoe,穿着鳄鱼鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=22]/../column[@name=""strDesc""]",<us> is wearing a gator shoe.,<us> 穿着鳄鱼鞋。
+"//table[@name=""conditions""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Wearing a Leather Boot,穿着皮靴
+"//table[@name=""conditions""]/column[@name=""id""][text()=23]/../column[@name=""strDesc""]",<us> is wearing a leather boot.,<us> 穿着皮靴。
+"//table[@name=""conditions""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",Wearing a Firefighter Boot,穿着消防靴
+"//table[@name=""conditions""]/column[@name=""id""][text()=24]/../column[@name=""strDesc""]",<us> is wearing a firefighter boot.,<us> 穿着消防靴。
+"//table[@name=""conditions""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",Wearing a Hide Glove/Boot,穿着潜行手套/靴子
+"//table[@name=""conditions""]/column[@name=""id""][text()=25]/../column[@name=""strDesc""]",<us> is wearing a fur piece.,<us> 穿着毛皮制品。
+"//table[@name=""conditions""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",Wearing a Rubber Glove/Boot,穿戴橡胶手套/靴子
+"//table[@name=""conditions""]/column[@name=""id""][text()=26]/../column[@name=""strDesc""]",<us> is wearing rubber equipment.,<us> 穿戴橡胶装备。
+"//table[@name=""conditions""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",Wearing a stealth poncho,穿着潜行雨披
+"//table[@name=""conditions""]/column[@name=""id""][text()=27]/../column[@name=""strDesc""]",<us> is wearing a poncho with hiding bonus.,<us> 穿着带有隐藏行踪效果的雨披。
+"//table[@name=""conditions""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",Wearing tough shirt,穿着结实的衬衫
+"//table[@name=""conditions""]/column[@name=""id""][text()=28]/../column[@name=""strDesc""]","<us> is wearing a tough, long-sleeved torso garment.",<us> 穿着结实的长袖躯干服装。
+"//table[@name=""conditions""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",Wearing stealth shirt,穿着潜行衬衫
+"//table[@name=""conditions""]/column[@name=""id""][text()=29]/../column[@name=""strDesc""]","<us> is wearing a tough, long-sleeved torso garment with hiding bonus.",<us> 穿着坚韧的长袖躯干服装，带有隐藏行踪效果。
+"//table[@name=""conditions""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",Wearing heavy pants,穿着结实的裤子
+"//table[@name=""conditions""]/column[@name=""id""][text()=30]/../column[@name=""strDesc""]","You are wearing a pair of heavy, long-sleeved leg garments.",你穿着一条坚韧的长袖腿装。
+"//table[@name=""conditions""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",Wearing stealth pants,穿着潜行裤
+"//table[@name=""conditions""]/column[@name=""id""][text()=31]/../column[@name=""strDesc""]","You are wearing a pair of tough, long-sleeved leg garments with hiding bonus.",你穿着一件带有隐藏行踪效果的结实长裤腿装。
+"//table[@name=""conditions""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",Extra torso counter,较多结实服饰
+"//table[@name=""conditions""]/column[@name=""id""][text()=32]/../column[@name=""strDesc""]",<us> is wearing torso garments and will get penalties if wearing too much.,<us> 穿着结实的服装，如果穿的太多会受到惩罚。
+"//table[@name=""conditions""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",,
+"//table[@name=""conditions""]/column[@name=""id""][text()=33]/../column[@name=""strDesc""]",<us> is wearing too much torso gear and is having trouble moving.,<us> 穿戴者过多的结实装备，并且已经影响到行动了。
+"//table[@name=""conditions""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",Wearing a pelt tunic,戴着腰带
+"//table[@name=""conditions""]/column[@name=""id""][text()=34]/../column[@name=""strDesc""]",<us> is wearing a patchwork pelt tunic.,<us> 戴着工作腰带。
+"//table[@name=""conditions""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",Wearing proper torso garment,穿着结实的躯干服装
+"//table[@name=""conditions""]/column[@name=""id""][text()=35]/../column[@name=""strDesc""]",<us> is wearing a proper torso garment.,<us> 穿着结实的躯干服装。
+"//table[@name=""conditions""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",Wearing proper pants,穿着结实的裤子
+"//table[@name=""conditions""]/column[@name=""id""][text()=36]/../column[@name=""strDesc""]",<us> is wearing proper pants.,<us> 穿着结实的裤子。
+"//table[@name=""conditions""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",Proper footgear count,合适的鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=37]/../column[@name=""strDesc""]",Is <us> wearing two shoes of decent quality?,是 <us> 穿着一双质量还行的鞋子？
+"//table[@name=""conditions""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",Wearing proper footwear,穿着合适的鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=38]/../column[@name=""strDesc""]",<us> is wearing two shoes of decent quality.,<us> 穿着一双很不错的鞋。
+"//table[@name=""conditions""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",Proper clothing count,合适的服装
+"//table[@name=""conditions""]/column[@name=""id""][text()=39]/../column[@name=""strDesc""]",Is <us> wearing a set of proper clothing?,是 <us> 穿着一套挺合适的衣服?
+"//table[@name=""conditions""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",Wearing proper clothing,穿着合适的服装
+"//table[@name=""conditions""]/column[@name=""id""][text()=40]/../column[@name=""strDesc""]",<us> is wearing a set of proper clothing.,<us> 穿着一套很合适的衣服。
+"//table[@name=""conditions""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",DMC Guard gear count,底特律警卫服装
+"//table[@name=""conditions""]/column[@name=""id""][text()=41]/../column[@name=""strDesc""]","If <us> wears enough items with this condition, they will be identified as a DMC Guard.","是 <us> 这种情况下的装束, 将被识别为 冒充底特律警卫."
+"//table[@name=""conditions""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",Wearing partial DMC Guard equipment,穿着部分底特律警卫装备
+"//table[@name=""conditions""]/column[@name=""id""][text()=42]/../column[@name=""strDesc""]",<us> almost looks like a DMC Guard.,<us> 几乎像个底特律警卫。
+"//table[@name=""conditions""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",Looking like a DMC Guard,看起来像个底特律警卫
+"//table[@name=""conditions""]/column[@name=""id""][text()=43]/../column[@name=""strDesc""]",<us> looks like a DMC Guard.,<us> 看起来像个底特律警卫。
+"//table[@name=""conditions""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",Wearing a Dress Shoe,穿着正装鞋
+"//table[@name=""conditions""]/column[@name=""id""][text()=44]/../column[@name=""strDesc""]",<us> is wearing a dress shoe.,<us> 穿着一双正装鞋。
+"//table[@name=""conditions""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",Wearing leather torso armor,穿着皮革躯干盔甲
+"//table[@name=""conditions""]/column[@name=""id""][text()=45]/../column[@name=""strDesc""]",<us> is wearing leather torso armor.,<us> 正穿着一件皮革躯干盔甲。
+"//table[@name=""conditions""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",Wearing right leather shoulder pad,穿着右侧的皮革臂甲
+"//table[@name=""conditions""]/column[@name=""id""][text()=46]/../column[@name=""strDesc""]",<us> is wearing leather arm armor.,<us> 正穿着皮革臂甲。
+"//table[@name=""conditions""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",Wearing left leather shoulder pad,穿着左侧的皮革臂甲
+"//table[@name=""conditions""]/column[@name=""id""][text()=47]/../column[@name=""strDesc""]",<us> is wearing leather arm armor.,<us> 正穿着皮革臂甲。
+"//table[@name=""conditions""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",Wearing right shoulder pad armor,穿着右侧肩垫护甲
+"//table[@name=""conditions""]/column[@name=""id""][text()=48]/../column[@name=""strDesc""]",<us> is wearing shoulder armor.,<us> 正穿着肩垫护甲。
+"//table[@name=""conditions""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",Wearing left shoulder pad armor,穿着左侧肩垫护甲
+"//table[@name=""conditions""]/column[@name=""id""][text()=49]/../column[@name=""strDesc""]",<us> is wearing shoulder armor.,<us> 正穿着肩垫护甲。
+"//table[@name=""conditions""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",Wearing Army Boot,穿着军靴
+"//table[@name=""conditions""]/column[@name=""id""][text()=50]/../column[@name=""strDesc""]",<us> is wearing an army boot.,<us> 正穿着军靴。
+"//table[@name=""conditions""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",Wearing a Dogman Hide Glove/Boot,穿着潜行手套/靴子
+"//table[@name=""conditions""]/column[@name=""id""][text()=51]/../column[@name=""strDesc""]",<us> is wearing a fur piece.,<us> 穿着毛皮制品。
+"//table[@name=""conditions""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",Intimidation Bonus,恐吓奖金
+"//table[@name=""conditions""]/column[@name=""id""][text()=52]/../column[@name=""strDesc""]",<us> is wearing clothing that increases intimidation.,<us> 穿着容易被看见的衣服。
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",rawhide longcoat,生皮长外套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=2]/../column[@name=""strName""]",rawhide hooded long coat,连帽生皮长外套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",pack boot (left),收束靴 (左)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",pack boot (right),收束靴 (右)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",brown t-shirt,棕色T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",any piece of clothing,任何一件衣服
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",bluejeans,蓝色牛仔裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",olive hoodie,橄榄色连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",GCC t-shirt,格雷大学 T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",khaki cargo pants,卡其色工装裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=11]/../column[@name=""strName""]",khaki cargo shorts,卡其色工装短裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",black cargo pants,黑色工装裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",tactical boot (left),战术靴 (左)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",tactical boot (right),战术靴 (右)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",black shirt,黑色衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=16]/../column[@name=""strName""]",tactical glove,战术手套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",balaclava,巴拉克拉瓦头套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=18]/../column[@name=""strName""]",white AF t-shirt,白色阿勒根游园T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",red AF t-shirt,红色阿勒根游园T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]",C-a-C t-shirt,米口可乐T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",banana t-shirt,香蕉T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",makeshift shirt,临时衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=23]/../column[@name=""strName""]",3dm t-shirt,“三犬映月”T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",Blue Frog sash,蓝蛙饰带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",Sapphire Lily sash,蓝宝石百合饰带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",gray shirt,灰色衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]",short shorts,超短牛仔裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]",running shoe (left),跑鞋 (左)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",running shoe (right),跑鞋 (右)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]",leather glove,皮革手套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=31]/../column[@name=""strName""]",leather vest,皮革背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",leather boot (left),皮靴 (左)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=33]/../column[@name=""strName""]",leather boot (right),皮靴 (右)
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=34]/../column[@name=""strName""]",leather utility belt,皮革实用腰带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=35]/../column[@name=""strName""]",leather shotgun holster,皮革猎枪套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=36]/../column[@name=""strName""]",tactical pistol holster,战术手枪套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=37]/../column[@name=""strName""]",leather handgun holster,皮革手枪套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=38]/../column[@name=""strName""]",rawhide quiver,生皮箭筒
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",leather cap,皮革帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=40]/../column[@name=""strName""]",leather bandolier,皮革弹药肩袋
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=41]/../column[@name=""strName""]",any non-makeshift shirt,任何非临时衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",leather knife sheath,皮革刀鞘
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",leather knife sheaths,皮革胸挂刀套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",UD t-shirt,都市狗子T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",white dress shirt,白领衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",fishnet shirt,渔网衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=47]/../column[@name=""strName""]",fishnet sleeveless shirt,渔网无袖衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=48]/../column[@name=""strName""]",red hoodie,红色连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=49]/../column[@name=""strName""]",black tracksuit hoodie,黑色运动连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",black tracksuit pants,黑色运动裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=51]/../column[@name=""strName""]",hunting vest,狩猎背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",workwear jacket,工作装夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]",workwear vest,工作装背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",workwear cargo pants,工装裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=55]/../column[@name=""strName""]",plaid red shirt,红色格子衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=56]/../column[@name=""strName""]",plaid red cap,红色格子帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=57]/../column[@name=""strName""]",Ghillie suit,吉利服
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=58]/../column[@name=""strName""]",grey and white ushanka,灰白苏联帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=59]/../column[@name=""strName""]",any dogman t-shirt,任何狗人T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=60]/../column[@name=""strName""]",any fishnet object,任何渔网物件
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=61]/../column[@name=""strName""]",soft birch bag,软桦木包
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=62]/../column[@name=""strName""]",black hooded coat,黑色连帽大衣
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=63]/../column[@name=""strName""]",quality strap,优质表带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=64]/../column[@name=""strName""]",tactical chest rig,战术胸部装备
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=65]/../column[@name=""strName""]",black beret,黑色贝雷帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=66]/../column[@name=""strName""]",brown cowboy hat,棕色牛仔帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=67]/../column[@name=""strName""]",shemagh,阿拉伯头巾
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=68]/../column[@name=""strName""]",woodland camo jacket,林地迷彩夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=69]/../column[@name=""strName""]",woodland camo pants,林地迷彩裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=70]/../column[@name=""strName""]",woodland camo clothing,林地迷彩斗篷
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=71]/../column[@name=""strName""]",grey hoodie,灰色连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=72]/../column[@name=""strName""]",blackjeans,黑色牛仔裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=73]/../column[@name=""strName""]",black cowboy hat,黑色牛仔帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=74]/../column[@name=""strName""]",orange padded vest,橙色滑雪背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=75]/../column[@name=""strName""]",blue dress shirt,蓝领衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=76]/../column[@name=""strName""]",balaclava,巴拉克拉瓦头套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=77]/../column[@name=""strName""]",woodland camo cap,林地迷彩鸭舌帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=78]/../column[@name=""strName""]",woodland camo hat,林地迷彩奔尼帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=79]/../column[@name=""strName""]",DSL workgear jacket,底特律DSL工装夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=80]/../column[@name=""strName""]",DSL workgear vest,底特律DSL工装背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=81]/../column[@name=""strName""]",DSL workgear cargo pants,底特律DSL工装工装裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=82]/../column[@name=""strName""]",child's backpack,儿童背包
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=83]/../column[@name=""strName""]",DSL backpack,底特律DSL工装背包
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=84]/../column[@name=""strName""]",blue tracksuit hoodie,蓝色运动连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=85]/../column[@name=""strName""]",blue tracksuit pants,蓝色运动裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=86]/../column[@name=""strName""]",red cap,红色鸭舌帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=87]/../column[@name=""strName""]",Ayotimiwa coveralls,阿约提米瓦 连体工作装
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=88]/../column[@name=""strName""]",Ayotimiwa sweatshirt,阿约提米瓦 运动连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=89]/../column[@name=""strName""]",sherpa-lined denim jacket,羊绒衬牛仔夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=90]/../column[@name=""strName""]",sherpa-lined denim vest,羊绒衬牛仔背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=91]/../column[@name=""strName""]",red bandana,红色面巾
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=92]/../column[@name=""strName""]",blue cap,蓝色鸭舌帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=93]/../column[@name=""strName""]",black beanie,黑色无檐小便帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=94]/../column[@name=""strName""]",orange beanie,橙色毛线帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=95]/../column[@name=""strName""]",hunting jacket,狩猎夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=96]/../column[@name=""strName""]",hunting pants,狩猎裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=97]/../column[@name=""strName""]",white t-shirt,白色T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=98]/../column[@name=""strName""]",clergy shirt,神职人员衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=99]/../column[@name=""strName""]",black dress vest,黑色礼服背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=100]/../column[@name=""strName""]",black dress pants,黑色礼服裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=101]/../column[@name=""strName""]",plaid white shirt,白色格纹衬衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=102]/../column[@name=""strName""]",plaid white cap,白色格纹帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=103]/../column[@name=""strName""]",leather shoulder pad,皮革肩垫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=104]/../column[@name=""strName""]",army boot (left),军靴（左）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=105]/../column[@name=""strName""]",army boot (right),军靴（右）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=106]/../column[@name=""strName""]",army glove,军用手套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=107]/../column[@name=""strName""]",army balaclava,军用巴拉克拉瓦头套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=108]/../column[@name=""strName""]",army shirt,军队T恤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=109]/../column[@name=""strName""]",urban camo jacket,都市迷彩夹克
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=110]/../column[@name=""strName""]",urban camo pants,都市迷彩裤
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=111]/../column[@name=""strName""]",urban camo clothing,城市迷彩服
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=112]/../column[@name=""strName""]",oven mitten,烤炉手套
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=113]/../column[@name=""strName""]",waterproof mitten,waterproof mitten
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=114]/../column[@name=""strName""]",orange padded jacket,橙色滑雪背心
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=115]/../column[@name=""strName""]",tarp overcloak,防水布外衣
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=116]/../column[@name=""strName""]",woodland camo poncho,"长征 ""战地"" 林地迷彩斗篷"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=117]/../column[@name=""strName""]",clearweave overcoat,"米勒 ""快乐天气"" 透明编制大衣"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=118]/../column[@name=""strName""]",clearweave cloak,编织披风
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=119]/../column[@name=""strName""]",clearweave cowl,编织披肩帽
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=120]/../column[@name=""strName""]",clearweave clothing,透明编织服装
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=121]/../column[@name=""strName""]",red-colored fanny pack,红色连帽衫
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=122]/../column[@name=""strName""]",winter jacket,冬季夹克
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=1]/../column[@name=""strPropertyName""]",wearable: first layer,wearable: second layer
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=2]/../column[@name=""strPropertyName""]",wearable: second layer,wearable: second layer
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=3]/../column[@name=""strPropertyName""]",wearable: third layer,wearable: third layer
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=4]/../column[@name=""strPropertyName""]",wearable: fourth layer,wearable: fourth layer
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=5]/../column[@name=""strPropertyName""]",headwear,headwear
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=6]/../column[@name=""strPropertyName""]",upper-body garment,upper-body garment
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=7]/../column[@name=""strPropertyName""]",handwear,handwear
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=8]/../column[@name=""strPropertyName""]",backpack,backpack
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=9]/../column[@name=""strPropertyName""]",hood,hood
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=10]/../column[@name=""strPropertyName""]",long sleeves/legs,long sleeves/legs
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=11]/../column[@name=""strPropertyName""]",extra pockets,extra pockets
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=12]/../column[@name=""strPropertyName""]",white,white
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=13]/../column[@name=""strPropertyName""]",black,black
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=14]/../column[@name=""strPropertyName""]",red,red
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=15]/../column[@name=""strPropertyName""]",green,green
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=16]/../column[@name=""strPropertyName""]",blue,blue
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=17]/../column[@name=""strPropertyName""]",yellow,yellow
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=18]/../column[@name=""strPropertyName""]",belt garment,belt garment
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=19]/../column[@name=""strPropertyName""]",wrist/arm garment,wrist/arm garment
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=20]/../column[@name=""strPropertyName""]",denim,denim
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strDesc""]","""Urban Dogeman"" t-shirt","""都市狗子"" T恤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strDesc""]",white dress shirt,白领衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strDesc""]",fishnet shirt,渔网衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strDesc""]",fishnet sleeveless shirt,渔网无袖衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strDesc""]",olive-colored hoodie,橄榄色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strDesc""]",red-colored hoodie,红色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strDesc""]",red-colored hoodie,红色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strDesc""]",black-colored tracksuit hoodie,黑色运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strDesc""]",black-colored tracksuit hoodie,黑色运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strDesc""]",black-colored tracksuit pants,黑色运动裤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strDesc""]","Pearson ""Backwoods"" hunting vest",狩猎背心
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave overcoat","米勒 ""快乐天气"" 透明编制大衣"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave overcoat","米勒 ""快乐天气"" 透明编制大衣"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave cowl","米勒 ""快乐天气"" 透明编制披肩帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave cowl","米勒 ""快乐天气"" 透明编制披肩帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",clothes (rags),衣服（破布）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strDesc""]",headrags,破布头套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",clothes (rags),衣服（破布）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strDesc""]",handrags,破布手套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",clothes (rags),衣服（破布）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strDesc""]",footrags,裹脚破布
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strDesc""]",wearable disposable plastic bag,可穿戴一次性塑料袋
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strDesc""]",deer pelt,鹿皮
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strDesc""]",heavy duty tarp overcloak,重型防水布外套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strDesc""]",heavy duty tarp overcloak,重型防水布外套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave cloak","米勒 ""快乐天气"" 透明编制斗篷"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strDesc""]","Miller ""Merryweather"" clearweave cloak","米勒 ""快乐天气"" 透明编制斗篷"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strDesc""]","Highsmith ""Workwear"" yellow hard hat","海史密斯 ""工作装"" 黄色安全帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strDesc""]","Highsmith ""Workwear"" white hard hat","海史密斯 ""工作装"" 白色安全帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strDesc""]","Highsmith ""Workwear"" jacket","海史密斯 ""工作装"" 夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strDesc""]","Highsmith ""Workwear"" jacket","海史密斯 ""工作装"" 夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strDesc""]","Highsmith ""Workwear"" vest","海史密斯 ""工作装"" 背心"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strDesc""]","Highsmith ""Workwear"" cargo pants","海史密斯 ""工作装"" 工装裤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strDesc""]","Pearson ""Backwoods"" plaid red shirt",红色格子衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",headwear,headwear
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strDesc""]","Pearson ""Backwoods"" plaid red cap",红色格子帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strDesc""]",no jacket/hoodie,没有夹克/连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strDesc""]",no coat,没有大衣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strDesc""]",Ghillie suit,吉利服
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strDesc""]",rawhide hooded longcoat,生皮连帽长款外套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strDesc""]",rawhide hooded long coat,生皮连帽长款大衣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strDesc""]",makeshift shirt,临时衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strDesc""]",black hooded coat,黑色连帽大衣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strDesc""]",black hooded coat,黑色连帽大衣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strDesc""]",fox pelt,狐皮
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strDesc""]",grey and white ushanka,灰白苏联帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",clothes (holster),衣服（皮套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strDesc""]","Deltec ""TLBE1H"" tactical pistol holster","德尔泰克 ""TLBE1H"" 战术手枪套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",clothes (holster),衣服（皮套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strDesc""]",leather handgun holster,皮革手枪套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",clothes (holster),衣服（皮套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strDesc""]",Sawoff holster,皮革截短猎枪套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",clothing (holster),服装 (皮套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strDesc""]",leather knife sheath,皮革刀鞘
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",clothing (holster),服装 (皮套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strDesc""]",leather knife sheaths,皮革胸挂刀套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",clothes (sling),衣服（吊带）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strDesc""]",leather bandolier,皮革手袋
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",clothes (belt),衣服（腰带）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strDesc""]",leather utility belt,皮革实用腰带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strDesc""]",leather cap,皮革帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strDesc""]",leather vest,皮革夹克
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",clothes (gloves),衣服 (手套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strDesc""]",leather glove,皮革手套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strDesc""]",leather boot (left),皮靴 (左)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strDesc""]",leather boot (right),皮靴 (右)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",quiver,箭筒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strDesc""]",rawhide quiver,生皮箭筒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strName""]",mask,面具
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strDesc""]","Medcare ""single-use"" face mask","医疗保健 ""一次性"" 口罩"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",eyewear,眼镜
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strDesc""]","a pair of ""Aviator"" sunglasses","一副 ""飞行员"" 太阳镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strDesc""]",firefighter helmet,消防头盔
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strDesc""]",firefighter jacket,消防夹克
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strDesc""]",firefighter pants,消防裤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",clothes (gloves),衣服 (手套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strDesc""]",firefighter glove,消防手套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strDesc""]",firefighter boot (right),消防靴 (右)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strDesc""]",firefighter boot (left),消防靴 (左)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strDesc""]","JB ""Ox"" tactical chest rig","劲霸""公牛"" 战术胸挂"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strDesc""]",DMC operative beret,底特律特工贝雷帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strDesc""]",cowboy hat,牛仔帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strDesc""]",shemagh,阿拉伯头巾
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strDesc""]",shemagh,阿拉伯头巾
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strDesc""]",shemagh,阿拉伯头巾
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strDesc""]",shemagh,阿拉伯头巾
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strName""]",eyewear,眼镜
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strDesc""]","a pair of ""Cyclops"" sunglasses","一副 ""独眼巨人"" 太阳镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strName""]",camp item,营地项目
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strDesc""]",camp camo netting,营地迷彩网
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strDesc""]",motorbike helmet,摩托头盔
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strDesc""]",hockey mask,曲球棍面具
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strName""]",bag,包
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strDesc""]","LM ""RIOT"" green duffel bag","长征 ""横行"" 绿色行李袋"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo jacket","长征 ""战地"" 林地迷彩夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo cargo pants","长征 ""战地"" 林地迷彩裤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strDesc""]",no facemask,没有口罩
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strDesc""]",grey-colored hoodie,灰色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strDesc""]",grey-colored hoodie,灰色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strDesc""]",blackjeans,黑色牛仔裤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strDesc""]",black-colored cowboy hat,黑色牛仔帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strDesc""]",orange-colored padded vest,橙色滑雪背心
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strDesc""]",DMC-issued blue dress shirt,底特律发行蓝领衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strName""]",clothes (headwear),衣服 (头饰)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strDesc""]","Huntsman ""WindShield"" balaclava","猎人 ""风盾"" 巴拉克拉瓦头套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo cap","长征 ""战地"" 林地迷彩鸭舌帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo hat","长征 ""战地"" 林地迷彩高顶帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo hooded poncho","长征 ""战地"" 林地迷彩夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strDesc""]","LM ""FIELD"" woodland camo hooded poncho","长征 ""战地"" 林地迷彩夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strName""]",bed roll,床单
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strDesc""]",tarp sleeping bag,防水布睡袋
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strName""]",clothes (gloves),衣服 (手套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strDesc""]",rubber glove,橡胶手套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strDesc""]",rubber boot (left),橡胶靴 (左)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strDesc""]",rubber boot (right),橡胶靴 (右)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" jacket","底特律发行 ""DSL工装"" 夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" jacket","底特律发行 ""DSL工装"" 夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" vest","底特律发行 ""DSL工装"" 背心"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" cargo pants","底特律发行 ""DSL工装"" 工装裤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" t-shirt","底特律发行 ""DSL工装"" T恤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" cap","底特律发行 ""DSL工装"" 鸭舌帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strName""]",bag,包
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strDesc""]","DMC-issued ""DSL Workgear"" backpack","底特律发行 ""DSL工装"" 背包"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strDesc""]",blue-colored tracksuit hoodie,蓝色运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strDesc""]",blue-colored tracksuit hoodie,蓝色运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strName""]",clothes (legs),衣服 (腿部)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strDesc""]",blue-colored tracksuit pants,蓝色运动裤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strDesc""]",red-colored cap,红色鸭舌帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=105]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=105]/../column[@name=""strDesc""]",Ayotimiwa coveralls,阿约提米瓦 连体工装服
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=105]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=106]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=106]/../column[@name=""strDesc""]",Ayotimiwa sweatshirt,阿约提米瓦 运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=106]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=107]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=107]/../column[@name=""strDesc""]",Ayotimiwa sweatshirt,阿约提米瓦 运动连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=107]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=108]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=108]/../column[@name=""strDesc""]",sherpa-lined denim jacket,羊绒衬牛仔夹克
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=108]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=109]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=109]/../column[@name=""strDesc""]",sherpa-lined denim vest,羊绒衬牛仔背心
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=109]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=110]/../column[@name=""strName""]",mask,面具
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=110]/../column[@name=""strDesc""]",red-colored bandana,红色面巾
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=110]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=111]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=111]/../column[@name=""strDesc""]",blue-colored cap,蓝色鸭舌帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=111]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=112]/../column[@name=""strName""]",clothes (face/belt),衣服 (脸部/腰带)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=112]/../column[@name=""strDesc""]",Blue Frog sash,蓝蛙饰带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=112]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=113]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=113]/../column[@name=""strDesc""]",black-colored beanie,黑色毛线帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=113]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=114]/../column[@name=""strName""]",headwear,头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=114]/../column[@name=""strDesc""]","Huntsman ""HotShot"" hunting beanie","猎人 ""热点"" 狩猎帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=114]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=115]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=115]/../column[@name=""strDesc""]","Huntsman ""HotShot"" hunting jacket","猎人 ""热点"" 狩猎夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=115]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=116]/../column[@name=""strName""]",clothes (legs),衣服（腿）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=116]/../column[@name=""strDesc""]","Huntsman ""HotShot"" hunting pants","猎人 ""热点"" 狩猎裤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=116]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=117]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=117]/../column[@name=""strDesc""]",white t-shirt,白色T恤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=117]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=118]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=118]/../column[@name=""strDesc""]",clergy shirt,神职人员衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=118]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=119]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=119]/../column[@name=""strDesc""]",black-colored dress vest,黑色正装背心
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=119]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=120]/../column[@name=""strName""]",clothes (legs),衣服（腿）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=120]/../column[@name=""strDesc""]",black-colored dress pants,黑色正装裤
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=120]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=121]/../column[@name=""strName""]",clothes (shoes),衣服（鞋子）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=121]/../column[@name=""strDesc""]",dress shoe (left),正装鞋（左）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=121]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=122]/../column[@name=""strName""]",clothes (shoes),衣服（鞋子）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=122]/../column[@name=""strDesc""]",dress shoe (right),正装鞋（右）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=122]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=123]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=123]/../column[@name=""strDesc""]",no outermask,没有面罩
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=123]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=124]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=124]/../column[@name=""strDesc""]",no shoes/pants/arms/gloves/shirt/belt/shoulders/hand/back/neck/vehicle,没有鞋子/裤子/手臂/手套/衬衫/腰带/肩膀/手/背/脖子/车辆
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=124]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=125]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=125]/../column[@name=""strDesc""]","Pearson ""Backwoods"" plaid white shirt",白色格纹衬衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=125]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=126]/../column[@name=""strName""]",headwear,headwear
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=126]/../column[@name=""strDesc""]","Pearson ""Backwoods"" plaid white cap",白色格纹帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=126]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=127]/../column[@name=""strName""]",clothes (gloves),衣服 (手套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=127]/../column[@name=""strDesc""]",leather glove and shoulder pad,皮革手套和肩垫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=127]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=128]/../column[@name=""strName""]",clothes (gloves),衣服（手套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=128]/../column[@name=""strDesc""]","JB ""Ember"" tactical glove and shoulder pad","劲霸 ""琥珀"" 战术手套和肩垫"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=128]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=129]/../column[@name=""strName""]",clothes (headwear),衣服（头饰）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=129]/../column[@name=""strDesc""]","JB ""Raven"" balaclava","劲霸 ""乌鸦"" 巴拉克拉法帽"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=129]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=130]/../column[@name=""strName""]",clothes (shoes),衣服（鞋子）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=130]/../column[@name=""strDesc""]","LM ""FIELD"" army combat boot (left)","长征 ""战地"" 作战靴（左）"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=130]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=131]/../column[@name=""strName""]",clothes (shoes),衣服（鞋子）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=131]/../column[@name=""strDesc""]","LM ""FIELD"" army combat boot (right)","长征 ""战地"" 作战靴（右）"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=131]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=132]/../column[@name=""strName""]",clothes (gloves),衣服（手套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=132]/../column[@name=""strDesc""]","LM ""FIELD"" army combat glove","长征 ""战地"" 军用手套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=132]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=133]/../column[@name=""strName""]",clothes (headwear),衣服（头饰）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=133]/../column[@name=""strDesc""]","LM ""FIELD"" army balaclava","长征 ""战地"" 军用巴拉克拉瓦头套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=133]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strName""]",clothes (headwear),衣服（头饰）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strDesc""]","LM ""FIELD"" army balaclava","长征 ""战地"" 军用巴拉克拉瓦头套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strName""]",clothes (headwear),衣服（头饰）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strDesc""]","LM ""FIELD"" army combat helmet","长征 ""战地"" 军用头盔"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strDesc""]","LM ""FIELD"" army combat shirt","长征 ""战地"" 军用作战恤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strDesc""]",shadow hat,影帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strDesc""]",shadow hooded coat,影子连帽外套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strName""]",status,状态
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strDesc""]",shadow coat and hat,影衣和影帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strName""]",clothes (gloves),衣服（手套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strDesc""]",oven mitten,烤炉手套
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strName""]",clothes (gloves),衣服（手套）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strDesc""]","Ripley's ""winterWinter"" waterproof mitten","雷普利牌 ""冬季"" 防水手套"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strDesc""]","LM ""STRIKER"" urban camo jacket","长征 ""打击者"" 都市迷彩夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strName""]",clothes (torso),衣服（躯干）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strDesc""]","LM ""STRIKER"" urban camo jacket","长征 ""打击者"" 都市迷彩夹克"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strName""]",clothes (legs),衣服（腿）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strDesc""]","LM ""STRIKER"" urban camo cargo pants","长征 ""打击者"" 城市迷彩工装裤"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strName""]",headwear,headwear
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strDesc""]",dogman pelt headdress,狗人毛皮头饰
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strName""]",clothes (gloves),衣服 (手套)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strDesc""]",dogman pelt glove,狗人皮毛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strDesc""]",dogman pelt boot (right),狗人皮毛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strName""]",clothes (shoes),衣服 (鞋子)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strDesc""]",dogman pelt boot (left),狗人皮毛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strDesc""]",orange-colored padded jacket,橙色滑雪背心
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strName""]",clothes (torso),衣服 (躯干)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strDesc""]","Pearson ""Outback"" winter jacket",Pearson“Outback”冬季夹克
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strName""]",clothes (belt),衣服（腰带）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strDesc""]",red-colored fanny pack,红色连帽衫
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strDescAlt""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",headrags,破布头套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strName""]",handrags,破布手套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",footrags,裹脚破布
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",wearable plastic bag,可穿戴塑料袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",shoe (makeshift rag),鞋子 (临时破布)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",tarp overcloak,防水布外衣
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",rawhide longcoat,生皮长外套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",rawhide hooded longcoat,生皮连帽长款外套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",shirt (makeshift),衬衫 (临时)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",clothing (repair),衣服 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strSecretName""]",hospital gown,病号服
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strName""]",brown t-shirt (repair),棕色T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",GCC t-shirt (repair),格雷大学T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",white AF t-shirt (repair),白色阿勒根游园T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",red AF t-shirt (repair),红色阿勒根游园T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",C-a-C t-shirt (repair),米口可乐T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strName""]",banana t-shirt (repair),香蕉T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",3dm t-shirt (repair),三狗月 T恤(修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strName""]",UD t-shirt (repair),都市狗子 T恤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",black shirt (repair),黑色衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]",gray shirt (repair),灰色衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",white dress shirt (repair),白领衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",plaid red shirt (repair),红色格子帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strName""]",plaid red cap (repair),红色格子帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",fishnet shirt (repair),渔网衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",fishnet sleeveless shirt (repair),渔网无袖衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",olive hoodie (repair),橄榄色连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]",red hoodie (repair),红色连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]",hunting vest (repair),狩猎背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",black tracksuit hoodie (repair),黑色运动连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]",black tracksuit pants (repair),黑色运动裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strName""]",grey and white ushanka (repair),灰白苏联帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",workwear jacket (repair),工作装夹克 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strName""]",workwear vest (repair),工作装背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strName""]",workwear cargo pants (repair),工作装工装裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strName""]",bluejeans (repair),蓝色牛仔裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strName""]",short shorts (repair),超短牛仔裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strName""]",khaki cargo pants (repair),卡其色工装裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strName""]",khaki cargo shorts (repair),卡其色工装短裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",khaki cargo shorts,卡其色工装短裤
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strName""]",pack boot (repair),收束靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strSecretName""]",(left),（左）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strName""]",pack boot (repair),收束靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strSecretName""]",(right),（右）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",running shoe (repair),跑鞋 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strSecretName""]",(left),（左）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",running shoe (repair),跑鞋 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strSecretName""]",(right),（右）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",black cargo pants (repair),黑色工装裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",tactical glove (repair),战术手套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",tactical boot (repair),战术靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strSecretName""]",(left),（左）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strName""]",tactical boot (repair),战术靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strSecretName""]",(right),（右）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strName""]",balaclava (repair),巴拉克拉瓦头套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strName""]",Blue Frog sash (repair),蓝蛙饰带 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",Sapphire Lily sash (repair),蓝宝石百合饰带 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strName""]",leather cap,皮革帽
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",leather gear (repair),皮装 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strSecretName""]",leather cap,皮帽
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]",leather gloves,皮革手套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",leather glove (repair),皮革手套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strName""]",leather vest,皮革背心
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strName""]",leather vest (repair),皮革背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strSecretName""]",(recipe 1),(recipe 1)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strName""]",leather vest (repair),皮革背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strSecretName""]",(recipe 2),(recipe 2)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strName""]",leather boots,皮靴
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strName""]",leather boot (repair),皮靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strSecretName""]",(left),（左）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strName""]",leather boot (repair),皮靴 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strSecretName""]",(right),（右）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strName""]",leather utility belt,皮革实用腰带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strName""]",leather utility belt (repair),皮革实用腰带 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strName""]",leather shotgun holster,皮革截短猎枪套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strName""]",leather shotgun holster (repair),皮革截短猎枪套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strName""]",leather handgun holster,皮革手枪套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strName""]",leather handgun holster (repair),皮革手枪套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strName""]",leather bandolier,皮革手袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strName""]",leather bandolier (repair),皮革手袋 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strName""]",leather knife sheath,皮革刀鞘
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strName""]",leather knife sheath (repair),皮革刀鞘 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strName""]",leather knife sheaths,皮革胸挂刀套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strName""]",leather knife sheaths (repair),皮革胸挂刀套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strName""]",rawhide gear (repair),生皮装备 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strSecretName""]",rawhide longcoat,生皮长外套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strName""]",rawhide hooded longcoat (repair),生皮连帽长款外套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strName""]",rawhide quiver,生皮箭筒
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strName""]",rawhide quiver (repair),生皮箭筒 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strName""]",soft birch bag (repair),软桦木包 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strName""]",tactical pistol holster (repair),战术手枪套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strName""]",ghillie suit (repair),吉利服 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strName""]",black hooded coat (repair),黑色连帽大衣 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strName""]",tactical chest rig (repair),战术胸挂 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strName""]",black beret (repair),黑色贝雷帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strName""]",cowboy hat (repair),牛仔帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strName""]",shemagh (repair),阿拉伯头巾 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strName""]",short shorts,超短牛仔裤
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=86]/../column[@name=""strName""]",camo netting,迷彩网
+"//table[@name=""recipes""]/column[@name=""nID""][text()=86]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=86]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strName""]",woodland camo jacket (repair),林地迷彩夹克 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strName""]",woodland camo pants (repair),林地迷彩裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strName""]",grey hoodie (repair),灰色连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strName""]",blackjeans (repair),黑色牛仔裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strName""]",black cowboy hat (repair),黑色牛仔帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strName""]",orange padded vest (repair),橙色滑雪背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=93]/../column[@name=""strName""]",blue dress shirt (repair),蓝领衬衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=93]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=93]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strName""]",balaclava (repair),巴拉克拉瓦头套 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strSecretName""]",alternate,备用的
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strName""]",woodland camo cap (repair),林地迷彩鸭舌帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strName""]",woodland camo hat (repair),林地迷彩高顶帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strName""]",tarp sleeping bag,防水布睡袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strName""]",workgear jacket (repair),工作装夹克 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=99]/../column[@name=""strName""]",workgear vest (repair),工作装背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=99]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=99]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strName""]",workgear cargo pants (repair),工作装工装裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strName""]",small backpack (repair),小背包 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strSecretName""]",child's backpack,儿童背包
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strName""]",DSL backpack (repair),底特律DSL工装背包 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strName""]",blue tracksuit hoodie (repair),蓝色运动连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strName""]",blue tracksuit pants (repair),蓝色运动裤 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strName""]",red cap (repair),红色鸭舌帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=106]/../column[@name=""strName""]",Ayotimiwa coveralls (repair),阿约提米瓦连体工作服 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=106]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=106]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=107]/../column[@name=""strName""]",Ayotimiwa sweatshirt (repair),阿约提米瓦运动连帽衫 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=107]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=107]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=108]/../column[@name=""strName""]",denim jean jacket (repair),羊绒衬牛仔夹克 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=108]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=108]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=109]/../column[@name=""strName""]",denim jean vest (repair),羊绒衬牛仔背心 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=109]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=109]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=110]/../column[@name=""strName""]",red bandana (repair),红色面巾 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=110]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=110]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=111]/../column[@name=""strName""]",blue cap (repair),蓝色鸭舌帽 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=111]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=111]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=112]/../column[@name=""strName""]",black beanie (repair),黑色无檐小便帽（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=112]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=112]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=113]/../column[@name=""strName""]",orange beanie (repair),橙色毛线帽（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=113]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=113]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=114]/../column[@name=""strName""]",hunting jacket (repair),狩猎夹克（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=114]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=114]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=115]/../column[@name=""strName""]",hunting pants (repair),狩猎裤（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=115]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=115]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=116]/../column[@name=""strName""]",white t-shirt (repair),白色T恤（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=116]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=116]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=117]/../column[@name=""strName""]",clergy shirt (repair),神职人员衬衫（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=117]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=117]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=118]/../column[@name=""strName""]",black dress vest (repair),黑色正装背心（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=118]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=118]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=119]/../column[@name=""strName""]",black dress pants (repair),黑色正装裤（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=119]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=119]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=120]/../column[@name=""strName""]",plaid white shirt (repair),白色格纹衬衫（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=120]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=120]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=121]/../column[@name=""strName""]",plaid white cap (repair),白色格纹帽（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=121]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=121]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=122]/../column[@name=""strName""]",leather shoulder pad,皮革肩垫
+"//table[@name=""recipes""]/column[@name=""nID""][text()=122]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=122]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=123]/../column[@name=""strName""]",leather shoulder pad (repair),皮革肩垫（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=123]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=123]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=124]/../column[@name=""strName""]",army glove (repair),军用手套 （修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=124]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=124]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=125]/../column[@name=""strName""]",army boot (repair),军靴（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=125]/../column[@name=""strSecretName""]",(left),（左）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=125]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=126]/../column[@name=""strName""]",army boot (repair),军靴（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=126]/../column[@name=""strSecretName""]",(right),（右）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=126]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=127]/../column[@name=""strName""]",balaclava (repair),巴拉克拉瓦头套（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=127]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=127]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=128]/../column[@name=""strName""]",army shirt (repair),军队恤（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=128]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=128]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=129]/../column[@name=""strName""]",urban camo jacket (repair),都市迷彩夹克（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=129]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=129]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=130]/../column[@name=""strName""]",urban camo pants (repair),都市迷彩裤（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=130]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=130]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=131]/../column[@name=""strName""]",oven mitten (repair),烤炉手套（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=131]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=131]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=132]/../column[@name=""strName""]",waterproof mitten (repair),防水手套（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=132]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=132]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=133]/../column[@name=""strName""]",dogman pelt headdress,狗人毛皮头饰
+"//table[@name=""recipes""]/column[@name=""nID""][text()=133]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=133]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=134]/../column[@name=""strName""]",dogman pelt gloves,狗人皮毛
+"//table[@name=""recipes""]/column[@name=""nID""][text()=134]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=134]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=135]/../column[@name=""strName""]",dogman pelt boots,狗人皮毛
+"//table[@name=""recipes""]/column[@name=""nID""][text()=135]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=135]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=136]/../column[@name=""strName""]",orange padded jacket (repair),橙色棉袄（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=136]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=136]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=137]/../column[@name=""strName""]",tarp overcloak (repair),防水布外衣（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=137]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=137]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=138]/../column[@name=""strName""]",tarp (repair),防水布（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=138]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=138]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=139]/../column[@name=""strName""]",woodland camo poncho (repair),"长征 ""战地"" 林地迷彩斗篷"
+"//table[@name=""recipes""]/column[@name=""nID""][text()=139]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=139]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=140]/../column[@name=""strName""]",clearweave overcoat (repair),"米勒 ""快乐天气"" 透明编制大衣"
+"//table[@name=""recipes""]/column[@name=""nID""][text()=140]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=140]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=141]/../column[@name=""strName""]",clearweave cloak (repair),编织披风
+"//table[@name=""recipes""]/column[@name=""nID""][text()=141]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=141]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=142]/../column[@name=""strName""]",clearweave cowl (repair),编织披肩帽
+"//table[@name=""recipes""]/column[@name=""nID""][text()=142]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=142]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=143]/../column[@name=""strName""]",red-colored fanny pack (repair),红色腰包（修复）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=143]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=143]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=144]/../column[@name=""strName""]",winter jacket (repair),工作装夹克 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=144]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=144]/../column[@name=""strType""]",gear,gear
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Bad Mutha hoodie,摇滚帮 连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Bad Mutha torsowear,摇滚帮 衬衫、连帽衫和外套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Bad Mutha pants and footwear,摇滚帮 裤子和鞋类
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",headrags,破布头套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",handrags,破布手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",footrags,裹脚破布
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",wearable plastic bag,可穿戴塑料袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",random clearweave coat,编织大衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",random coat,任意大衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",random glove,任意手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",tarp overcloak,防水布外衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",cleaner loadout,清洁工外衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",random shirt,任意衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",hobo gear,流浪汉装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",rawhide longcoat,生皮长外套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",hooded rawhide longcoat,生皮连帽长款大衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",makeshift shirt,临时衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",tarp,油布
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",brown t-shirt,棕色T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",GCC t-shirt,格雷大学T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",white AF t-shirt,白色阿勒根游园T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",red AF t-shirt,红色阿勒根游园T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",C-a-C t-shirt,米口可乐T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",banana t-shirt,香蕉T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",3dm t-shirt,三狗月 T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",UD t-shirt,都市狗子 T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",black shirt,黑色衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",gray shirt,灰色衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",white dress shirt,白领衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",plaid red shirt,红色格子衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",fishnet shirt,渔网衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",fishnet sleeveless shirt,渔网无袖衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",olive-colored hoodie,橄榄色连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",red-colored hoodie,红色连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",hunting vest,狩猎背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",plaid red cap,红色格子帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",black tracksuit hoodie,黑色运动连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",black tracksuit pants,黑色运动裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",workwear jacket,工作装夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",workwear vest,工作装背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",workwear cargo pants,工作装工装裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",grey and white ushanka,灰白苏联帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",bluejeans,蓝色牛仔裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",short shorts,超短牛仔裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",khaki cargo pants,卡其色工装裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",khaki cargo shorts,卡其色工装短裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",running shoe (left),跑鞋 (左)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",running shoe (right),跑鞋 (右)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",black cargo pants,黑色工装裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",tactical glove,战术手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",tactical boot (left),战术靴 (左)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",tactical boot (right),战术靴 (右)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",balaclava,巴拉克拉法帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",Blue Frog sash,蓝蛙饰带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",Sapphire Lily sash,蓝宝石百合饰带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=56]/../column[@name=""strName""]",tactical pistol holster,战术手枪套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",leather handgun holster,皮革手枪套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",leather sawoff holster,皮革截短猎枪套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",leather knife sheath,皮革刀鞘
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",leather sheath 3x,皮革刀鞘 3x
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",leather bandolier,皮革手袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",leather utility belt,皮革实用腰带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",leather cap,皮革帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=64]/../column[@name=""strName""]",leather vest,皮革背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=65]/../column[@name=""strName""]",matching leather gloves,皮革手套 x2
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=66]/../column[@name=""strName""]",leather glove,皮革手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=67]/../column[@name=""strName""]",matching leather boots,皮靴 x2
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=68]/../column[@name=""strName""]",leather boot (left),皮靴 (左)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=69]/../column[@name=""strName""]",leather boot (right),皮靴 (右)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=70]/../column[@name=""strName""]",rawhide quiver,生皮箭筒
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=71]/../column[@name=""strName""]",soft birch bag,软桦木包
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=72]/../column[@name=""strName""]",ghillie suit,吉利服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=73]/../column[@name=""strName""]",clearweave cloak,编织披风
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=74]/../column[@name=""strName""]",clearweave cowl,编织披肩帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=75]/../column[@name=""strName""]",random firefighter garment,任意消防员服装
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=76]/../column[@name=""strName""]",black hooded coat,黑色连帽大衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=77]/../column[@name=""strName""]",tactical chest rig,战术胸挂
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=78]/../column[@name=""strName""]",random jacket (No Hood),任意夹克 (无帽)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=79]/../column[@name=""strName""]",Stalker pants and footwear,潜行者裤装和鞋类
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=80]/../column[@name=""strName""]",DMC black beret,底特律黑色贝雷帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=81]/../column[@name=""strName""]",cowboy hat,牛仔帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=82]/../column[@name=""strName""]",shemagh,阿拉伯头巾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=83]/../column[@name=""strName""]",shemagh styles (neutral),头巾样式 (中立)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=84]/../column[@name=""strName""]",shemagh styles (raider),头巾样式 (袭击者)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=85]/../column[@name=""strName""]",random sunglasses,任意太阳眼镜
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=86]/../column[@name=""strName""]",camo netting,迷彩网
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=87]/../column[@name=""strName""]",Martha's Army shirts and jacket,玛莎军衬衫和夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=88]/../column[@name=""strName""]",Martha's Army pants,玛莎军裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=89]/../column[@name=""strName""]",Martha's Army footwear,玛莎军鞋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=90]/../column[@name=""strName""]",matching pack boots,配套包靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=91]/../column[@name=""strName""]",matching tactical boot,配套战术靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=92]/../column[@name=""strName""]",matching running shoes,配套跑鞋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=93]/../column[@name=""strName""]",matching sandals,配套沙滩鞋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=94]/../column[@name=""strName""]",matching gator shoes,配套鳄鱼鞋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=95]/../column[@name=""strName""]","leather cap, vest, glove, shoulder pad, holsters, boots",配套皮靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=96]/../column[@name=""strName""]",matching firefighter boots,配套消防靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=97]/../column[@name=""strName""]",woodland camo jacket,林地迷彩夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=98]/../column[@name=""strName""]",woodland camo pants,林地迷彩裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=99]/../column[@name=""strName""]",grey-colored hoodie,灰色连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=100]/../column[@name=""strName""]",blackjeans,黑色牛仔裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=101]/../column[@name=""strName""]",looter jacket,拾荒者夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=102]/../column[@name=""strName""]",looter coat,拾荒者外套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=103]/../column[@name=""strName""]",black-colored cowboy hat,黑色牛仔帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=104]/../column[@name=""strName""]",orange-colored padded vest,橙色滑雪背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=105]/../column[@name=""strName""]",Butcher Boy hats,屠夫男孩帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=106]/../column[@name=""strName""]",blue dress shirt,蓝领衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=107]/../column[@name=""strName""]",balaclava (alternate),巴拉克拉瓦头套 (变种)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=108]/../column[@name=""strName""]",woodland camo cap,林地迷彩鸭舌帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=109]/../column[@name=""strName""]",woodland camo hat,林地迷彩高顶帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=110]/../column[@name=""strName""]",Martha's Army headgear,玛莎军头饰
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=111]/../column[@name=""strName""]",tarp sleeping bag,防水布睡袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=112]/../column[@name=""strName""]",disassembled tarp item,拆卸的防水布项目
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=113]/../column[@name=""strName""]",matching rubber boots,配套橡胶靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=114]/../column[@name=""strName""]",matching rubber gloves,配套橡胶手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=115]/../column[@name=""strName""]",yellow hard hat,黄色安全帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=116]/../column[@name=""strName""]",white hard hat,白色安全帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=117]/../column[@name=""strName""]",DSL workgear jacket,底特律DSL工装夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=118]/../column[@name=""strName""]",DSL workgear vest,底特律DSL工装背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=119]/../column[@name=""strName""]",DSL workgear cargo pants,底特律DSL工装工装裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=120]/../column[@name=""strName""]",Workwear mechanic clothing,工作装技工服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=121]/../column[@name=""strName""]",DSL mechanic clothing,底特律DSL工装技工服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=122]/../column[@name=""strName""]",Workwear electrician clothing,工作装电工服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=123]/../column[@name=""strName""]",DSL electrician clothing,底特律DSL工装电工服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=124]/../column[@name=""strName""]",DSL workgear t-shirt and cap,底特律DSL工装T恤和帽子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=125]/../column[@name=""strName""]",child's backpack,儿童背包
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=126]/../column[@name=""strName""]",DSL backpack,底特律DSL工装背包
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=127]/../column[@name=""strName""]",blue tracksuit hoodie,蓝色运动连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=128]/../column[@name=""strName""]",blue tracksuit pants,蓝色运动裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=129]/../column[@name=""strName""]",red-colored cap,红色鸭舌帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=130]/../column[@name=""strName""]",Bandit hats,摇滚帮帽子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=131]/../column[@name=""strName""]",medical face masks,医疗保健口罩
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=132]/../column[@name=""strName""]",Ayotimiwa coveralls,阿约提米瓦连体工作服
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=133]/../column[@name=""strName""]",Ayotimiwa sweatshirt,阿约提米瓦运动连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=134]/../column[@name=""strName""]",sherpa-lined denim jean jacket,羊绒衬牛仔夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=135]/../column[@name=""strName""]",sherpa-lined denim jean vest,羊绒衬牛仔背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=136]/../column[@name=""strName""]",red-colored bandana,红色面巾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=137]/../column[@name=""strName""]",blue-colored cap,蓝色鸭舌帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=138]/../column[@name=""strName""]",random neutral hats,任意中立帽子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=139]/../column[@name=""strName""]",Bad Mutha faction gear,摇滚帮派系装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=140]/../column[@name=""strName""]",black-colored beanie,黑色毛线帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=141]/../column[@name=""strName""]",orange-colored beanie,橙色毛线帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=142]/../column[@name=""strName""]",hunting jacket,狩猎夹克
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=143]/../column[@name=""strName""]",hunting pants,狩猎裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=144]/../column[@name=""strName""]",white t-shirt,白色T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=145]/../column[@name=""strName""]",clergy shirt,神职人员衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=146]/../column[@name=""strName""]",black dress vest,黑色礼服背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=147]/../column[@name=""strName""]",black dress pants,黑色礼服裤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=148]/../column[@name=""strName""]",plaid white shirt,白色格纹衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=149]/../column[@name=""strName""]",plaid white cap,白色格纹帽
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=150]/../column[@name=""strName""]",leather shoulder pad,皮革肩垫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=151]/../column[@name=""strName""]",army glove,军用手套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=152]/../column[@name=""strName""]",army boot (left),军靴（左）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=153]/../column[@name=""strName""]",army boot (right),军靴（右）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=154]/../column[@name=""strName""]",army balaclava,军用巴拉克拉瓦头套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=155]/../column[@name=""strName""]",matching army boots,配套军靴
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=156]/../column[@name=""strName""]",random army gear,random army gear
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=157]/../column[@name=""strName""]","leather glove, army glove or tactical glove","leather glove, army glove or tactical glove"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=158]/../column[@name=""strName""]",army shirt,军队T恤
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=159]/../column[@name=""strName""]",hostile facemasks,hostile facemasks
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=160]/../column[@name=""strName""]",urban camo jacket,urban camo jacket
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=161]/../column[@name=""strName""]",urban camo pants,urban camo pants
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=162]/../column[@name=""strName""]",oven mitten,oven mitten
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=163]/../column[@name=""strName""]",waterproof mitten,waterproof mitten
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=164]/../column[@name=""strName""]",matching dress shoes,matching dress shoes
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=165]/../column[@name=""strName""]",Dogman fur headdress and fur patches,Dogman Fur Headdress and Fur Patches
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=166]/../column[@name=""strName""]",Dogman fur gloves and fur patches,狗人毛皮手套和毛皮补丁
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=167]/../column[@name=""strName""]",Dogman fur boots and fur patches,狗人皮靴和毛皮补丁
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=168]/../column[@name=""strName""]",orange-colored padded jacket,橙色滑雪背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=169]/../column[@name=""strName""]",woodland camo poncho,"长征 ""战地"" 林地迷彩斗篷"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=170]/../column[@name=""strName""]",clearweave overcoat,"米勒 ""快乐天气"" 透明编制大衣"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=171]/../column[@name=""strName""]",red-colored fanny pack,红色连帽衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=172]/../column[@name=""strName""]",winter coat,任意大衣

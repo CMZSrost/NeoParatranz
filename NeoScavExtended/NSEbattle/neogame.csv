@@ -1,0 +1,1788 @@
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",baseball bat swing,棒球棒挥击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=1]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=1]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=1]/../column[@name=""vAttackPhrases""]","swings at,thrusts at","swings at,thrusts at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",spiked bat swing,狼牙棒挥击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=2]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=2]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=2]/../column[@name=""vAttackPhrases""]","swings at,thrusts at","swings at,thrusts at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",brass knuckles punch,指虎拳击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=3]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=3]/../column[@name=""strWieldPhrase""]","raises their fists,ready to fight","raises their fists,ready to fight"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=3]/../column[@name=""vAttackPhrases""]","swings at,jabs at,roundhouses,gut-punches","swings at,jabs at,roundhouses,gut-punches"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",tactical baton swing,战术甩棍
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=4]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=4]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=4]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",shield push,盾牌推击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=5]/../column[@name=""strNotes""]",riot,暴动
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=5]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=5]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",tactical knife stab,战术小刀戳刺
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=6]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=6]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=6]/../column[@name=""vAttackPhrases""]","swings at,thrusts at,stabs at","swings at,thrusts at,stabs at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",throwing knife stab,投掷匕首戳刺
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=7]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=7]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=7]/../column[@name=""vAttackPhrases""]","swings at,thrusts at,stabs at","swings at,thrusts at,stabs at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",throwing knife throw,投掷匕首
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=8]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=8]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=8]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Anishinaabe knife stab,ATN部落刀戳刺
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=9]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=9]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=9]/../column[@name=""vAttackPhrases""]","swings at,thrusts at,stabs at","swings at,thrusts at,stabs at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Anishinaabe knife throw,投掷ATN部落匕首
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=10]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=10]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=10]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",scrap knife stab,废料刀戳刺
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=11]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=11]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=11]/../column[@name=""vAttackPhrases""]","swings at,thrusts at,stabs at","swings at,thrusts at,stabs at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",scrap knife throw,投掷废料刀
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=12]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=12]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=12]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",scrap machete slash,废料砍刀斜击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=13]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=13]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=13]/../column[@name=""vAttackPhrases""]","swings at,thrusts at","swings at,thrusts at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",shield bash,盾牌推击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=14]/../column[@name=""strNotes""]",scrap metal,废金属
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=14]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=14]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",broadhead arrow shot,宽头箭头射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=15]/../column[@name=""strNotes""]",compound bow w/quiver,带箭筒的复合弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=15]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=15]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",crude piercing arrow shot,粗制刺穿箭射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=16]/../column[@name=""strNotes""]",compound bow w/quiver,带箭筒的复合弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=16]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=16]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",crude broadhead arrow shot,粗制宽头箭射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=17]/../column[@name=""strNotes""]",compound bow w/quiver,带箭筒的复合弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=17]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=17]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",nail board bash,钉板猛击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=18]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=18]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=18]/../column[@name=""vAttackPhrases""]","swings at,thrusts at","swings at,thrusts at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",shield bash,盾牌猛击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=19]/../column[@name=""strNotes""]",wooden,木质
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=19]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=19]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",sharpened spear throw,投掷磨尖的长矛
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=20]/../column[@name=""strNotes""]",Strapped,捆绑的
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=20]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=20]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",hardened spear throw,投掷硬化长矛
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=21]/../column[@name=""strNotes""]",Strapped,捆绑的
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=21]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=21]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",broad spear throw,投掷宽长矛
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=22]/../column[@name=""strNotes""]",Strapped,捆绑的
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=22]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=22]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=23]/../column[@name=""strNotes""]",sawoff,短截
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=23]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=23]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=24]/../column[@name=""strNotes""]",sawoff,短截
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=24]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=24]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=25]/../column[@name=""strNotes""]",suppressed standard pistol,标准消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=25]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=25]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=26]/../column[@name=""strNotes""]",suppressed standard pistol,标准消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=26]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=26]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=27]/../column[@name=""strNotes""]",SBS4NoStock,SBS4无枪托
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=27]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=27]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=28]/../column[@name=""strNotes""]",SBS4NoStock,SBS4无枪托
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=28]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=28]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=29]/../column[@name=""strNotes""]",hunting rifle,猎枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=29]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=29]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=30]/../column[@name=""strNotes""]",scoped hunting rifle,带瞄准镜的猎枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=30]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=30]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=31]/../column[@name=""strNotes""]",standard revolver,标准左轮手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=31]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=31]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=32]/../column[@name=""strNotes""]",standard pistol,标准手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=32]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=32]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=33]/../column[@name=""strNotes""]",suppressed standard pistol,标准消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=33]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=33]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=34]/../column[@name=""strNotes""]",Makeshift rifle,简易步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=34]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=34]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=35]/../column[@name=""strNotes""]",Makeshift rifle,简易步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=35]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=35]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",.308 AP round,.308 AP子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=36]/../column[@name=""strNotes""]",Makeshift rifle,简易步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=36]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=36]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=37]/../column[@name=""strNotes""]",Makeshift scoped rifle,简易瞄准步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=37]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=37]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=38]/../column[@name=""strNotes""]",Makeshift scoped rifle,简易瞄准步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=38]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=38]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=39]/../column[@name=""strNotes""]",Makeshift scoped rifle,简易瞄准步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=39]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=39]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=40]/../column[@name=""strNotes""]",Makeshift short,简易短管
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=40]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=40]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=41]/../column[@name=""strNotes""]",Makeshift short,简易短管
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=41]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=41]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=42]/../column[@name=""strNotes""]",Makeshift long,简易长管
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=42]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=42]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=43]/../column[@name=""strNotes""]",Makeshift long,简易长管
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=43]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=43]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=44]/../column[@name=""strNotes""]",Makeshift pistol,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=44]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=44]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=45]/../column[@name=""strNotes""]",Makeshift pistol,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=45]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=45]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=46]/../column[@name=""strNotes""]",Makeshift pistol,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=46]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=46]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=47]/../column[@name=""strNotes""]",Perforator,钻孔
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=47]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=47]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=48]/../column[@name=""strNotes""]",SBS4,SBS4
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=48]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=48]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=49]/../column[@name=""strNotes""]",sawoff,短截
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=49]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=49]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=50]/../column[@name=""strNotes""]",SBS4 sawoff,SBS4 短截
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=50]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=50]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=51]/../column[@name=""strNotes""]",Makeshift,简易
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=51]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=51]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=52]/../column[@name=""strNotes""]",Makeshift,简易
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=52]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=52]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",thrown ball bearing,投掷钢珠
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=53]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=53]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=53]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",slung ball bearing,弹弓射出钢珠
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=54]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=54]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=54]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",ball bearing shot,钢珠射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=55]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=55]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=55]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=56]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=56]/../column[@name=""strNotes""]",Makeshift,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=56]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=56]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=57]/../column[@name=""strNotes""]",Makeshift,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=57]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=57]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=58]/../column[@name=""strNotes""]",Makeshift,简易手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=58]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=58]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=59]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=59]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=59]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=60]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=60]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=60]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=61]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=61]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=61]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=62]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=62]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=62]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=63]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=63]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=63]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=64]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=64]/../column[@name=""strNotes""]",Zipgun,Zipgun
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=64]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=64]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=65]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=65]/../column[@name=""strNotes""]",snub nose,短管左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=65]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=65]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=66]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=66]/../column[@name=""strNotes""]",snub nose,短管左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=66]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=66]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=67]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=67]/../column[@name=""strNotes""]",snub nose,短管左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=67]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=67]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=68]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=68]/../column[@name=""strNotes""]",bull,公牛左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=68]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=68]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=69]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=69]/../column[@name=""strNotes""]",bull,公牛左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=69]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=69]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=70]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=70]/../column[@name=""strNotes""]",bull,公牛左轮
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=70]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=70]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=71]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=71]/../column[@name=""strNotes""]",heavy,重型
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=71]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=71]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=72]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=72]/../column[@name=""strNotes""]",heavy,重型
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=72]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=72]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=73]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=73]/../column[@name=""strNotes""]",heavy,重型
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=73]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=73]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=74]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=74]/../column[@name=""strNotes""]",heavy suppressed,重型消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=74]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=74]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=75]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=75]/../column[@name=""strNotes""]",heavy suppressed,重型消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=75]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=75]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=76]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=76]/../column[@name=""strNotes""]",heavy suppressed,重型消音手枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=76]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=76]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=77]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=77]/../column[@name=""strNotes""]",SawOff rifle,短截步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=77]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=77]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=78]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=78]/../column[@name=""strNotes""]",SawOff rifle,短截步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=78]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=78]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=79]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=79]/../column[@name=""strNotes""]",SawOff rifle,短截步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=79]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=79]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=80]/../column[@name=""strName""]",stun dart shot,飞镖射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=80]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=80]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=80]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=81]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=81]/../column[@name=""strNotes""]",Scout rifle,侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=81]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=81]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=82]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=82]/../column[@name=""strNotes""]",Scout rifle,侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=82]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=82]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=83]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=83]/../column[@name=""strNotes""]",Scout rifle,侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=83]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=83]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=84]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=84]/../column[@name=""strNotes""]",Scout scoped rifle,带瞄准镜侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=84]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=84]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=85]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=85]/../column[@name=""strNotes""]",Scout scoped rifle,带瞄准镜侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=85]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=85]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=86]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=86]/../column[@name=""strNotes""]",Scout scoped rifle,带瞄准镜侦察步枪
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=86]/../column[@name=""strWieldPhrase""]","peers through their scoped .308, lining up a shot at","peers through their scoped .308, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=86]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=87]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=87]/../column[@name=""strNotes""]",standard pistol w/holosight,标准手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=87]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=87]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=88]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=88]/../column[@name=""strNotes""]",standard pistol w/holosight,标准手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=88]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=88]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=89]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=89]/../column[@name=""strNotes""]",standard pistol w/holosight,标准手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=89]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=89]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=90]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=90]/../column[@name=""strNotes""]",heavy w/holosight,重型手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=90]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=90]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=91]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=91]/../column[@name=""strNotes""]",heavy w/holosight,重型手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=91]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=91]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=92]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=92]/../column[@name=""strNotes""]",heavy w/holosight,重型手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=92]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=92]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=93]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=93]/../column[@name=""strNotes""]",suppressed standard w/holosight,标准消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=93]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=93]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=94]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=94]/../column[@name=""strNotes""]",suppressed standard w/holosight,标准消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=94]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=94]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=95]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=95]/../column[@name=""strNotes""]",suppressed standard w/holosight,标准消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=95]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=95]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=96]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=96]/../column[@name=""strNotes""]",heavy suppressed w/holosight,重型消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=96]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=96]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=97]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=97]/../column[@name=""strNotes""]",heavy suppressed w/holosight,重型消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=97]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=97]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=98]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=98]/../column[@name=""strNotes""]",heavy suppressed w/holosight,重型消音手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=98]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=98]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=99]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=99]/../column[@name=""strNotes""]",standard revolver w/holosight,标准左轮手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=99]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=99]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=100]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=100]/../column[@name=""strNotes""]",standard revolver w/holosight,标准左轮手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=100]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=100]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=101]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=101]/../column[@name=""strNotes""]",standard revolver w/holosight,标准左轮手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=101]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=101]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=102]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=102]/../column[@name=""strNotes""]",snub nose w/holosight,短管左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=102]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=102]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=103]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=103]/../column[@name=""strNotes""]",snub nose w/holosight,短管左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=103]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=103]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=104]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=104]/../column[@name=""strNotes""]",snub nose w/holosight,短管左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=104]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=104]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=105]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=105]/../column[@name=""strNotes""]",bull w/holosight,公牛左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=105]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=105]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=106]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=106]/../column[@name=""strNotes""]",bull w/holosight,公牛左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=106]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=106]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=107]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=107]/../column[@name=""strNotes""]",bull w/holosight,公牛左轮 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=107]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=107]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=108]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=108]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=108]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=108]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=109]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=109]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=109]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=109]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=110]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=110]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=110]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=110]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=111]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=111]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=111]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=111]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=112]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=112]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=112]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=112]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=113]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=113]/../column[@name=""strNotes""]",Makeshift pistol w/holosight,简易手枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=113]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=113]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=114]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=114]/../column[@name=""strNotes""]",SawOff rifle w/holosight,短截步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=114]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=114]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=115]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=115]/../column[@name=""strNotes""]",SawOff rifle w/holosight,短截步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=115]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=115]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=116]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=116]/../column[@name=""strNotes""]",SawOff rifle w/holosight,短截步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=116]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=116]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=117]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=117]/../column[@name=""strNotes""]",hunting rifle w/holosight,猎枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=117]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=117]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=118]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=118]/../column[@name=""strNotes""]",hunting rifle w/holosight,猎枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=118]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=118]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=119]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=119]/../column[@name=""strNotes""]",hunting rifle w/holosight,猎枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=119]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=119]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=120]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=120]/../column[@name=""strNotes""]",Scout rifle w/holosight,侦察步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=120]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=120]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=121]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=121]/../column[@name=""strNotes""]",Scout rifle w/holosight,侦察步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=121]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=121]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=122]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=122]/../column[@name=""strNotes""]",Scout rifle w/holosight,侦察步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=122]/../column[@name=""strWieldPhrase""]",readies their .308 scout rifle,readies their .308 scout rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=122]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=123]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=123]/../column[@name=""strNotes""]",Makeshift rifle w/holosight,简易步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=123]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=123]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=124]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=124]/../column[@name=""strNotes""]",Makeshift rifle w/holosight,简易步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=124]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=124]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=125]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=125]/../column[@name=""strNotes""]",Makeshift rifle w/holosight,简易步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=125]/../column[@name=""strWieldPhrase""]",readies their .308 hunting rifle,readies their .308 hunting rifle
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=125]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their .308 at,takes a shot at,fires at","pops a shot off at,fires their .308 at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=126]/../column[@name=""strName""]",4mm Gauss round,4mm 高斯子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=126]/../column[@name=""strNotes""]",gauss rifle w/holosight,高斯步枪 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=126]/../column[@name=""strWieldPhrase""]","peers through their Gauss rifle, lining up a shot at","peers through their Gauss rifle, lining up a shot at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=126]/../column[@name=""vAttackPhrases""]","pops a shot off at,fires their Gauss rifle at,takes a shot at,fires at","pops a shot off at,fires their Gauss rifle at,takes a shot at,fires at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=127]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=127]/../column[@name=""strNotes""]",Perforator w/holosight,穿孔器 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=127]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=127]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=128]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=128]/../column[@name=""strNotes""]",Perforator w/holosight,穿孔器 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=128]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=128]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=129]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=129]/../column[@name=""strNotes""]",Perforator w/holosight,穿孔器 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=129]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=129]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=130]/../column[@name=""strName""]",12-gauge 00 buckshot,12口径00铅弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=130]/../column[@name=""strNotes""]",SBS4 w/holosight,SBS4 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=130]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=130]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=131]/../column[@name=""strName""]",12-gauge slug,12口径子弹
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=131]/../column[@name=""strNotes""]",SBS4 w/holosight,SBS4 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=131]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=131]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=132]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=132]/../column[@name=""strNotes""]",SBS4 w/holosight,SBS4 带全息瞄准镜
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=132]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=132]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=133]/../column[@name=""strName""]",broadhead arrow shot,宽头箭头射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=133]/../column[@name=""strNotes""]",upgraded bow,升级的弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=133]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=133]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=134]/../column[@name=""strName""]",crude piercing arrow shot,粗制刺穿箭射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=134]/../column[@name=""strNotes""]",upgraded bow,升级的弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=134]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=134]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=135]/../column[@name=""strName""]",crude broadhead arrow shot,粗制宽头箭射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=135]/../column[@name=""strNotes""]",upgraded bow,升级的弓
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=135]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=135]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=136]/../column[@name=""strName""]",ornamental katana slash,装饰性武士刀斜线
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=136]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=136]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=136]/../column[@name=""vAttackPhrases""]","swings at,thrusts at","swings at,thrusts at"
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=137]/../column[@name=""strName""]",slung pebble,弹射鹅卵石
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=137]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=137]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=137]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=138]/../column[@name=""strName""]",slung stone,弹射石头
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=138]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=138]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=138]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=139]/../column[@name=""strName""]",slung ball bearing,弹弓射出钢珠
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=139]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=139]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=139]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=140]/../column[@name=""strName""]",Anishinaabe spear stab,ATN部落刀戳刺
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=140]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=140]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=140]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=141]/../column[@name=""strName""]",Anishinaabe spear throw,投掷ATN部落匕首
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=141]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=141]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=141]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=142]/../column[@name=""strName""]",Anishinaabe spear throw,投掷ATN部落匕首
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=142]/../column[@name=""strNotes""]",Strapped,捆绑的
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=142]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=142]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=143]/../column[@name=""strName""]",poison dart shot,飞镖射击
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=143]/../column[@name=""strNotes""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=143]/../column[@name=""strWieldPhrase""]",,
+"//table[@name=""attackmodes""]/column[@name=""id""][text()=143]/../column[@name=""vAttackPhrases""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Melee attack,近战攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strNotes""]",Hidden,隐蔽
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strPopUp""]","Melee attack 
+Use current melee attack on target.
+Must see target.
+Low chance of making you vulnerable.
+High chance of being detected if hidden.
+","近战攻击 使用当前的近战武器攻击目标。必须看到目标。低几率使你露出破绽。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strNotes""]",Hidden,隐蔽
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Low chance of making you vulnerable.
+Chance of being detected if hidden.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。低几率使你露出破绽。如果隐藏，有被发现的机会。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Take Aim,瞄准
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strSuccess""]",<us> aims down at <them>!,<us> 瞄准 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strPopUp""]","Take Aim
+Takes aim for a better chance to hit target.
+Must see target.
+Can be interrupted.
+Only available at long range.
+","瞄准 瞄准以获得更好的机会击中目标。必须看到目标。可以被打断。仅在远程可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strNotes""]",aimed shot,瞄准射击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Chance of making you vulnerable.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。有几率让你变得脆弱。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strNotes""]",prone,俯卧
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Low chance of making you vulnerable.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。低几率使你露出破绽。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Blast away,猛烈开火
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strNotes""]",prone,俯卧
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strSuccess""]","<us> unloads on <them>, pinning them down!","<us> 疯狂射击 <them>, 使得后者被压制得抬不起头!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strFail""]","<us> unloads on <them>, pinning them down!","<us> 想扫射 <them>, 但没有一发射中!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strPopUp""]","Blast away
+Launch a volley of ranged attacks at target.
+Chance to hit target 3 times.
+Forces target to take cover and is suppressed.
+Must see target.
+High chance of being detected if hidden.
+","猛烈开火 向目标发起一连串的远程攻击。有机会命中目标3次。迫使目标寻求掩护并被压制。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Empty Hands,腾出双手
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strSuccess""]",<us> quickly drops the items being carried to empty their hards for combat!,<us> 迅速放下所有影响战斗的物品以进行战斗!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strPopUp""]","Empty Hands
+Drops cumbersome items in the hands onto the ground.
+Makes you harder to hit this turn.
+Must be unable to use attacks.",腾出双手 将手中的笨重物品放在地上。让你在这个回合更难命中。无法使用攻击。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Lure Away,分散注意
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strSuccess""]",<us> lures <them> away.,<us> 把 <them> 的注意力。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strPopUp""]","Lure away 
+Lures the target 1 space away from you.
+Will distract target for 1 turn.
+Must see target, and target must not see you yet.
+Low chance of being detected if hidden.
+Not always available.
+","分散注意 引诱目标远离你 1 格。会分散目标注意力1回合。必须看到目标，且目标尚未看到你。如果隐藏，被发现的可能性很小。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Lure In,诱敌深入
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strSuccess""]",<us> lures <them> closer.,<us> 把 <them> 靠近。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strPopUp""]","Lure in
+Lures the target 1 space closer to you.
+Will distract target for 1 turn.
+Must see target, and target must not see you yet.
+Low chance of being detected if hidden.
+Not always available.
+","诱敌深入 引诱目标靠近你 1 格。会分散目标1回合。必须看到目标，且目标尚未看到你。如果隐藏，被发现的可能性很小。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Get Down,卧倒
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strSuccess""]",<us> gets down.,<us> 卧倒
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strPopUp""]","Get Down
+Go down into prone position.
+Increases ranged attack hit chance with specific weapons.
+Chance of being detected if hidden.",卧倒 俯卧。增加特定武器的远程攻击命中率。如果隐藏，有被发现的机会。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",Taunt,嘲讽
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strSuccess""]",<us> taunts <them>!,<us> 嘲讽 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strPopUp""]","Taunt
+Mocks the target in an attempt to make them less likely to retreat.
+Will affect nearby enemies.
+Will distract you for 1 turn.
+Must see target.
+Target must see you.",嘲讽 嘲弄目标，试图让他们不太可能撤退。会影响附近的敌人。会分散你 1 回合的注意力。必须看到目标。目标必须看到你。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",A handful for an Eye,以沙还眼
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strSuccess""]",<us> throws dirt at <them>!,<us> 向 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strPopUp""]","A handful for an Eye
+A simple yet effective method of improving your odds of survival.
+Must be fallen.
+Can be used while recovering.
+Will stun target for 1 turn.
+Will make target retreat 1 space away.
+Must see target.
+Target must see you.
+Not always available.",以沙还眼 一种能让你活下来简单而有效的方法。必须倒地状态。恢复时可以使用。会眩晕目标1回合。会使目标撤退1格外。必须看到目标。目标必须看到你。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Kick,踢踹
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strSuccess""]",<us> kicks <them>!,<us> 趁着 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strFail""]",<us> tries to kick <them>...but misses!,<us> 想趁着 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strPopUp""]","Kick 
+Kick the target.
+Chance to injure target, knock them down, and force them to lose 1 turn.
+Must be in melee range.
+Must see target.
+High chance of being detected if hidden.
+Not always available.
+","踢 踢目标。有几率伤害目标，使其倒地并失去下一回合行动机会。必须在近战范围内。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Charge Kick!,飞踹!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strSuccess""]",<us> kicks <them>!,<us> 趁着 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strFail""]",<us> tries to kick <them>...but misses!,<us> 想趁着 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strPopUp""]","Charge Kick! 
+Kick the target.
+Chance to injure target, knock them down, and force them to lose 1 turn.
+Must be charging and in melee range.
+Pushes the target away.
+Must see target.
+High chance of being detected if hidden.
+","飞踹!踢目标。有几率伤害目标，使其倒地并失去下一回合行动机会。必须在冲锋且处于近战范围内。将目标推开。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",Threaten,威胁
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strNotes""]",Torch,火把
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strSuccess""]",<us> threatens <them> with their torch!,<us> 威胁 <them> !
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strPopUp""]","Threaten with Torch
+Swing torch in a defensive manner.
+Only affects creatures fearful of fire.
+Chance to reveal hidden targets.
+High chance of being detected if hidden.
+","用火把威胁 以自卫的方式挥动火炬。只影响怕火的生物。有机会发现隐藏的目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",Threaten with Flare,用信号弹威胁
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strSuccess""]",<us> threatens <them> with their flare!,<us> 威胁 <them> !
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strPopUp""]","Threaten with Flare
+Swings flare to try to deter the target.
+Only affects wild animals or those who are fearful of fire.
+Chance to reveal hidden targets.
+High chance of being detected if hidden.
+","用信号弹威胁 挥舞信号弹以试图阻止目标。只影响野生动物或怕火的人。有机会发现隐藏的目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",Threaten with Smudge Stick,用桃木棒威胁
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strSuccess""]",<us> threatens <them> with their Giizhik smudge stick!,<us> 威胁 <them> !
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strPopUp""]","Threaten with Smudge Stick
+Swings smudge stick to try to deter the target.
+Affects wild animals or those who are fearful of fire.
+Affects some supernatural targets.
+Chance to reveal hidden targets.
+High chance of being detected if hidden.
+","用桃木棒威胁 挥舞桃木棒以试图阻止目标。影响野生动物或怕火的人。影响某些超自然目标。有几率发现隐藏目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",Take cover,掩护
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strNotes""]",DMC Guard (armed enemy),底特律警卫（武装敌人）
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strSuccess""]",<us> takes cover from <them>.,<us> 寻找掩护以躲避 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strPopUp""]","Take cover 
+Dives behind best cover terrain can provide.
+Must be at least 1 space away from all enemies.
+Low chance of being detected if hidden.
+","掩护 跳到地形提供的最佳掩护处。必须至少离所有敌人1格。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",Advance under cover,掩体中前进
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strNotes""]",DMC Guard (flank),底特律警卫 (侧翼)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strSuccess""]",<us> advances towards <them> under cover.,<us> 靠近 <them> .
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strPopUp""]","Advance under cover
+Moves 1 space closer to target maintaining cover.
+Must see target.
+Low chance of tripping on terrain.
+Chance of being detected if hidden.
+","掩体中前进 向目标移动1格，保持掩护。必须看到目标。在地形上跌倒的机会很小。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",Charge!,冲锋!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strNotes""]",DMC Guard (flank),底特律警卫 (侧翼)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strSuccess""]",<us> charges at <them>.,<us> 向 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strPopUp""]","Charge! 
+Moves 2-3 spaces towards target.
+Must see target.
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+","冲锋!向目标移动2-3格。必须看到目标。移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",Get Down,卧倒
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strNotes""]",DMC Guard (under fire),底特律警卫 (交火)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strSuccess""]",<us> gets down.,<us> 卧倒
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strPopUp""]","Get Down
+Go down into prone position.
+Increases ranged attack hit chance with specific weapons.",卧倒 俯卧。增加特定武器的远程攻击命中率。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Dodge,躲闪
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strNotes""]",DMC Guard,底特律守卫
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strSuccess""]",<us> dodges <them>'s move.,<us> 闪避着 <them>的动作.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strPopUp""]","Dodge 
+Duck the target's next attack, making you harder to hit.
+Chance to move 1 space away from target.
+Must see target.
+Chance of being detected if hidden.
+Not always available.
+","躲闪 闪避目标的下一次攻击，让你更难被击中。有机会远离目标 1 格。必须看到目标。如果隐藏，有被发现的可能性。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Parry,格挡
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strNotes""]",DMC Guard,底特律守卫
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strSuccess""]",<us> parries <them>'s move.,<us> 格挡了 <them>的动作.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strPopUp""]","Parry 
+Parry the target's next attack, making you much harder to hit.
+Must be in melee range.
+Must see target.
+Chance of being detected if hidden.
+Not always available.
+","格挡 格挡目标的下一次攻击，使你难以被击中。必须在近战范围内。必须看到目标。如果隐藏，有被发现的可能性。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",Blast away,猛烈开火
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strNotes""]",DMC Guard (suppressive fire),底特律警卫 (火力压制)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strSuccess""]","<us> unloads on <them>, pinning them down!","<us> 疯狂射击 <them>, 使得后者被压制得抬不起头!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strFail""]","<us> unloads on <them>, pinning them down!","<us> 想扫射 <them>, 但没有一发射中!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strPopUp""]","Blast away 
+Launch a volley of ranged attacks at target.
+Chance to hit target 3 times.
+Forces target to take cover and is suppressed.
+Must see target.
+High chance of being detected if hidden.
+","猛烈开火 向目标发起一连串的远程攻击。有机会命中目标3次。迫使目标寻求掩护并被压制。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",Blast away,猛烈开火
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strNotes""]",DMC Guard (prone suppressive fire),底特律警卫 (卧倒火力压制)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strSuccess""]","<us> unloads on <them>, pinning them down!","<us> 疯狂射击 <them>, 使得后者被压制得抬不起头!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strFail""]","<us> unloads on <them>, pinning them down!","<us> 想扫射 <them>, 但没有一发射中!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strPopUp""]","Blast away
+Launch a volley of ranged attacks at target.
+Chance to hit target 3 times.
+Forces target to take cover and is suppressed.
+Must see target.
+High chance of being detected if hidden.
+","猛烈开火 向目标发起一连串的远程攻击。有机会命中目标3次。迫使目标寻求掩护并被压制。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",Shoot Blindly,盲目射击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strNotes""]",DMC Guard (recon by fire),底特律警卫 (火力侦察)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strSuccess""]",<us> fires into the darkness...and hits!,<us> 向暗处射击...射中什么了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strFail""]",<us> fires into the darkness...but misses!,<us> 向暗处射击...但什么都没有射中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strPopUp""]","Shoot Blindly
+Use current ranged attack against an unseen target.
+Slim chance to hit target.",盲目射击 使用目前的远程武器攻击一个看不见的目标。击中目标的机会很小。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",Shoot Blindly,盲目射击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strNotes""]",DMC Guard (prone recon by fire),底特律警卫 (卧倒火力侦察)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strSuccess""]",<us> fires into the darkness...and hits!,<us> 向暗处射击...射中什么了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strFail""]",<us> fires into the darkness...but misses!,<us> 向暗处射击...但什么都没有射中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strPopUp""]","Shoot Blindly
+Use current ranged attack against an unseen target.
+Slim chance to hit target.",盲目射击 使用目前的远程武器攻击一个看不见的目标。击中目标的机会很小。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",Return Fire,还击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strSuccess""]",<us> fires back into the darkness...and hits!,<us> 射回黑暗中……并击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strFail""]",<us> fires back into the darkness...but misses!,<us> 射回黑暗中……但未击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strPopUp""]","Return Fire
+Use current ranged attack against an unseen target.
+Available if hidden target is using ranged attacks.
+Small chance to hit target.",还击 对看不见的目标使用当前远程攻击。如果隐藏目标正在使用远程攻击，则可用。击中目标的机会很小。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",Roll dodge,翻滚闪避
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strNotes""]",DMC Guard,底特律守卫
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strSuccess""]",<us> rolls from <them>.,<us> 翻滚着远离了 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strPopUp""]","Roll dodge
+Roll from the target, making you harder to hit.
+Chance to move 1 space away from target.
+Removes cover.
+Must see target.
+High chance of being detected if hidden.
+Not always available.
+","翻滚闪避 滚离目标，使你难以被击中。有可能远离目标1格。移除掩护。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strNotes""]",DMC Guard aimed shot,底特律警卫 （瞄准射击）
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Chance of making you vulnerable.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。有几率让你变得脆弱。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strNotes""]",DMC Drone (Vulnerable Target),底特律无人机 (锁定目标)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Low chance of making you vulnerable.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。低几率使你露出破绽。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",Take Aim,瞄准锁定
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strNotes""]",DMC Drone (Tracking Device),底特律无人机 (跟踪装置)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strSuccess""]",<us> aims down at <them>!,<us> 瞄准 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strPopUp""]","Take Aim
+Takes aim for a better chance to hit target.
+Must see target.
+Can be interrupted.
+Only available at long range.
+","瞄准 瞄准以获得更好的机会击中目标。必须看到目标。可以被打断。仅在远程可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",Take Aim,Take Aim
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strNotes""]",DMC Drone (No Tracking Device),底特律无人机 (无跟踪装置)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strSuccess""]",<us> aims down at <them>!,<us> 瞄准 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strPopUp""]","Take Aim
+Takes aim for a better chance to hit target.
+Must see target.
+Can be interrupted.
+Only available at long range.
+","瞄准 瞄准以获得更好的机会击中目标。必须看到目标。可以被打断。仅在远程可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",Steal Eyes,窃眼
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strSuccess""]",<us> lunges forward and steals <them>'s eyes!,<us> 向前冲并抢断 <them>的眼睛!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strFail""]",<us> tries to steal <them>'s eyes... but misses!,<us> 想挖走 <them>的眼睛... 但没有成功!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strPopUp""]","Steal Eyes
+Steal target's eyes.
+Must see target.
+Low chance of making you vulnerable.
+High chance of being detected if hidden.",窃眼 挖掉且偷走目标的眼睛。必须看到目标。低几率使你露出破绽。如果隐藏，被发现的可能性高。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",Bark,吠
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strNotes""]",Dog Threaten (Approach),狗威胁（接近）
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strSuccess""]",<us> moves forward as it barks and growls at <them>!,<us> 当它吠叫和咆哮时前进 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strFail""]",<us> barks and lets out a threatening growl at <them> as it stands its ground.,<us> 吠叫并发出威胁性的咆哮 <them> 因为它坚持自己的立场。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strPopUp""]","Bark
+Barks at the target in an attempt to scare them away.
+Will alert nearby characters.
+Chance of moving 1 space closer or away from the target.
+Must see target.
+Target must see you.",凝视 盯着目标，试图吓唬他们。会提醒附近的角色。靠近或远离目标1格的几率。必须看到目标。目标必须看到你。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",Bark,吠
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strNotes""]",Dog Threaten (Retreat),狗威胁（撤退）
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strSuccess""]",<us> cautiously steps back and barks at <them>!,<us> 小心翼翼地后退一步，对着 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strFail""]","<us> lets out loud barking, eyeing <them> with suspicion.",<us> 大声吠叫，盯着看 <them> 带绳子
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strPopUp""]","Bark
+Barks at the target in an attempt to scare them away.
+Will alert nearby characters.
+Chance of moving 1 space closer or away from the target.
+Must see target.
+Target must see you.",凝视 盯着目标，试图吓唬他们。会提醒附近的角色。靠近或远离目标1格的几率。必须看到目标。目标必须看到你。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",Take cover,掩护
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strNotes""]",clear wounds,清除伤口
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strSuccess""]",<us> takes cover from <them>.,<us> 寻找掩护以躲避 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strPopUp""]","Take cover
+Dives behind best cover terrain can provide.
+Must be at least 1 space away from all enemies.
+Low chance of being detected if hidden.
+","掩护 跳到地形提供的最佳掩护处。必须至少离所有敌人1格。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",Fall back under cover,在掩体中后退
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strNotes""]",clear wounds,清除伤口
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strSuccess""]",<us> falls back from <them> under cover.,<us> 在掩体下从 <them> 身旁撤离.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strPopUp""]","Fall back under cover 
+Moves 1 space away from target maintaining cover.
+Low chance of tripping on terrain.
+Low chance of being detected if hidden.
+","掩体中后退 远离目标1格，维持掩蔽状态。在地形上跌倒的机会很小。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",throwing knife,匕首
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=2]/../column[@name=""strName""]",Anishinaabe knife,部落小刀
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",scrap knife,废料小刀
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",sharp spear w/strap,带背带的锋利长矛
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",hard spear w/strap,带背带的硬化长矛
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",broad spear w/strap,带背带的宽幅长矛
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",.308 rifle AP,.308 步枪 AP
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",.357 pistol AP,.357 手枪 AP
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",.45 pistol AP,.45 手枪 AP
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",12-gauge breach,12-口径 破甲
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=11]/../column[@name=""strName""]",ball bearing,钢珠
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",stun dart,麻醉飞镖
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",Anishinaabe spear,Anishinaabe矛
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",Anishinaabe spear w/strap,Anishinaabe矛带肩带
+"//table[@name=""chargeprofiles""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",poison dart,毒镖
+"//table[@name=""conditions""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=1]/../column[@name=""strDesc""]",<us> has a riot shield and is actively blocking incoming attacks.,<us> 持防暴盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=2]/../column[@name=""strDesc""]",<us> has a riot shield and is actively blocking incoming attacks.,<us> 持防暴盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=3]/../column[@name=""strDesc""]",<us> has a scrap shield and is actively blocking incoming attacks.,<us> 持废金属盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=4]/../column[@name=""strDesc""]",<us> has a scrap shield and is actively blocking incoming attacks.,<us> 持废金属盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=5]/../column[@name=""strDesc""]",<us> has a wooden shield and is actively blocking incoming attacks.,<us> 持木质盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Using a shield,举起盾牌
+"//table[@name=""conditions""]/column[@name=""id""][text()=6]/../column[@name=""strDesc""]",<us> has a wooden shield and is actively blocking incoming attacks.,<us> 持木质盾牌，并主动抵挡攻击。
+"//table[@name=""conditions""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Melee combat bonus,近战加成
+"//table[@name=""conditions""]/column[@name=""id""][text()=7]/../column[@name=""strDesc""]",<us> is getting a boost to their melee combat.,<us> 的近战能力得到了提升。
+"//table[@name=""conditions""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Melee defense bonus,近战防御加成
+"//table[@name=""conditions""]/column[@name=""id""][text()=8]/../column[@name=""strDesc""]",<us> is getting a boost to their defense in combat.,<us> 的近战防御能力得到了提升。
+"//table[@name=""conditions""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Taunting,嘲讽
+"//table[@name=""conditions""]/column[@name=""id""][text()=9]/../column[@name=""strDesc""]","<us> is taunting enemies, reducing their threat level.",<us> 嘲讽敌人，降低他们的士气。
+"//table[@name=""conditions""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Taunted,被嘲讽
+"//table[@name=""conditions""]/column[@name=""id""][text()=10]/../column[@name=""strDesc""]","<us> is being taunted, increasing their morale.",<us> 被嘲讽，对方士气正高昂。
+"//table[@name=""conditions""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",A handful for an eye cooldown,以沙还眼冷却
+"//table[@name=""conditions""]/column[@name=""id""][text()=11]/../column[@name=""strDesc""]",<us> used a handful for an eye and cannot use it again just yet.,<us> 以沙还眼冷却中，现在还不能再次使用。
+"//table[@name=""conditions""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",Targeted,被标记
+"//table[@name=""conditions""]/column[@name=""id""][text()=12]/../column[@name=""strDesc""]",<us> is being targeted by an enemy.,<us> 被敌人标记。
+"//table[@name=""conditions""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Targeting,标记
+"//table[@name=""conditions""]/column[@name=""id""][text()=13]/../column[@name=""strDesc""]",<us> is targeting an enemy.,<us> 正在标记敌人。
+"//table[@name=""conditions""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Marked,被标记
+"//table[@name=""conditions""]/column[@name=""id""][text()=14]/../column[@name=""strDesc""]","<us> is being marked, making them easier to spot and hit.",<us> 被标记了，更容易被敌人发现与击中。
+"//table[@name=""conditions""]/column[@name=""id""][text()=15]/../column[@name=""strName""]","Drop Faction Rep (DMC, temporary)","阵营声望降低 (DMC, 临时)"
+"//table[@name=""conditions""]/column[@name=""id""][text()=15]/../column[@name=""strDesc""]",Drop -100 from player's rep with all current and future DMC creatures.,玩家在DMC阵营中的声望降低100点。
+"//table[@name=""conditions""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",eject .357 casing,弹出 .357 弹壳
+"//table[@name=""conditions""]/column[@name=""id""][text()=16]/../column[@name=""strDesc""]",drop a spent casing on the ground.,一颗用过的弹壳掉在地上。
+"//table[@name=""conditions""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",eject .45 casing,弹出 .45 弹壳
+"//table[@name=""conditions""]/column[@name=""id""][text()=17]/../column[@name=""strDesc""]",drop a spent casing on the ground.,一颗用过的弹壳掉在地上。
+"//table[@name=""conditions""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",eject .308 casing,弹出 .308 弹壳
+"//table[@name=""conditions""]/column[@name=""id""][text()=18]/../column[@name=""strDesc""]",drop a spent casing on the ground.,一颗用过的弹壳掉在地上。
+"//table[@name=""conditions""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",eject 12g casing,弹出 12g 弹壳
+"//table[@name=""conditions""]/column[@name=""id""][text()=19]/../column[@name=""strDesc""]",drop a spent casing on the ground.,一颗用过的弹壳掉在地上。
+"//table[@name=""conditions""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",Has stun dart impaled in wound,有眩晕飞镖刺穿伤口
+"//table[@name=""conditions""]/column[@name=""id""][text()=20]/../column[@name=""strDesc""]",<us> has a stun dart impaled in wound.,<us> 伤口里插着眩晕镖。
+"//table[@name=""conditions""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",Dart analgesics,Dart镇痛药
+"//table[@name=""conditions""]/column[@name=""id""][text()=21]/../column[@name=""strDesc""]",<us> is under the effects of a stun dart analgesics.,<us> 是在眩晕镖止痛药的作用下。
+"//table[@name=""conditions""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Chill touched,寒冷的触摸
+"//table[@name=""conditions""]/column[@name=""id""][text()=22]/../column[@name=""strDesc""]",Something supernatural has chilled <us> with its touch.,一些超自然的东西让 <us> 与它的触摸感到寒冷。
+"//table[@name=""conditions""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Eight Combat Turns Cooldown,八个战斗回合冷却
+"//table[@name=""conditions""]/column[@name=""id""][text()=23]/../column[@name=""strDesc""]",<us> used Call Out or enough Bark moves and cannot use it again just yet.,<us> 已使用大喊，但目前无法再次使用.
+"//table[@name=""conditions""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",Barking,吠叫
+"//table[@name=""conditions""]/column[@name=""id""][text()=24]/../column[@name=""strDesc""]",<us> is barking and will eventually stop after some turns.,<us> 在吠叫，转了几圈后最终会停下来。
+"//table[@name=""conditions""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",,
+"//table[@name=""conditions""]/column[@name=""id""][text()=25]/../column[@name=""strDesc""]",<us> removed a sharp object from their wound.,<us> 从他们的伤口取出了一个尖锐的物体。
+"//table[@name=""conditions""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",Has a dart impaled in wound,伤口里插着眩晕镖。
+"//table[@name=""conditions""]/column[@name=""id""][text()=26]/../column[@name=""strDesc""]",<us> has a dart impaled in wound.,<us> 伤口里插着眩晕镖。
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",baseball bat,棒球棒
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=2]/../column[@name=""strName""]","compound bow quiver, no strap",复合弓箭袋，无背带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",compound bow w/strap,带背带复合弓
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",compound bow w/quiver,带箭袋复合弓
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",whetstone,磨刀石
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",meat cleaver,切肉刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",utility cutter,实用刀具
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",tactical knife,战术小刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",throwing knife,匕首
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",Anishinaabe knife,部落小刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=11]/../column[@name=""strName""]",scrap metal knife,废料小刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",scrap metal machete,废料砍刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",any spear w/ no strap,任何不带肩带的锋利长矛
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",any spear w/ no strap,任何不带肩带的硬化长矛
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",any spear w/ no strap,任何不带肩带的宽幅长矛
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=16]/../column[@name=""strName""]",crude bow,简陋的弓
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",steak knife,牛排刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=18]/../column[@name=""strName""]",gunpowder,火药
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",.357 casing,.357 弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]",.45 casing,.45 弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",.308 casing,.308 弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",12-gauge casing,12 口径弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=23]/../column[@name=""strName""]",round primer (small),圆形底漆（小）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",round primer (medium),圆形引物（培养基）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",round primer (big),圆形底漆（大）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",round-nosed jacketed bullet,圆头夹套子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]",hollow-nosed jacketed bullet,空心枪口夹套子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]",round-nosed heavy bullet,圆头重型子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",point-nosed jacketed bullet,尖头夹套子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]",point-nosed soft bullet,尖头软弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=31]/../column[@name=""strName""]",point-nosed heavy bullet,尖头重型子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",point-nosed jacketed bullet,尖头夹套子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=33]/../column[@name=""strName""]",point-nosed soft bullet,尖头软弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=34]/../column[@name=""strName""]",shotshell solid slug,弹壳固体弹头
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=35]/../column[@name=""strName""]",shotshell 00 pellets,shotshell 00粒
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=36]/../column[@name=""strName""]",shotshell breacher slug,弹壳破碎机弹头
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=37]/../column[@name=""strName""]",ammo reloading press,弹药重装压力机
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=38]/../column[@name=""strName""]",ammo powder measure,弹药火药测量
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",ammo case trimmer,弹药箱修剪器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=40]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=41]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=47]/../column[@name=""strName""]",.308 JHP round,.308 JHP 子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=48]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=49]/../column[@name=""strName""]",12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=51]/../column[@name=""strName""]",12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",ornamental katana,装饰武士刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]",any spear w/ no strap,任何不带肩带的锋利长矛
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",empty dart,空镖
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=1]/../column[@name=""strPropertyName""]",tool: sharpening stone,工具: 磨刀石
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=2]/../column[@name=""strPropertyName""]",weapon: sharpened spear,矛:尖刺长矛
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=3]/../column[@name=""strPropertyName""]",weapon: hardened spear,矛:硬化长矛
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=4]/../column[@name=""strPropertyName""]",weapon: broad spear,宽幅长矛
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=5]/../column[@name=""strPropertyName""]",tool: ammo reloading,工具：弹药重装
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=6]/../column[@name=""strPropertyName""]",weapon: slinging,武器：吊索
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=7]/../column[@name=""strPropertyName""]",weapon: Anishinaabe spear,武器Anishinaabe矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",club,棍棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strDesc""]",baseball bat,棒球棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=1]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",club,棍棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strDesc""]",spiked bat,狼牙棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=2]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",punch,拳击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strDesc""]",brass knuckles,指虎拳击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=3]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",club,棍棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strDesc""]","JB ""Tyrant"" tactical baton","劲霸""暴君"" 战术甩棍"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=4]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",shield,盾牌
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strDesc""]","JB ""Armadillo"" riot shield","劲霸""犰狳"" 防暴盾牌"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=5]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",knife,刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strDesc""]","JB ""Shrike"" tactical knife","劲霸""伯劳"" 战术小刀"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=6]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",knife,刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strDesc""]","JB ""Talon"" throwing knife","劲霸""利爪"" 匕首"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=7]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",knife,刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strDesc""]",Anishinaabe knife,ATN部落小刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=8]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",knife,刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strDesc""]",scrap metal knife,废料小刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=9]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",sword,剑
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strDesc""]",scrap metal machete,废料砍刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=10]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",shield,盾牌
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strDesc""]",scrap metal shield,废金属盾牌
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=11]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",quiver,箭筒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strDesc""]","Huntsman ""Quickfire"" compound bow quiver","猎人 ""速射"" 复合弓箭袋"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=12]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",bow,弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strDesc""]",archery bow w/quiver,弓带箭袋
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=13]/../column[@name=""strDescAlt""]","Huntsman ""C-bow"" compound bow w/quiver","猎人 ""C-弓"" 带箭袋复合弓"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",bow,弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strDesc""]",archery bow w/strap and quiver,带背带和箭袋的弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=14]/../column[@name=""strDescAlt""]","Huntsman ""C-bow"" compound bow w/strap and quiver","猎人 ""C-弓"" 带背带和箭袋的复合弓"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",medium parts,中等大小的部件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strDesc""]",Shop-Mart whetstone,Shop-Mart 磨刀石
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=15]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",ranged attack,远程攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strDesc""]",Ranged Attack,远程攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=16]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",melee attack,近战攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strDesc""]",Melee Attack,近战攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=17]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",aim down,瞄准
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strDesc""]",Aim Down,瞄准
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=18]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",aimed shot,瞄准射击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strDesc""]",Aimed Shot,瞄准射击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=19]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",ranged attack,远程攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strDesc""]",Ranged Attack,远程攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=20]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",blast away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strDesc""]",Blast Away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=21]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",empty hands,腾出双手
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strDesc""]",Empty Hands,腾出双手
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=22]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",lure away,调虎离山
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strDesc""]",Lure Away,调虎离山
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=23]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",lure in,诱敌深入
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strDesc""]",Lure In,诱敌深入
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=24]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",get down,卧倒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strDesc""]",Get Down,卧倒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=25]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",taunt,嘲讽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strDesc""]",Taunt,嘲讽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=26]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",blind attack,盲目攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strDesc""]",Blind Attack,盲目攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=27]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",club,棍棒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strDesc""]",nail board,钉板
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=28]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",shield,盾牌
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strDesc""]",wooden shield,木质盾牌
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=29]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",spear,长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strDesc""]",sharpened spear w/strap,带背带的锋利长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=30]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",spear,长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strDesc""]",hardened spear w/strap,带背带的硬化长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=31]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",spear,长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strDesc""]",broad spear w/strap,带背带的宽幅长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=32]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",kick,踢踹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strDesc""]",Kick,踢踹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=33]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",charge kick,飞踹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strDesc""]",Charge Kick,飞踹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=34]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",threaten fire,威胁性地举起火把
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strDesc""]",Threaten Fire,威胁性地举起火把
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=35]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",threaten flare,威胁性地举起信号弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strDesc""]",Threaten Flare,威胁性地举起信号弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=36]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",threaten flare,威胁性地举起信号弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strDesc""]",Threaten Flare,威胁性地举起信号弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=37]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",take cover,掩护
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strDesc""]",Take Cover,掩护
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=38]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",advance (cover),推进 (掩体)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strDesc""]",Advance Under Cover,掩体中前进
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=39]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",charge!,冲锋!
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strDesc""]",Charge!,冲锋!
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=40]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",get down,卧倒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strDesc""]",Get Down,卧倒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=41]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",dodge,躲闪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strDesc""]",Dodge,躲闪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=42]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",parry,格挡
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strDesc""]",Parry,格挡
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=43]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",blast away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strDesc""]",Blast away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=44]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",blast away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strDesc""]",Blast Away,猛烈开火
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=45]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",blind ranged attack,盲射
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strDesc""]",Blind Ranged Attack,盲射
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=46]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",blind ranged attack,盲射
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strDesc""]",Blind Ranged Attack,盲射
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=47]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",return fire,反击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strDesc""]",Return Fire,反击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=48]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",roll,翻滚
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strDesc""]",Roll,翻滚
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=49]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",aimed shot,瞄准射击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strDesc""]",Aimed Shot,瞄准射击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=50]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",ranged attack (drone),远程攻击 (无人机)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strDesc""]",Ranged Attack,远程攻击
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=51]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",aim down (drone),瞄准 (无人机)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strDesc""]",Aim Down,瞄准
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=52]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",aim down (drone),瞄准 (无人机)
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strDesc""]",Aim Down,瞄准
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=53]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",quiver,箭筒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strDesc""]","Huntsman ""Quickfire"" compound bow quiver w/strap","猎人 ""速射""带箭袋复合弓"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=54]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strDesc""]",sawoff shotgun,短截散弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=55]/../column[@name=""strDescAlt""]","Cathcart North ""Perforator"" 12-gauge sawoff shotgun","北卡特 ""穿孔器"" 12 口径 短截散弹枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strDesc""]",military rifle,军用步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=56]/../column[@name=""strDescAlt""]","Deltec ""SBS4"" 12-gauge shotgun","德尔泰克 ""SBS4"" 12 口径霰弹枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strDesc""]",hunting rifle,猎枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=57]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle","""被放逐者"" .308 简易步枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strDesc""]",hunting rifle w/scope,猎枪 带瞄准镜
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=58]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle w/scope","""被放逐者"" .308 简易步枪 带瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strDesc""]",hunting rifle w/strap,猎枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=59]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle w/strap","""被放逐者"" .308 简易步枪 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strDesc""]",hunting rifle w/scope and strap,猎枪 带瞄准镜和背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=60]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle w/scope and strap","""被放逐者"" .308 简易步枪 带瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strDesc""]",sawoff shotgun,短截散弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=61]/../column[@name=""strDescAlt""]","""Shredder"" 12-gauge makeshift short scatter gun","""粉碎机"" 12号口径简易短管散弹枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strDesc""]",sawoff shotgun,短截散弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=62]/../column[@name=""strDescAlt""]","""Shredder"" 12-gauge makeshift long scatter gun","""粉碎机"" 12 口径 简易长管散弹枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strDesc""]",hunting rifle w/strap,猎枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=63]/../column[@name=""strDescAlt""]","""Shredder"" 12-gauge makeshift long scatter gun w/strap","""粉碎机"" 12 口径 简易长管散弹枪 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strDesc""]",crazy-looking gun,看起来很疯狂的枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=64]/../column[@name=""strDescAlt""]","""Thrasher"" makeshift air gun","""冲击波"" 简易气枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strDesc""]",crazy-looking gun w/strap,看起来很疯狂的枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=65]/../column[@name=""strDescAlt""]","""Thrasher"" makeshift air gun w/strap","""冲击波"" 简易气枪 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strDesc""]",sawoff rifle,短截步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=66]/../column[@name=""strDescAlt""]","""Desperado"" .308 sawoff rifle","""亡命徒"" .308 短截步枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strName""]",ammo,弹药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strDesc""]",a metal ball,一个金属球
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=67]/../column[@name=""strDescAlt""]",a ball bearing,一个钢珠
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strDesc""]",military rifle,军用步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=68]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle","德尔泰克 ""308SSR"".308 侦察步枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strDesc""]",military rifle w/scope,军用步枪 带瞄准镜
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=69]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle w/scope","德尔泰克 ""308SSR"".308 侦察步枪 带瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strDesc""]",military rifle w/strap,军用步枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=70]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle w/strap","德尔泰克 ""308SSR"".308 侦察步枪 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strDesc""]",military rifle w/scope and strap,军用步枪 带瞄准镜 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=71]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle w/scope and strap","德尔泰克 ""308SSR"".308 侦察步枪 带瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strDesc""]",sawoff rifle,短截步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=72]/../column[@name=""strDescAlt""]","""Desperado"" .308 sawoff rifle w/holosight","""亡命徒"" .308 短截步枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strDesc""]",hunting rifle,猎枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=73]/../column[@name=""strDescAlt""]","Cathcart North ""Buckmaster"" .308 hunting rifle w/holosight","北卡特 ""巴克大师"" .308 猎枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strDesc""]",hunting rifle w/strap,猎枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=74]/../column[@name=""strDescAlt""]","Cathcart North ""Buckmaster"" .308 hunting rifle w/holosight and strap","北卡特 ""巴克大师"" .308 猎枪 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strDesc""]",military rifle,军用步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=75]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle w/holosight","德尔泰克 ""308SSR"".308 侦察步枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strDesc""]",military rifle w/strap,军用步枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=76]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle w/holosight and strap","德尔泰克 ""308SSR"".308 侦察步枪 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strDesc""]",hunting rifle,猎枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=77]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle w/holosight","""被放逐者"" .308 简易步枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strDesc""]",hunting rifle w/strap,猎枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=78]/../column[@name=""strDescAlt""]","""Outcast"" .308 makeshift rifle w/holosight and strap","""被放逐者"" .308 简易步枪 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strDesc""]",crazy-looking gun,看起来很疯狂的枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=79]/../column[@name=""strDescAlt""]","""Blaster"" makeshift 4mm Gauss rifle w/holosight","""冲击波"" 简易 4mm 高斯步枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strDesc""]",crazy-looking gun w/strap,看起来很疯狂的枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=80]/../column[@name=""strDescAlt""]","""Blaster"" makeshift 4mm Gauss rifle w/holosight and strap","""冲击波"" 简易 4mm 高斯步枪 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strDesc""]",hunting rifle,猎枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=81]/../column[@name=""strDescAlt""]","Cathcart North ""Perforator"" 12-gauge shotgun w/holosight","北卡特 ""穿孔器"" 12 口径霰弹枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strDesc""]",hunting rifle w/strap,猎枪 带背带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=82]/../column[@name=""strDescAlt""]","Cathcart North ""Perforator"" 12-gauge shotgun w/holosight and strap","北卡特 ""穿孔器"" 12 口径霰弹枪 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strDesc""]",military rifle w/stock,军用步枪 带握把
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=83]/../column[@name=""strDescAlt""]","Deltec ""SBS4"" 12-gauge shotgun w/holosight and stock","德尔泰克 ""SBS4"" 12 口径霰弹枪 带全息瞄准镜 带枪托"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strName""]",shotgun,霰弹枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strDesc""]",military rifle w/stock and strap,军用步枪 带有枪托和肩带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=84]/../column[@name=""strDescAlt""]","Deltec ""SBS4"" 12-gauge shotgun w/stock, holosight and strap","德尔泰克 ""SBS4"" 12 口径霰弹枪 带枪托, 带全息瞄准镜 带背带"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strDesc""]",pistol w/silencer,手枪 带消音器
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=85]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto w/suppressor","德尔泰克 ""1911"" .45 半自动手枪 带消音器"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strName""]",handgun,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strDesc""]",handgun,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=86]/../column[@name=""strDescAlt""]","""Mongrel"" makeshift handgun","""猫头鹰"" 简易手枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strName""]",handgun,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strDesc""]",small metal tube,小金属管
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=87]/../column[@name=""strDescAlt""]","""Waylay"" makeshift handgun","""韦莱"" 简易手枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strDesc""]",revolver,左轮手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=88]/../column[@name=""strDescAlt""]","Cathcart North ""Detective"" .357 snub nose revolver","北卡特 ""侦探"" .357 小口径左轮手枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strDesc""]",revolver,左轮手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=89]/../column[@name=""strDescAlt""]","Cathcart North ""Detective"" .357 bull revolver","北卡特 ""侦探"" .357 公牛左轮手枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=90]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto heavy","德尔泰克 ""1911"" .45 半自动 重型手枪"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=91]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto heavy w/suppressor","德尔泰克 ""1911"" .45 半自动 重型手枪 带消音器"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=92]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto w/holosight","德尔泰克 ""1911"" .45 半自动手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=93]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto heavy w/holosight","德尔泰克 ""1911"" .45 半自动 重型手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=94]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto w/holosight and suppressor","德尔泰克 ""1911"" .45 半自动手枪 带全息瞄准镜 带消音器"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strDesc""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=95]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 semi-auto heavy w/holosight and suppressor","德尔泰克 ""1911"" .45 半自动 重型手枪 带全息瞄准镜 带消音器"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strDesc""]",revolver,左轮手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=96]/../column[@name=""strDescAlt""]","Cathcart North ""Detective"" .357 revolver w/holosight","北卡特 ""侦探"" .357 左轮手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strDesc""]",revolver,左轮手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=97]/../column[@name=""strDescAlt""]","Cathcart North ""Detective"" .357 snub nose revolver w/holosight","北卡特 ""侦探"" .357 小口径左轮手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strName""]",pistol,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strDesc""]",revolver,左轮手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=98]/../column[@name=""strDescAlt""]","Cathcart North ""Detective"" .357 bull revolver w/holosight","北卡特 ""侦探"" .357 公牛左轮手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strName""]",handgun,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strDesc""]",handgun,手枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=99]/../column[@name=""strDescAlt""]","""Mongrel"" makeshift handgun w/holosight","""猫头鹰"" 简易手枪 带全息瞄准镜"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strName""]",ammo,弹药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strDesc""]",a bullet,一颗子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=100]/../column[@name=""strDescAlt""]",a .308 AP round,.308 AP 子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strName""]",ammo,弹药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strDesc""]",a pistol bullet,一颗子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=101]/../column[@name=""strDescAlt""]",a .357 AP round,.357 AP 子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strName""]",ammo,弹药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strDesc""]",a bullet,一颗子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=102]/../column[@name=""strDescAlt""]",a .45 AP round,A.45 AP子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strName""]",ammo,弹药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strDesc""]",a bullet,一颗子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=103]/../column[@name=""strDescAlt""]",a 12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strName""]",ammo device,弹药装置
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strDesc""]",pistol clip,手枪弹匣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=104]/../column[@name=""strDescAlt""]","Deltec ""1911"" .45 pistol magazine","德尔泰克 ""1911"" .45 手枪弹匣"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strName""]",ammo device,弹药装置
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strDesc""]",ammo clip,弹匣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=134]/../column[@name=""strDescAlt""]","Cathcart North ""Buckmaster"" .308 rifle clip","北卡特 ""巴克大师"" .308 步枪弹匣"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strName""]",ammo device,弹药装置
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strDesc""]",ammo clip,弹匣
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=135]/../column[@name=""strDescAlt""]","Deltec ""308SSR"" .308 scout rifle magazine","德尔泰克 ""308SSR"".308 侦察步枪 弹匣"
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strName""]",bow,弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strDesc""]",crazy-looking bow,看起来很疯狂的弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=136]/../column[@name=""strDescAlt""]",cable-backed bow,缆背弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strName""]",take eyes,采取眼睛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strDesc""]",Take Eyes,采取眼睛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=137]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strName""]",powder,粉末
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strDesc""]",handful of gunpowder,一小撮火药
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=138]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strDesc""]",pistol casing,手枪弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=139]/../column[@name=""strDescAlt""]",.357 casing,.357 弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strDesc""]",pistol casing,手枪弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=140]/../column[@name=""strDescAlt""]",.45 casing,.45 弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strDesc""]",rifle casing,步枪弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=141]/../column[@name=""strDescAlt""]",.308 casing,.308 弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strDesc""]",shotgun casing,霰弹枪弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=142]/../column[@name=""strDescAlt""]",12-gauge casing,12 口径弹壳
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strDesc""]",small metal cap,小金属帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=143]/../column[@name=""strDescAlt""]",round primer (small),圆形底漆（小）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strDesc""]",small metal cap,小金属帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=144]/../column[@name=""strDescAlt""]",round primer (medium),圆形引物（培养基）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strDesc""]",small metal cap,小金属帽
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=145]/../column[@name=""strDescAlt""]",round primer (big),圆形底漆（大）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=146]/../column[@name=""strDescAlt""]",round-nosed jacketed bullet,圆头夹套子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=147]/../column[@name=""strDescAlt""]",hollow-nosed jacketed bullet,空心枪口夹套子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=148]/../column[@name=""strDescAlt""]",round-nosed heavy bullet,圆头重型子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=149]/../column[@name=""strDescAlt""]",point-nosed jacketed bullet,尖头夹套子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=150]/../column[@name=""strDescAlt""]",point-nosed soft bullet,尖头软弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strDesc""]",bullet point,小型尖刺物
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=151]/../column[@name=""strDescAlt""]",point-nosed heavy bullet,尖头重型子弹
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=152]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=152]/../column[@name=""strDesc""]",metal slug,金属段塞
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=152]/../column[@name=""strDescAlt""]",shotshell solid slug,弹壳固体弹头
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=153]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=153]/../column[@name=""strDesc""]",metal pellets,金属颗粒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=153]/../column[@name=""strDescAlt""]",shotshell 00 pellets,shotshell 00粒
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=154]/../column[@name=""strName""]",small parts,小零件
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=154]/../column[@name=""strDesc""]",soft slug,软段塞
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=154]/../column[@name=""strDescAlt""]",shotshell breacher slug,弹壳破碎机弹头
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=155]/../column[@name=""strName""]",camp fixture,营地固定设备
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=155]/../column[@name=""strDesc""]","BulletCamp ""Reload Kit"" ammo reloading press",BulletCamp“重装套件”弹药重装压力机
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=155]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=156]/../column[@name=""strName""]",camp fixture,营地固定设备
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=156]/../column[@name=""strDesc""]","BulletCamp ""Reload Kit"" ammo powder measure",BulletCamp“Reload Kit”弹药粉末测量
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=156]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=157]/../column[@name=""strName""]",camp fixture,营地固定设备
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=157]/../column[@name=""strDesc""]","BulletCamp ""Reload Kit"" ammo case trimmer",BulletCamp“重新加载套件”弹药盒修剪器
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=157]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=158]/../column[@name=""strName""]",sword,剑
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=158]/../column[@name=""strDesc""]",modified ornamental katana,改良装饰武士刀
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=158]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=159]/../column[@name=""strName""]",sling,弹弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=159]/../column[@name=""strDesc""]",slingshot,弹弓
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=159]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=160]/../column[@name=""strName""]",rifle,步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=160]/../column[@name=""strDesc""]",hunting rifle w/scope,带瞄准镜的猎枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=160]/../column[@name=""strDescAlt""]","Burgos ""DGMK2"" dart rifle",布尔戈斯“DGMK2”飞镖步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=161]/../column[@name=""strName""]",dart,飞镖
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=161]/../column[@name=""strDesc""]","Burgos ""DGMK2"" dart w/tranquilizer agent",布尔戈斯“DGMK2”飞镖步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=161]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=162]/../column[@name=""strName""]",threaten,威胁
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=162]/../column[@name=""strDesc""]",Threaten,威胁
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=162]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=163]/../column[@name=""strName""]",threaten,威胁
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=163]/../column[@name=""strDesc""]",Threaten,威胁
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=163]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=164]/../column[@name=""strName""]",spear,长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=164]/../column[@name=""strDesc""]",Anishinaabe spear,Anishinaabe矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=164]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=165]/../column[@name=""strName""]",spear,长矛
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=165]/../column[@name=""strDesc""]",Anishinaabe spear w/strap,Anishinaabe矛带肩带
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=165]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=166]/../column[@name=""strName""]",dart,飞镖
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=166]/../column[@name=""strDesc""]","Burgos ""DGMK2"" dart w/poison agent",布尔戈斯“DGMK2”飞镖步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=166]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=167]/../column[@name=""strName""]",take cover (clear wounds),找掩护（清理伤口）
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=167]/../column[@name=""strDesc""]",Take Cover,掩护
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=167]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=168]/../column[@name=""strName""]",fall back (clear wounds),后退
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=168]/../column[@name=""strDesc""]",Fall Back Under Cover,在掩体中后退
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=168]/../column[@name=""strDescAlt""]",,
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=169]/../column[@name=""strName""]",dart,飞镖
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=169]/../column[@name=""strDesc""]","Burgos ""DGMK2"" dart (spent)",布尔戈斯“DGMK2”飞镖步枪
+"//table[@name=""itemtypes""]/column[@name=""id""][text()=169]/../column[@name=""strDescAlt""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",spiked bat,狼牙棒
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strName""]",scrap knives 2x,废料小刀 2x
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=2]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",scrap knives 6x,废料小刀 6x
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",scrap machete,废料砍刀
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",scrap shield,废金属盾
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]","compound bow, no mods (repair)",复合弓，无模组（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",compound bow: add quiver,弓：复合弓带箭袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",compound bow w/strap: add quiver,弓：复合弓带背带和箭袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",compound bow w/quiver: add strap,弓: 复合弓带箭袋和加背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",metal blade (repair),金属刀片（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strSecretName""]",meat cleaver (repair),切肉刀（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strName""]",utility cutter (repair),实用刀具（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=11]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",tactical knife (repair),战术小刀（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",throwing knife (repair),匕首 (维修)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",Anishinaabe knife (repair),ATN部落小刀（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",scrap metal knife (repair),废金属小刀 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strName""]",scrap metal machete (repair),废金属砍刀 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",fire axe (repair),消防斧（修理）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strName""]",hatchet (repair),短柄斧 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=18]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",nail board,钉木板
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strSecretName""]",blunt object,钝物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]",nail board,钉木板
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strSecretName""]",proper tool,合适工具
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",wooden shield,木质盾
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strSecretName""]",blunt object,钝物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",wooden shield,木质盾
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strSecretName""]",proper tool,合适工具
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strName""]",spear: add strap,矛：加背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strSecretName""]",sharpened,削尖
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",spear: add strap,矛：加背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strSecretName""]",hardened,硬化
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",spear: add strap,矛：加背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strSecretName""]",broadhead,宽头
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",compound bow quiver (repair),复合弓带箭袋 (修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]",compound bow quiver: add strap,可肩带的复合弓带箭袋
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]",bow: cable-backed,弓：缆背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strSecretName""]",upgrade crude bow,改良陋弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",steak knife (repair),牛排刀（维修）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=34]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=35]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strName""]",12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=40]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strName""]",12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=41]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strName""]",12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]",12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strSecretName""]",full condition,全状态
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strName""]",12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strName""]",12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strName""]",12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strSecretName""]",disassemble only,仅拆卸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strName""]",ornamental katana (repair),装饰武士刀（修复）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strName""]",bow: crude,弓：粗制弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strName""]",slingshot,弹弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strName""]",spear: add strap,矛：加背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strSecretName""]",Anishinaabe,阿尼什纳比弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",spiked bat,狼牙棒
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",scrap knife,废料小刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",scrap knives x2,废料小刀 x2
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",scrap knives x6,废料小刀 x6
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",scrap machete,废料砍刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",scrap metal shield,废金属盾牌
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",compound bow,复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",disassembled compound bow w/quiver,拆解的带箭筒的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",disassembled compound bow w/strap and quiver,拆解的带背带和箭筒的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",compound bow w/quiver,带箭筒的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",compound bow w/strap and quiver,带背带和箭筒的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",tactical knife,战术小刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",throwing knife,匕首
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Anishinaabe knife,ATN部落小刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",nail board,钉板
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",wooden shield,木质盾牌
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",sharpened spear w/strap,带肩带的锋利长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",hardened spear w/strap,带肩带的硬化长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",broad spear w/strap,带肩带的宽幅长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",random spears,random spears
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",random bow,random bow
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",improvised melee weapons,自制的近战武器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",makeshift melee weapons,临时的近战武器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",random shield,随机盾牌
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",degraded/reversed sharpened spear w/strap,带肩带的退化/反向锋利长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",degraded/reversed hardened spear w/strap,带肩带的退化/反向硬化长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",degraded/reversed broad spear w/strap,带肩带的退化/反向宽幅长矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",compound bow quiver,复合弓箭袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",compound bow quiver w/strap,可肩带的复合弓带箭袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",disassembled compound bow quiver w/strap,拆解的带背带和箭筒的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",cable-backed bow,缆背弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",spent .357 round,spent .357 round
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",spent .45 round,spent .45 round
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",spent .308 round,spent .308 round
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",spent 12g round,spent 12g round
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",.357 FMJ round,.357 FMJ 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",.357 JHP round,.357 JHP 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",.357 AP round,.357 AP 子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",disassembled .357 FMJ round,拆卸的.357 FMJ子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",disassembled .357 JHP round,拆卸的.357 JHP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",disassembled .357 AP round,拆卸的.357 AP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",.45 FMJ round,.45 FMJ 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",.45 JHP round,.45 JHP 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",.45 AP round,.45 AP 子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",disassembled .45 FMJ round,拆卸的.45 FMJ子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",disassembled .45 JHP round,拆卸的.45 JHP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",disassembled .45 AP round,拆卸的.45 AP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",.308 FMJ round,.308 FMJ 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",.308 SP round,.308 SP 弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",.308 AP round,.308 AP 子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",disassembled .308 FMJ round,拆卸的.308 FMJ子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",disassembled .308 SP round,拆卸的.308 SP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",disassembled .308 AP round,拆卸的.308 AP子弹
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=56]/../column[@name=""strName""]",12-gauge breach shell,一颗 12 口径 破甲弹壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",disassembled 12-gauge slug shell,一颗12口径铅弹壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",disassembled 12-gauge 00 buckshot shell,一颗12口径00铅弹弹壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",disassembled 12-gauge breach shell,拆卸的12号破壳
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",random ammo part,随机弹药
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",modified ornamental katana,改良装饰武士刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",slingshot,弹弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",dart gun and ammo,飞镖枪和弹药
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=64]/../column[@name=""strName""]",dart gun contents,飞镖枪内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=65]/../column[@name=""strName""]",degraded/reversed Anishinaabe spear w/strap,退化/反向Anishinaabe矛，带带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=66]/../column[@name=""strName""]",Anishinaabe spear w/strap,Anishinaabe矛带肩带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=67]/../column[@name=""strName""]",degraded loaded dart,退化加载飞镖
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=68]/../column[@name=""strName""]",random dart,随机飞镖

@@ -1,0 +1,204 @@
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",plains idle loot,平地闲置的战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",urban idle loot,市区闲置的战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",forest idle loot,森林闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Bad Mutha loadout,摇滚帮的装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",a paper scrap and foil scrap,废纸和铝箔废料
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",rubble idle loot,碎石堆上闲置的战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Junk Market Inventory,垃圾市场库存
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",cigarette lighter contents,香烟打火机的内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",urban scavenge locations,城市搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",.308 rifle contents,.308步枪的内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",suburban scavenge locations,郊区搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",forest scavenge locations,森林搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",field scavenge locations,旷野搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",forest shack scavenge locations,森林小屋搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",disassembled .308 rifle w/scope and sling,带有瞄准镜和吊带的组装.308步枪
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",an abandoned house scavenged items,一间废弃的房子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",an abandoned mobile home scavenged items,一间废弃的活动房
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",a crumbling apartment building scavenged items,一栋摇摇欲坠的公寓楼
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",an abandoned office tower scavenged items,一座废弃的办公楼
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",a destroyed office building,一座被毁坏的办公楼
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",a stretch of forest,一片森林
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",a shack in the forest scavenged items,一间森林小屋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",shotgun contents,猎枪内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",an open field,一片开阔的田野
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",suburban idle loot,郊区闲置的战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",locked storage shed scavenge items,上锁的储物棚
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",abandoned apartment building scavenged items,废弃的公寓楼
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",botany bonus loot,植物学奖励战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",storage shed scavenged items,储物棚
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",small chunk of meat (spoiled),一小块肉 （变质）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",carved squirrel,雕刻松鼠
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",butchered squirrel,被屠宰的松鼠
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=70]/../column[@name=""strName""]",looter loadout,掠夺者的装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=71]/../column[@name=""strName""]",Blue Frog preacher loadout,蓝蛙传教士的装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=77]/../column[@name=""strName""]",Disassembled patchwork fur glove/boot,拆解的拼布毛皮手套/靴子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=78]/../column[@name=""strName""]",Corn-a-Cola bottle contents,可乐瓶内容物
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=79]/../column[@name=""strName""]",Hatter yes/no responses or question,哈特的是/否回答或询问
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=85]/../column[@name=""strName""]","Enter, Exit, Give, Reach, Left, Downstairs, Upstairs, Form, Permit, Mec Train, Elec Train, Mec Work, Elec Work, Info Term, MRE, Yhat, What, Rboot, Rglove, Wjacket, Wvest, Wpants, Gmask, GmaskF, SCBA, o2, Hazmat, T-shirt, Backpack","进入, 退出, 给予, 到达, 左, 下楼, 上楼, 表格, 许可证, 机械培训, 电子培训, 机械工作, 电子工作, 信息终端, MRE, Yhat, 什么, Rboot, Rglove, Wjacket, Wvest, Wpants, Gmask, GmaskF, SCBA, o2, 危险品, T恤, 背包"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=89]/../column[@name=""strName""]",degraded campfire,低品质营火
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=90]/../column[@name=""strName""]",disassembled .308 rifle w/sling,拆解的 .308 步枪带背带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=92]/../column[@name=""strName""]","Exit, Enter, DSL, Park, No SAT Signal, SAT Signal","Exit, DSL, Park, No SAT Signal, SAT Signal"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=98]/../column[@name=""strName""]",bow contents,弓的内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=101]/../column[@name=""strName""]",crowbar w/sling components,带背带组件的撬棍
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=116]/../column[@name=""strName""]",95GHz Detector,95GHz 探测器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=128]/../column[@name=""strName""]",Zom zom's lost and never found,Zom zom失而复得
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=132]/../column[@name=""strName""]",Bob's 308 Rifle with Scope and Ammo,"鲍勃的 308 步枪带望远镜, 弹药, 和入口"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=143]/../column[@name=""strName""]",whiskey bottle contents,威士忌瓶内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=144]/../column[@name=""strName""]",2 food items,2 种食物
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=149]/../column[@name=""strName""]",hills idle loot,丘陵中的闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=150]/../column[@name=""strName""]",Gather River Water,收集河流资源
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=151]/../column[@name=""strName""]",Gather Marsh Water,收集沼泽资源
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=152]/../column[@name=""strName""]",Gather Lake Water,收集湖水资源
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=153]/../column[@name=""strName""]",gather branches and twigs,收集树枝
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=154]/../column[@name=""strName""]",first aid kit contents,医疗包内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=155]/../column[@name=""strName""]","Cryo facility console, window, room 14, room 17","低温设施控制台, 窗户, 14号房间, 17号房间"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=157]/../column[@name=""strName""]",Cryo facility room 17 and appliances,冷冻设施17号房间和电器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=161]/../column[@name=""strName""]",Cryo power tap and lighting,冷冻电源接头和照明
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=163]/../column[@name=""strName""]",Cryo Exam Room 17,冷冻检查室 17
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=179]/../column[@name=""strName""]",Indiana coffee can (full),印第安纳咖啡罐（满）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=180]/../column[@name=""strName""]","3 food cans, 1 with soup","3 给汤罐头, 1 碗汤"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=182]/../column[@name=""strName""]","2 food items, 1 cleaver","2 种食物, 1 把切肉刀"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=187]/../column[@name=""strName""]","Loot, Give, Exit, Melee, Advance","掠夺, 给予, 退出, 近战, 前进"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=192]/../column[@name=""strName""]",food and ammo,食物与弹药
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=201]/../column[@name=""strName""]",2x full food can,2x 满的汤罐头
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=212]/../column[@name=""strName""]",2x food and water bottle (full),2x 食物和水瓶（满）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=219]/../column[@name=""strName""]",3x food and water bottle (full),3x 食物和水瓶（满）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=244]/../column[@name=""strName""]",3-6 food and water bottle (full),3-6 食物和水瓶（满）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=280]/../column[@name=""strName""]",4x full food cans and a monkey wrench,4x 满的汤罐头和活动扳手
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=287]/../column[@name=""strName""]",lost DMC fat citizen items,遗失的DMC胖公民物品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=309]/../column[@name=""strName""]",hills (water) idle loot,丘陵（水）闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=310]/../column[@name=""strName""]",marsh idle loot,沼泽闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=311]/../column[@name=""strName""]",plains (water) idle loot,平原（水）闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=329]/../column[@name=""strName""]",Haggerty services,哈格蒂医疗服务
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=330]/../column[@name=""strName""]",Haggerty upstairs services,楼上的哈格蒂医疗服务
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=331]/../column[@name=""strName""]",disassembled noise trap,拆卸噪音陷阱
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=333]/../column[@name=""strName""]","Hall, Tents, Exit","大厅, 帐篷, 离开"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=343]/../column[@name=""strName""]","Enter, Exit or Meat","进入, 退出或吃肉"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=344]/../column[@name=""strName""]","Time, Exit, Meat or Beer","等待, 退出, 肉或啤酒"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=352]/../column[@name=""strName""]",Melonhead loadout,西瓜头的装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=353]/../column[@name=""strName""]",Disassembled lockpicks,拆卸开锁器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=354]/../column[@name=""strName""]",Disassembled patchwork fur tunic,拆卸过的拼接皮革外套
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=370]/../column[@name=""strName""]",Degraded glass bottle,破损的玻璃瓶
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=373]/../column[@name=""strName""]",degraded shiv,破损的小刀
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=374]/../column[@name=""strName""]",degraded wooden bow,破损的木弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=375]/../column[@name=""strName""]",degraded compound bow,破损的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=376]/../column[@name=""strName""]",disassembled compound bow w/strap,拆卸带皮带的复合弓
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=378]/../column[@name=""strName""]",degraded crude piercing arrow,破损的简陋穿刺箭
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=379]/../column[@name=""strName""]",degraded crude broadhead arrow,破损的粗制宽箭头
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=384]/../column[@name=""strName""]",makeshift sling,临时背带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=385]/../column[@name=""strName""]",disassembled 12-gauge shotgun w/sling,拆卸的 12 口径霰弹枪带吊带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=387]/../column[@name=""strName""]",degraded sharp spear,破损的锋利矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=388]/../column[@name=""strName""]",Degraded broadspear,破损的宽幅矛
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=392]/../column[@name=""strName""]",military micro cell contents,军用纽扣电池的内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=394]/../column[@name=""strName""]",random jacket,随机的衬衫
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=395]/../column[@name=""strName""]",random carried weapon,随机携带武器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=397]/../column[@name=""strName""]",medium chunk of meat (spoiled),中等大小的肉块（变质）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=398]/../column[@name=""strName""]",rotten Enfield Horror corpse,腐烂的恩菲尔德恐魔尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=399]/../column[@name=""strName""]",carved large corpse,切开的大尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=400]/../column[@name=""strName""]",butchered dogman corpse,切开的狗人尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=401]/../column[@name=""strName""]",Security footage and dogman corpse,安保监控录像和狗人尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=403]/../column[@name=""strName""]","carved large, furry corpse","切开的大型的, 毛茸茸的尸体"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=404]/../column[@name=""strName""]",rotten dogman corpse,腐烂的狗人尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=406]/../column[@name=""strName""]",rotten deer corpse,腐烂的鹿尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=407]/../column[@name=""strName""]",carved deer doe corpse,雕鹿母鹿尸
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=408]/../column[@name=""strName""]",butchered deer doe corpse,被屠宰的鹿母鹿尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=410]/../column[@name=""strName""]",sling contents,背带的内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=411]/../column[@name=""strName""]",random food item,随机食物
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=412]/../column[@name=""strName""]",random container,随机容器
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=413]/../column[@name=""strName""]",random drink,随机饮料
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=414]/../column[@name=""strName""]",random drugs,随机药物
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=415]/../column[@name=""strName""]",random carried tool,随机携带工具
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=416]/../column[@name=""strName""]",random carried junk,随机携带垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=417]/../column[@name=""strName""]",random plains junk,随机平原垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=418]/../column[@name=""strName""]",random urban junk,随机城市垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=419]/../column[@name=""strName""]",random forest junk,随机森林垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=420]/../column[@name=""strName""]",random footwear,随机鞋类
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=421]/../column[@name=""strName""]",random pants,随机裤子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=422]/../column[@name=""strName""]",random clothing item,随机衣物项目
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=425]/../column[@name=""strName""]",flashlight contents,手电筒内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=426]/../column[@name=""strName""]",random ammo,随机弹药
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=430]/../column[@name=""strName""]",random sleeping bag,随机睡袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=451]/../column[@name=""strName""]",Random hardware device,随机硬件设备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=453]/../column[@name=""strName""]",Random hardware junk,随机硬件垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=455]/../column[@name=""strName""]",Random junk store hardware device and random batteries,随机杂货店硬件设备和随机电池
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=454]/../column[@name=""strName""]",Random memory stick w/software,随机的带有软件的内存棒
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=467]/../column[@name=""strName""]",medium chunk of human meat (spoiled),中等大小的人肉块（腐烂）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=468]/../column[@name=""strName""]",small chunk of human meat (spoiled),小块人肉（腐烂）
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=469]/../column[@name=""strName""]",rotten human corpse,腐烂的人类尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=470]/../column[@name=""strName""]",carved human corpse,切开的人类尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=473]/../column[@name=""strName""]",Yezinka loadout,夜辛卡装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=474]/../column[@name=""strName""]",great black swamp idle loot,大黑沼泽闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=475]/../column[@name=""strName""]",great black swamp scavenge locations,大黑沼泽搜集地点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=476]/../column[@name=""strName""]",Random great black swamp junk,随机大黑沼垃圾
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=487]/../column[@name=""strName""]",Degraded RTG Power Cell,破损的RTG电池
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=499]/../column[@name=""strName""]","Not interested, Makeshift Power Source, Makeshift Light Source, RTG cell",不感兴趣，临时电源，临时光源，RTG电池
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=500]/../column[@name=""strName""]",sprawl idle loot,底特律蔓延区闲置战利品
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=504]/../column[@name=""strName""]",C-Store Stock,C-Store 库存
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=508]/../column[@name=""strName""]",full AA battery,完整的 AA 电池
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=518]/../column[@name=""strName""]",forest camp type,森林营地类型
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=519]/../column[@name=""strName""]",forest default camps,森林默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=520]/../column[@name=""strName""]",storage shed camp type,仓库小屋营地类型
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=521]/../column[@name=""strName""]",suburban ruins default camps,郊区废墟默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=522]/../column[@name=""strName""]",high-rise initial scavenge locations,高层建筑废墟初始搜寻地点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=523]/../column[@name=""strName""]",high-rise ruins default camps,高层废墟默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=524]/../column[@name=""strName""]",forest shack camp type,森林小屋营地类型
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=525]/../column[@name=""strName""]",forest shack default camps,森林小屋默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=526]/../column[@name=""strName""]",urban ruins default camps,城市废墟默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=527]/../column[@name=""strName""]",rubble default camps,废墟默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=543]/../column[@name=""strName""]",disassembled SBS4 w/sling,拆解的 SBS4 带背带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=545]/../column[@name=""strName""]",DMC guard loadout,DMC警卫装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=546]/../column[@name=""strName""]",loaded SBS4 w/sling,装有弹药的 SBS4 带背带
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=548]/../column[@name=""strName""]",working flashlight,工作状态中的手电筒
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=549]/../column[@name=""strName""]",DMC Guard Torsowear,DMC 警卫背心
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=557]/../column[@name=""strName""]",Degraded Rawhide Longcoat,劣化的生皮长外衣
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=558]/../column[@name=""strName""]",ATN Trading Post Inventory,ATN 交易站
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=559]/../column[@name=""strName""]",ATN warrior loadout,ATN战士装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=560]/../column[@name=""strName""]",ATN Bow and Arrow,ATN弓和箭
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=561]/../column[@name=""strName""]",ATN Birch Bag,ATN桦木袋
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=562]/../column[@name=""strName""]","reach down, aid, give, enter, advance, exit, stairs up, forward, backwards, go left, beer, wine, whiskey, fishsticks, friedshrimps, soup, fries, dish, north, south, west, east","reach down, aid, give, enter, advance, exit, stairs up, forward, backwards, go left, beer, wine, whiskey, fishsticks, friedshrimps, soup, fries, dish, north, south, west, east"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=564]/../column[@name=""strName""]","Advance, Take Cover, Run Away, Not Interested, Sounds Good, Shout Friendly, Threat, Question, Melee Attack, Loot, Mock, Exit","Advance, Take Cover, Run Away, Not Interested, Sounds Good, Shout Friendly, Threat, Question, Melee Attack, Loot, Mock, Exit"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=571]/../column[@name=""strName""]",DMC Sniper loadout,DMC狙击手装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=572]/../column[@name=""strName""]",4mm Gauss Rifle Contents,4mm Gauss Rifle Contents
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=576]/../column[@name=""strName""]",Parkade default camps,停车场默认营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=578]/../column[@name=""strName""]",forest initial scavenge locations,森林初始搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=579]/../column[@name=""strName""]",field initial scavenge locations,田野初始搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=580]/../column[@name=""strName""]",forest shack initial scavenge locations,森林小屋初始搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=581]/../column[@name=""strName""]",great black swamp initial scavenge locations,大黑沼泽初始搜刮点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=582]/../column[@name=""strName""]",Either NVG or TVG (on),夜视镜/红外镜 (开启)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=587]/../column[@name=""strName""]",Skill Selection List,技能选择列表
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=588]/../column[@name=""strName""]",Trait Selection List,特征选择列表
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=592]/../column[@name=""strName""]",.45 Pistol Contents,.45手枪内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=593]/../column[@name=""strName""]",.357 Revolver Contents,.357左轮手枪内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=596]/../column[@name=""strName""]",XM54 Gas Mask (working),XM54 防毒面具 (工作中)
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=597]/../column[@name=""strName""]",Blue Frog Cultist Loadout,蓝蛙教徒装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=606]/../column[@name=""strName""]",random shipment,随机货物
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=612]/../column[@name=""strName""]",King Eli Loadout,国王埃利装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=613]/../column[@name=""strName""]",Blue Rot vaccine drum and samples in shopping cart,蓝腐病疫苗桶和购物车中的样本
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=615]/../column[@name=""strName""]",Clearbone Valley basement treasure,克莱尔伯恩谷地下室宝藏
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=617]/../column[@name=""strName""]","Blue Frog pages, Blue Rot cure bottle, Saginaw revisit","蓝蛙圣书页面, 蓝腐病治疗瓶, 再次拜访萨吉诺"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=620]/../column[@name=""strName""]","308 rifle with scope and sling, FMJ ammo, and NV goggles","308 步枪配有望远镜和背带, FMJ 弹药, 和夜视镜"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=642]/../column[@name=""strName""]",King Eli Loadout w/sled,King Eli Loadout w/sled
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=644]/../column[@name=""strName""]","Blue Frog pages, Saginaw revisit","蓝蛙圣书页面, 再次拜访萨吉诺"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=646]/../column[@name=""strName""]","Saginaw Revisit Banner, Broken Beaked Gas Mask",萨吉诺重访横幅，破碎的喙状防毒面具
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=648]/../column[@name=""strName""]",Broken Beaked Gas Mask,断喙防毒面具
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=675]/../column[@name=""strName""]",Disassembled DMC Drone Wreckage,拆卸的DMC无人机残骸
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=708]/../column[@name=""strName""]",Martha's Army Soldier Loadout,玛莎军士兵装备
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=719]/../column[@name=""strName""]",megacity/urban default camps,特大城市/城市违约阵营
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=721]/../column[@name=""strName""]","Question, Give, Reach Down, Enter, Go Upstairs, Go Downstairs, Turn Left, Turn Right, Exit","Go Upstairs, Go Downstairs, turn left, turn right, exit"
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=724]/../column[@name=""strName""]","Door Panel, question, call melonhead, exit",门板，问题，呼叫瓜头，出口
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=725]/../column[@name=""strName""]",rubble initial scavenge locations,废墟初始清理位置
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=726]/../column[@name=""strName""]",suburban initial scavenge locations,郊区初始拾荒地点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=727]/../column[@name=""strName""]",urban initial scavenge locations,城市初始拾荒地点
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=728]/../column[@name=""strName""]",random pre-collapse household tool,随机预塌陷家用工具
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=731]/../column[@name=""strName""]",Last Chance Canteen Options,最后机会食堂选项
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=736]/../column[@name=""strName""]",pickup truck camp site,皮卡卡车营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=737]/../column[@name=""strName""]",hatchback camp site,汽车营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=738]/../column[@name=""strName""]",full-size van camp site,全尺寸货车营地
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=739]/../column[@name=""strName""]",all vehicle camp sites and fixtures,所有车辆营地和装置
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=752]/../column[@name=""strName""]",pill organizer contents,药片板内容
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=756]/../column[@name=""strName""]",rotten dog corpse,腐烂的狗尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=758]/../column[@name=""strName""]",tattered footwear,破烂的鞋子
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=762]/../column[@name=""strName""]",carved small-medium corpse,切开的中小型尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=763]/../column[@name=""strName""]",butchered small-medium corpse,屠宰的中小型尸体
+"//table[@name=""treasuretable""]/column[@name=""id""][text()=764]/../column[@name=""strName""]","Give, What, Exit","给, 什么, 退出"

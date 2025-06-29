@@ -1,0 +1,285 @@
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strName""]",medium campfire (lit),中等营火(点燃)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=1]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strName""]",sterilized water (pill),消毒过的水(净水片)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strSecretName""]",1x (pure),1x（纯）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=3]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strSecretName""]",1x (pure),1x（纯）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=4]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strName""]",shards,碎片
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strSecretName""]",stone with tool,带工具的石头
+"//table[@name=""recipes""]/column[@name=""nID""][text()=5]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]",roasted small meat,烤肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strSecretName""]",roasted meat(animal),烤肉(动物)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=6]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strName""]",shards,碎片
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strSecretName""]",stone with stone,石头对石头
+"//table[@name=""recipes""]/column[@name=""nID""][text()=7]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",carve corpse,小型尸体上的肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strSecretName""]",small animal,小型动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=8]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",butcher corpse,小型带毛皮尸体上的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strSecretName""]",small furry animal,小型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=9]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",patchwork hide glove,拼接皮手套
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=10]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",fire axe: add strap,带肩带的消防斧
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=12]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",makeshift foil pot,临时铝箔锅
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=13]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",folded cardboard box,折叠纸板箱
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=14]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",lockpicks,开锁工具
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=15]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strName""]",cured small meat,熏制小肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strSecretName""]",cured small meat(animal),熏制小肉(动物)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=16]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",food can noise trap,食物罐头制成的警报器
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=17]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",torch (crude),火把(粗制的)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=19]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]",torch (quality),火把(精制的)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=20]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",torch (lit),火把(点燃)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strSecretName""]",crude,粗制的
+"//table[@name=""recipes""]/column[@name=""nID""][text()=21]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",torch (lit),火把(点燃)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strSecretName""]",quality,精制的
+"//table[@name=""recipes""]/column[@name=""nID""][text()=22]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strName""]",rags from clothes,衣服上的布
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=23]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",clean rags (boiled),干净的布 1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strSecretName""]",1x,1x
+"//table[@name=""recipes""]/column[@name=""nID""][text()=24]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",clean rags (disinfectant),干净的布 (消毒)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=25]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",rough splint,粗制夹板
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=26]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]",arrow: crude broadhead,箭头：粗制宽头箭
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strSecretName""]",adhesive,黏合剂
+"//table[@name=""recipes""]/column[@name=""nID""][text()=27]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]",arrow: crude piercing,箭头：粗制刺穿箭
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strSecretName""]",adhesive,黏合剂
+"//table[@name=""recipes""]/column[@name=""nID""][text()=28]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",HVAC (repair),暖通空调(修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=29]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]",cryo electrical panel (repair),低温设施电器面板(修理)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strSecretName""]",cryo lighting,低温设施照明
+"//table[@name=""recipes""]/column[@name=""nID""][text()=30]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strName""]",extinguish campfire,熄灭营火
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strSecretName""]",medium,中等
+"//table[@name=""recipes""]/column[@name=""nID""][text()=31]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",extinguish campfire,熄灭营火
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strSecretName""]",small,小型
+"//table[@name=""recipes""]/column[@name=""nID""][text()=32]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strName""]",medium campfire (stoked),中等营火(助燃)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=33]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strName""]",crowbar: add strap,带肩带的撬棍
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=36]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strName""]",binoculars: add strap,可挂带望远镜
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=37]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strName""]",binoculars,双筒望远镜
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=38]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",scope: add strap,可挂带瞄准镜
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=39]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",plastic sled: add strap,拖拉式塑料雪橇
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=42]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",travois,印第安雪橇
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strSecretName""]",string,绳索
+"//table[@name=""recipes""]/column[@name=""nID""][text()=43]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",broken bottle,破碎的瓶子
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=44]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",shards,碎片
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strSecretName""]",glass,玻璃
+"//table[@name=""recipes""]/column[@name=""nID""][text()=45]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",shiv,小刀
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=46]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strName""]",compound bow: add strap,弓：复合弓 带背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=47]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strName""]",sling,弹弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strSecretName""]",with string and skill,带绳子
+"//table[@name=""recipes""]/column[@name=""nID""][text()=48]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strName""]",arrow: crude broadhead,箭头：粗制宽头箭
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=49]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",arrow: crude piercing,箭：粗制刺穿箭
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=50]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strName""]",sling,弹弓
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strSecretName""]",basic,基础
+"//table[@name=""recipes""]/column[@name=""nID""][text()=51]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",shotgun: add strap,霰弹枪 带背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=52]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]",spear: sharpened,矛:尖刺长矛
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=53]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",spear: hardened,矛:硬化长矛
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=54]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strName""]",spear: broadhead,矛:宽幅长矛
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strSecretName""]",adhesive,黏合剂
+"//table[@name=""recipes""]/column[@name=""nID""][text()=55]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strSecretName""]",2x (pure),2x（纯）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=56]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strSecretName""]",3x (pure),3x（纯）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=57]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strName""]",clean rags (boiled),干净的布 1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strSecretName""]",2x,2x
+"//table[@name=""recipes""]/column[@name=""nID""][text()=58]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strName""]",clean rags (boiled),干净的布 1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strSecretName""]",3x,3x
+"//table[@name=""recipes""]/column[@name=""nID""][text()=59]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strName""]",carve corpse,小型尸体上的肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strSecretName""]",large animal corpse,大型动物尸体
+"//table[@name=""recipes""]/column[@name=""nID""][text()=60]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strName""]",butcher corpse,大型带毛皮尸体的肉和毛皮
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strSecretName""]",large furry animal,大型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=61]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strName""]",carve corpse,大型带毛皮尸体的肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strSecretName""]",large furry animal,大型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=62]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strName""]",roasted medium meat,烤肉 (中等)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strSecretName""]",roasted meat (medium) (animal),烤肉 (中等) (动物)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=63]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strName""]",cured medium meat,熏制中型肉块
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strSecretName""]",cured medium meat (animal),熏制中型肉块 (动物)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=64]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strName""]",carve corpse,中型带毛皮尸体的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strSecretName""]",medium furry animal,中型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=65]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strName""]",butcher corpse,中型带毛皮尸体的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strSecretName""]",butcher medium furry animal,中型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=66]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strName""]",paper scraps,纸屑
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=67]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strName""]",travois,印第安雪橇
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strSecretName""]",with strong tying objects,有牢固的捆绑物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=68]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strName""]",spear: broadhead,长矛：宽头
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=69]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strName""]",carve corpse,人形尸体上的肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strSecretName""]",human corpse,人类尸体
+"//table[@name=""recipes""]/column[@name=""nID""][text()=70]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strName""]",roasted small meat,烤肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strSecretName""]",roasted meat (human),烤肉 (人类)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=71]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strName""]",cured small meat,熏制小型肉块
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strSecretName""]",cured small meat (human),熏制小型肉块 (人类)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=72]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strName""]",roasted medium meat,烤肉 (中等)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strSecretName""]",roasted meat (medium) (human),烤肉 (中等) (人类)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=73]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strName""]",cured medium meat,熏制中等肉块
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strSecretName""]",cured medium meat (human),熏制中等肉块 (人类)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=74]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strName""]",sterilized water (pill),消毒过的水(净水片)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strSecretName""]",1x (poison),1x（毒药）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=75]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strSecretName""]",1x (poison),1x（毒药）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=76]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strSecretName""]",2x (poison),2x（毒药）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=77]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strName""]",sterilized water (boiled),消毒过的水1x (煮沸)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strSecretName""]",3x (poison),3x（毒药）
+"//table[@name=""recipes""]/column[@name=""nID""][text()=78]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strName""]",analyzed water,分析过的水
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strSecretName""]",analyzed water (poison),分析过的水 (毒素)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=79]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strName""]",analyzed water,分析过的水
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strSecretName""]",analyzed water (biohazard),分析过的水 (病毒)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=80]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strName""]",analyzed water,分析过的水
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strSecretName""]","analyzed water (non-biohazard, non-chemical)",分析过的水 (无毒，无化工)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=81]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strName""]",analyzed water,分析过的水
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strSecretName""]",analyzed water (generic),分析过的水 (普通)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=82]/../column[@name=""strType""]",aid,aid
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strName""]",military shotgun: add strap,霰弹枪 (军用) 带背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=83]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strName""]",shards,碎片
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strSecretName""]",plastic,塑料
+"//table[@name=""recipes""]/column[@name=""nID""][text()=84]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strName""]",4mm Gauss rifle: add scope and strap,4mm 高斯步枪带被带和瞄准镜
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=85]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strName""]",4mm Gauss rifle: add strap,4mm 高斯步枪带背带
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=87]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strName""]",4mm Gauss rifle w/scope: add strap,"4mm 高斯步枪带瞄准镜, 添加背带"
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=88]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strName""]",4mm Gauss rifle w/strap: add scope,"4mm 高斯步枪带背带, 添加瞄准镜"
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=89]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strName""]",4mm Gauss rifle,4mm 高斯步枪
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=90]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strName""]",disassembled DMC drone wreckage,拆解底特律无人机残骸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=91]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strName""]",Gauss rifle battery,高斯步枪电池
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=92]/../column[@name=""strType""]",weapon,weapon
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strName""]",patchwork foil poncho,拼接铝箔斗篷
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=94]/../column[@name=""strType""]",gear,gear
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strName""]",foil scraps,铝箔薄片
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=95]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strName""]",broken branch,断树枝
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strSecretName""]",broken branch (reverse-only),断树枝 (仅反向)
+"//table[@name=""recipes""]/column[@name=""nID""][text()=96]/../column[@name=""strType""]",misc,misc
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strName""]","small battery ""Sparker""","小号电池 ""电火花"""
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=97]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strName""]","medium battery ""Sparker""","中号电池 ""电火花"""
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strSecretName""]",,
+"//table[@name=""recipes""]/column[@name=""nID""][text()=98]/../column[@name=""strType""]",tool,tool
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strName""]",carve corpse,鹿巴克的毛皮
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strSecretName""]",deer buck corpse,鹿巴克尸体
+"//table[@name=""recipes""]/column[@name=""nID""][text()=100]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strName""]",butcher corpse,鹿巴克的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strSecretName""]",deer buck corpse,鹿巴克尸体
+"//table[@name=""recipes""]/column[@name=""nID""][text()=101]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strName""]",carve corpse,红狐狸的毛皮
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strSecretName""]",red fox,红狐狸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=102]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strName""]",butcher corpse,红狐狸的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strSecretName""]",red fox,红狐狸
+"//table[@name=""recipes""]/column[@name=""nID""][text()=103]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strName""]",carve corpse,中小型带毛皮动物的肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strSecretName""]",small-medium furry animal,中小型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=104]/../column[@name=""strType""]",food,food
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strName""]",butcher corpse,中小型带毛皮动物的毛皮和肉
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strSecretName""]",small-medium furry animal,中小型毛皮动物
+"//table[@name=""recipes""]/column[@name=""nID""][text()=105]/../column[@name=""strType""]",food,food

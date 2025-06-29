@@ -1,0 +1,84 @@
+"//table[@name=""creatures""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Dogman,狗人
+"//table[@name=""creatures""]/column[@name=""id""][text()=1]/../column[@name=""strNamePublic""]",Creature,生物
+"//table[@name=""creatures""]/column[@name=""id""][text()=1]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Looter,掠夺者
+"//table[@name=""creatures""]/column[@name=""id""][text()=2]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=2]/../column[@name=""strNotes""]",Biddy personality,老妇人般的性格
+"//table[@name=""creatures""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Enfield Horror,恩菲尔德恐魔
+"//table[@name=""creatures""]/column[@name=""id""][text()=3]/../column[@name=""strNamePublic""]",Creature,生物
+"//table[@name=""creatures""]/column[@name=""id""][text()=3]/../column[@name=""strNotes""]",Trap/Ambush,陷阱/埋伏
+"//table[@name=""creatures""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Blue Frog Preacher,蓝蛙传教士
+"//table[@name=""creatures""]/column[@name=""id""][text()=4]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=4]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Merga Wraith,魔迦怨灵
+"//table[@name=""creatures""]/column[@name=""id""][text()=5]/../column[@name=""strNamePublic""]",Merga Wraith,魔迦怨灵
+"//table[@name=""creatures""]/column[@name=""id""][text()=5]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Melonhead,瓜头人
+"//table[@name=""creatures""]/column[@name=""id""][text()=6]/../column[@name=""strNamePublic""]",Creature,生物
+"//table[@name=""creatures""]/column[@name=""id""][text()=6]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Enfield Horror,恩菲尔德恐魔
+"//table[@name=""creatures""]/column[@name=""id""][text()=7]/../column[@name=""strNamePublic""]",Enfield Horror,恩菲尔德恐魔
+"//table[@name=""creatures""]/column[@name=""id""][text()=7]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Squirrel,松鼠
+"//table[@name=""creatures""]/column[@name=""id""][text()=8]/../column[@name=""strNamePublic""]",Squirrel,松鼠
+"//table[@name=""creatures""]/column[@name=""id""][text()=8]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Yezinka,夜辛卡
+"//table[@name=""creatures""]/column[@name=""id""][text()=9]/../column[@name=""strNamePublic""]",Yezinka,夜辛卡
+"//table[@name=""creatures""]/column[@name=""id""][text()=9]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Looter,掠夺者
+"//table[@name=""creatures""]/column[@name=""id""][text()=10]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=10]/../column[@name=""strNotes""]",Shifty personality,踌躇不定的性格
+"//table[@name=""creatures""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",Looter,掠夺者
+"//table[@name=""creatures""]/column[@name=""id""][text()=11]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=11]/../column[@name=""strNotes""]",Rita personality,老实憨厚的个性
+"//table[@name=""creatures""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",Looter,掠夺者
+"//table[@name=""creatures""]/column[@name=""id""][text()=12]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=12]/../column[@name=""strNotes""]",John personality,糊里糊涂的个性
+"//table[@name=""creatures""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Looter,掠夺者
+"//table[@name=""creatures""]/column[@name=""id""][text()=13]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=13]/../column[@name=""strNotes""]",Kim personality,独裁专政的个性
+"//table[@name=""creatures""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Feral,野蛮人
+"//table[@name=""creatures""]/column[@name=""id""][text()=14]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=14]/../column[@name=""strNotes""]",Almost Wendigo,几乎是温迪戈
+"//table[@name=""creatures""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",ATN Warrior,ATN 战士
+"//table[@name=""creatures""]/column[@name=""id""][text()=15]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=15]/../column[@name=""strNotes""]",ATN Warrior Female,ATN 女战士
+"//table[@name=""creatures""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",ATN Warrior,ATN 战士
+"//table[@name=""creatures""]/column[@name=""id""][text()=16]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=16]/../column[@name=""strNotes""]",ATN Warrior Male,ATN 男战士
+"//table[@name=""creatures""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",ATN Warrior,ATN 战士
+"//table[@name=""creatures""]/column[@name=""id""][text()=17]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=17]/../column[@name=""strNotes""]",ATN Slayer,ATN 杀手
+"//table[@name=""creatures""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",Blue Frog Cultist,蓝蛙教徒
+"//table[@name=""creatures""]/column[@name=""id""][text()=18]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=18]/../column[@name=""strNotes""]",,
+"//table[@name=""creatures""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",King Elias,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=19]/../column[@name=""strNamePublic""]",Stranger,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=19]/../column[@name=""strNotes""]",King pilgrimage to destroy Clearbone then to DMC,圣王圣驾于惊骸谷后前往底特律
+"//table[@name=""creatures""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",King Elias,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=20]/../column[@name=""strNamePublic""]",Stranger,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=20]/../column[@name=""strNotes""]",King pilgrimage to Clearbone then to Saginaw,圣王圣驾于惊骸谷后前往萨吉诺
+"//table[@name=""creatures""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",King Elias,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=21]/../column[@name=""strNamePublic""]",Stranger,圣王伊莱亚斯
+"//table[@name=""creatures""]/column[@name=""id""][text()=21]/../column[@name=""strNotes""]",King already destroyed Clearbone and on to DMC,圣王已经毁了惊骸谷然后前往底特律
+"//table[@name=""creatures""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Queen Liza,王后莉莎
+"//table[@name=""creatures""]/column[@name=""id""][text()=22]/../column[@name=""strNamePublic""]",Stranger,王后莉莎
+"//table[@name=""creatures""]/column[@name=""id""][text()=22]/../column[@name=""strNotes""]",Queen pilgrimage to Clearbone then to Saginaw,王后圣驾惊骸谷然后前往萨吉诺
+"//table[@name=""creatures""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Philip,菲利普
+"//table[@name=""creatures""]/column[@name=""id""][text()=23]/../column[@name=""strNamePublic""]",Philip,菲利普
+"//table[@name=""creatures""]/column[@name=""id""][text()=23]/../column[@name=""strNotes""]",Base player stats,玩家的基础统计
+"//table[@name=""creatures""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",Martha's Army Soldier,玛莎的军队
+"//table[@name=""creatures""]/column[@name=""id""][text()=24]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=24]/../column[@name=""strNotes""]",JD,JD
+"//table[@name=""creatures""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",Martha's Army Soldier,玛莎的军队
+"//table[@name=""creatures""]/column[@name=""id""][text()=25]/../column[@name=""strNamePublic""]",Stranger,陌生人
+"//table[@name=""creatures""]/column[@name=""id""][text()=25]/../column[@name=""strNotes""]",Recruiter,雇佣兵
+"//table[@name=""creatures""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",Feral Dog,野狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=26]/../column[@name=""strNamePublic""]",Dog,狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=26]/../column[@name=""strNotes""]",Golden Retriever,金毛猎犬
+"//table[@name=""creatures""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",Feral Dog,野狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=27]/../column[@name=""strNamePublic""]",Dog,狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=27]/../column[@name=""strNotes""]",Black Lab/Newfoundland,黑毛/纽芬兰犬
+"//table[@name=""creatures""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",Feral Dog,野狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=28]/../column[@name=""strNamePublic""]",Dog,狗
+"//table[@name=""creatures""]/column[@name=""id""][text()=28]/../column[@name=""strNotes""]",Bernese Mountain,伯恩山犬

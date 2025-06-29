@@ -1,0 +1,16 @@
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Merga Wraith,魔迦怨灵
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",DMC Pilgrim,DMC朝圣者
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Zom Zom's Bad Mutha,僵僵餐厅的摇滚帮
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",Midland Deer Pack,中部鹿群
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",Eastern Deer Pack,东部鹿群
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",Yezinka,夜辛卡
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",DMC Guard,DMC警卫
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",Midland Large Deer Pack,中部大鹿群
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Pilgrim,朝圣者
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",King Elias,圣王伊莱亚斯
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",King Elias (no destroy),圣王伊莱亚斯（未破坏）
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=25]/../column[@name=""strName""]","King Elias (destroyed, to DMC)",圣王伊莱亚斯（破坏，到底特律）
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=26]/../column[@name=""strName""]","Queen Liza (to Clearbone, then Saginaw)",皇后莉莎（到剔骸谷，接着是萨吉诺）
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=30]/../column[@name=""strName""]","Feral Dog Pack (BR, South Central)","野狗群 (BR, 南中部)"
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=31]/../column[@name=""strName""]","Feral Dog Pack (NF, South Central)","野狗群 (NF, 南中部)"
+"//table[@name=""creaturesources""]/column[@name=""id""][text()=32]/../column[@name=""strName""]","Feral Dog Pack (BM, South Central)","野狗群 (BM, 南中部)"

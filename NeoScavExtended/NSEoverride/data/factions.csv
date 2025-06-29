@@ -1,0 +1,14 @@
+"//table[@name=""factions""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Dogmen,狗人
+"//table[@name=""factions""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Looters,掠夺者
+"//table[@name=""factions""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Bad Mutha,摇滚帮
+"//table[@name=""factions""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Blue Frogs,蓝蛙教徒
+"//table[@name=""factions""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Merga Wraith,魔迦怨灵
+"//table[@name=""factions""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Melonheads,瓜头人
+"//table[@name=""factions""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Enfield Horrors,恩菲尔德恐魔
+"//table[@name=""factions""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Deer,鹿
+"//table[@name=""factions""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Squirrels,松鼠
+"//table[@name=""factions""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Loners,孤独者
+"//table[@name=""factions""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",ATN Warriors,ATN战士
+"//table[@name=""factions""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",King Elias,圣王伊莱亚斯
+"//table[@name=""factions""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Martha's Army,玛莎的军队
+"//table[@name=""factions""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Feral Dogs,野狗

@@ -1,0 +1,81 @@
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=4]/../column[@name=""strName""]",water (non-chemical),水（非化学处理）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=6]/../column[@name=""strName""]","any fireproof, waterproof container",耐火防水的容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=8]/../column[@name=""strName""]",tannin source,含丹宁酸
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=9]/../column[@name=""strName""]",small raw meat,一小块肉（生）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=10]/../column[@name=""strName""]",medium shaft,大型杆状物
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=12]/../column[@name=""strName""]",small pelt,小毛皮
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=13]/../column[@name=""strName""]",small thread,短型线绳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=14]/../column[@name=""strName""]",sharp edge,尖锐的物品
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=15]/../column[@name=""strName""]",animal or humanoid corpse,小型尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=17]/../column[@name=""strName""]",medium or large shaft,大型杆状物
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=18]/../column[@name=""strName""]",medium thread,中型线绳
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=19]/../column[@name=""strName""]",".308 hunting rifle, no mods",".308猎枪, 无模组"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=20]/../column[@name=""strName""]","small or medium monocular optical zoom, no strap","小型或中型的单眼光学望远镜, 无背带"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=21]/../column[@name=""strName""]",small mechanical parts,小型机械零件
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=22]/../column[@name=""strName""]",screwdriver,螺丝刀
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=24]/../column[@name=""strName""]",handful of ashes,一把灰烬
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=25]/../column[@name=""strName""]",small or medium rigid container,小型或中型刚性容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=26]/../column[@name=""strName""]",large waterproof sheet,大型防水布片
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=27]/../column[@name=""strName""]","small flammable, non-rigid sheet",小型易燃非刚性薄板
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=28]/../column[@name=""strName""]","medium absorbent, non-rigid, non-springy sheet",中等吸收性、非刚性、非弹性片材
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=29]/../column[@name=""strName""]",any water,水
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=30]/../column[@name=""strName""]","small, absorbent, non-rigid sheet",小型、吸收性、非刚性片材
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=32]/../column[@name=""strName""]",small or medium non-rigid sheet,中小型非刚性薄板
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=34]/../column[@name=""strName""]",dogman pelt,狗人皮毛
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=39]/../column[@name=""strName""]",Electrician skill,电工技能
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=41]/../column[@name=""strName""]",animal or humanoid corpse,小型带毛皮尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=42]/../column[@name=""strName""]",small flexible wrapping object,小型柔韧物件
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=43]/../column[@name=""strName""]",small flame and heat source,小型火焰和热源
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=44]/../column[@name=""strName""]",medium flame and heat source,中型火焰和热源
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=45]/../column[@name=""strName""]",unlit torch,未点燃的火炬
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=46]/../column[@name=""strName""]",unlit quality torch,未点燃的优质火炬
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=50]/../column[@name=""strName""]",medium tree branch,中等树枝
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=52]/../column[@name=""strName""]",tool: prying,工具：撬棍
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=53]/../column[@name=""strName""]","binocular optical zoom, no strap","双筒光学望远镜, 无背带"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=54]/../column[@name=""strName""]",very large cardboard container,非常大的硬纸板容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=55]/../column[@name=""strName""]",shopping cart frame,购物车框架
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=56]/../column[@name=""strName""]",caster wheel,轮轴
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=57]/../column[@name=""strName""]",shopping cart basket,购物车篮
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=58]/../column[@name=""strName""]",very large rigid sheet container,超大型刚性薄板容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=60]/../column[@name=""strName""]",large shaft,大型杆状物
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=62]/../column[@name=""strName""]","medium brittle, non-flexible, rigid object",中型易断脆弱无弹性且坚硬的固定装置
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=64]/../column[@name=""strName""]","compound bow, no mods",复合弓，无模组
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=65]/../column[@name=""strName""]",large tree branch,大树枝
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=66]/../column[@name=""strName""]","small rigid, sharp edge with point object",小型坚硬有尖端和锋利边缘物
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=67]/../column[@name=""strName""]",small sheet for fletching,羽绒用小片
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=68]/../column[@name=""strName""]",small sharp point,小型尖刺物
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=69]/../column[@name=""strName""]","12-gauge shotgun, no mods","12号口径猎枪, 无模组"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=70]/../column[@name=""strName""]","large fireproof, waterproof container",大型防火防水容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=71]/../column[@name=""strName""]",animal or humanoid corpse,小型尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=72]/../column[@name=""strName""]",animal or humanoid corpse,狗人尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=73]/../column[@name=""strName""]",animal or humanoid corpse,小型尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=74]/../column[@name=""strName""]",medium raw meat,中等块肉（生）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=75]/../column[@name=""strName""]",animal or humanoid corpse,小型尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=79]/../column[@name=""strName""]",medium paper,中等大小纸张
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=80]/../column[@name=""strName""]","medium rigid, springy shaft",中等刚性、弹性轴
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=81]/../column[@name=""strName""]",".308 hunting rifle, scoped, no strap",".308猎枪, 带瞄准镜, 无背带"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=82]/../column[@name=""strName""]",".308 hunting rifle, strapped, no scope",".308猎枪, 带背带, 无瞄准镜"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=83]/../column[@name=""strName""]",iSlab,iSlab
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=84]/../column[@name=""strName""]",medium raw human meat,中生人肉
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=85]/../column[@name=""strName""]",small raw human meat,小块生人肉
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=86]/../column[@name=""strName""]",water (chemical),水（化学处理）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=88]/../column[@name=""strName""]",water (biohazard),水（生物危害物质）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=89]/../column[@name=""strName""]","water (non-biohazard, non-chemical)",水（无生物危害、无化学物质）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=90]/../column[@name=""strName""]",water (unidentified),水（不明）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=91]/../column[@name=""strName""]",animal or humanoid corpse,小型尸体
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=92]/../column[@name=""strName""]",stuff Radiation Bob wants (big),辐射鲍勃想要的东西（大）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=93]/../column[@name=""strName""]",stuff Radiation Bob wants (small),辐射鲍勃想要的东西（小）
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=95]/../column[@name=""strName""]",smartphone,智能手机
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=96]/../column[@name=""strName""]","SBS4 shotgun, no mods","SBS4 霰弹枪, 无模组"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=97]/../column[@name=""strName""]","small-medium brittle, flexible, rigid object",中型易断柔韧且坚硬的物品
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=100]/../column[@name=""strName""]","4mm Gauss rifle, no mods","4mm 高斯步枪, 无模组"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=101]/../column[@name=""strName""]","scoped 4mm Gauss rifle, no strap","带瞄准镜 4mm 高斯步枪, 无背带"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=102]/../column[@name=""strName""]","strapped 4mm Gauss rifle, no scope","带背带 4mm 高斯步枪, 无瞄准镜"
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=103]/../column[@name=""strName""]",tactical rifle stock,战术步枪枪托
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=104]/../column[@name=""strName""]",high-energy capacitor,高能电容器
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=109]/../column[@name=""strName""]",DMC drone wreckage,DMC 无人机残骸
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=118]/../column[@name=""strName""]",sharpened or hardened spear w/ no strap,锋利或硬化的长矛 无背带
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=119]/../column[@name=""strName""]",small battery,小号电池
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=120]/../column[@name=""strName""]",medium battery,中号电池
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=127]/../column[@name=""strName""]",DMC items to confiscate,DMC 物品没收处
+"//table[@name=""ingredients""]/column[@name=""nID""][text()=128]/../column[@name=""strName""]","medium flame and heat source, extinguishable","中等火焰和热源, 可熄灭"

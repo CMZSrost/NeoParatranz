@@ -1,0 +1,621 @@
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strName""]",Fall back under cover,在掩体中后退
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strSuccess""]",<us> falls back from <them> under cover.,<us> 在掩体下从 <them> 身旁撤离.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=1]/../column[@name=""strPopUp""]","Fall back under cover 
+Moves 1 space away from target maintaining cover.
+Must see target.
+Low chance of tripping on terrain.
+Low chance of being detected if hidden.
+","掩体中后退 远离目标1格，维持掩蔽状态。必须看到目标。在地形上跌倒的机会很小。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",Melee attack,近战攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strNotes""]",Normal,普通
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 攻击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=2]/../column[@name=""strPopUp""]","Melee attack 
+Use current melee attack on target.
+Must see target.
+Low chance of making you vulnerable.
+","近战攻击 使用当前的近战武器攻击目标。必须看到目标。使你容易受到攻击的机会很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",Take cover,掩护
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strSuccess""]",<us> takes cover from <them>.,<us> 寻找掩护以躲避 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=3]/../column[@name=""strPopUp""]","Take cover 
+Dives behind best cover terrain can provide.
+Must be at least 1 space away from all enemies.
+Chance of being detected if hidden.
+","掩护 跳到地形提供的最佳掩护处。必须至少离所有敌人1格。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",Sneak towards,潜行前进
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strSuccess""]",<us> sneaks toward <them>.,<us> 向 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=4]/../column[@name=""strPopUp""]","Sneak towards 
+Moves 1 space closer to target while hiding.
+Must see target, and target must not see you yet.
+Removes cover.
+Low chance of tripping on terrain.
+Chance of being detected if hidden.
+","潜行前进 在隐藏的情况下向目标移动1格。必须看到目标，且目标尚未看到你。移除掩护。在地形上跌倒的机会很小。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",Hidden Retreat,潜行撤退
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strSuccess""]",<us> sneaks out of battle from <them>.,<us> 悄悄地远离 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strFail""]",<us> tries to sneak out of battle from <them>...but can't get away!,<us> 尝试从 <them>身旁偷偷离开...但是被对方发现了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=5]/../column[@name=""strPopUp""]","Hidden Retreat 
+Chance to sneak out of battle without being seen.
+Chance to move one space away from target if can't escape.
+Must see target, and target must not see you yet.
+Removes cover.
+Low chance of tripping on terrain.
+Low chance of being detected if hidden.
+","潜行撤退 有机会偷偷逃出战斗，不被看到。如果逃不出去，有机会离开目标1格。必须看到目标，且目标尚未看到你。移除掩护。在地形上跌倒的机会很小。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",Run!,逃跑!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strSuccess""]",<us> runs from <them>.,<us> 逃避 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=6]/../column[@name=""strPopUp""]","Run! 
+Moves 2-4 spaces away from target.
+Must see target.
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+","逃跑!远离目标2-4格。必须看到目标。移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strName""]",Advance,前进
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strSuccess""]",<us> advances towards <them>.,<us> 靠近 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=7]/../column[@name=""strPopUp""]","Advance 
+Moves 1 space closer to target.
+Must see target.
+Removes cover.
+Chance of tripping on terrain.
+Chance of being detected if hidden.
+","前进 向目标靠近 1 格。必须看到目标。移除掩护。有几率被地形绊倒。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",Advance under cover,掩体中前进
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strSuccess""]",<us> advances towards <them> under cover.,<us> 在掩体中靠近 <them> .
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=8]/../column[@name=""strPopUp""]","Advance under cover
+Moves 1 space closer to target maintaining cover.
+Must see target.
+Low chance of tripping on terrain.
+Low chance of being detected if hidden.
+","掩体中前进 向目标移动1格，保持掩护。必须看到目标。在地形上跌倒的机会很小。如果隐藏，被发现的可能性很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",Search,搜索
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strNotes""]",non-thermal,没有热源
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strSuccess""]",<us> searches for <them>.,<us> 寻找 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=9]/../column[@name=""strPopUp""]","Search 
+Scans area for hidden targets.
+Must not see target yet.
+Chance of being detected if hidden.
+","搜索 扫描区域以寻找隐藏的目标。必须未看到目标。如果隐藏，有被发现的可能性。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",Charge!,冲锋!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strSuccess""]",<us> charges at <them>.,<us> 向 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=10]/../column[@name=""strPopUp""]","Charge! 
+Moves 2-3 spaces towards target.
+Must see target.
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+","冲锋!向目标移动2-3格。必须看到目标。移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",Parry,格挡
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strSuccess""]",<us> parries <them>'s move.,<us> 格挡了 <them>的动作.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=11]/../column[@name=""strPopUp""]","Parry 
+Parry the target's next attack, making you much harder to hit.
+Must be in melee range.
+Must see target.
+Chance of being detected if hidden.
+Not always available.
+","格挡 格挡目标的下一次攻击，使你难以被击中。必须在近战范围内。必须看到目标。如果隐藏，有被发现的可能性。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",Kick,踢踹
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strSuccess""]",<us> kicks <them> while they're down!,"<us> 趁着 <them> 倒地,进行踢踹!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strFail""]",<us> tries to kick <them> while they're down...but misses!,<us> 想趁着 <them> 倒地去踢踹他...但是没踢中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=12]/../column[@name=""strPopUp""]","Kick 
+Kick the target while they're down.
+Chance to injure target, plus keep them fallen and force them to lose next turn.
+Must be in melee range.
+Must see target.
+High chance of being detected if hidden.
+Not always available.
+","踢踹 踢踹倒下的敌人。有可能伤害目标，使他们无法起身并失去下一回合的行动机会。必须在近战范围内。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strName""]",Roll dodge,翻滚闪避
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strSuccess""]",<us> rolls from <them>.,<us> 翻滚着远离了 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=13]/../column[@name=""strPopUp""]","Roll dodge 
+Roll from the target, making you harder to hit.
+Chance to move 1 space away from target.
+Removes cover.
+Must see target.
+High chance of being detected if hidden.
+Not always available.
+","翻滚闪避 滚离目标，使你难以被击中。有可能远离目标1格。移除掩护。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",Pull Down,拽倒
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strSuccess""]",<us> pulls <them> down to the ground!,<us> 把 <them> 拉倒在地!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strFail""]",<us> reaches for <them>...but misses!,<us> 试着把 <them>拉倒在地...但没能成功!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=14]/../column[@name=""strPopUp""]","Pull Down 
+Reach for target and attempt to throw off their footing.
+Chance to injure target and knock them down.
+Must be in melee range.
+Must see target.
+High chance of being detected if hidden.
+Not always available.",拽倒 拉拽目标尝试使其摔倒。有可能伤害目标并将其摔倒。必须在近战范围内。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",Desperate Retreat,落荒而逃
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strSuccess""]",<us> desperately retreats from <them>.,<us> 被 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strFail""]",<us> desperately tries to retreat from <them>...but can't get away!,<us> 被 <them>吓得落荒而逃...但是没能逃成!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=15]/../column[@name=""strPopUp""]","Desperate Retreat 
+Move 1-2 spaces away from target and try to leave the battlefield, based on enemy numbers and proximities, movement rates, etc.
+Must not be in melee range from any enemy.
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+Not always available.",落荒而逃 远离目标1-2格并试着离开战场，成功率由敌人的数量，距离，行动速度决定。不能处于敌人的近战攻击范围内。移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",Sneak away,悄悄离开
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strSuccess""]",<us> sneaks away from <them>.,<us> 从 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=16]/../column[@name=""strPopUp""]","Sneak away 
+Moves 1 space away from target while hiding.
+Must see target, and target must not see you yet.
+Removes cover.
+Low chance of tripping on terrain.
+Chance of being detected if hidden.
+","悄悄离开 保持隐藏状态远离目标移动一格。必须看到目标，目标还未看到你。移除掩护。在地形上跌倒的机会很小。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strName""]",Ranged Attack,远程攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strSuccess""]",<us> attacks <them>...and hits!,<us> 射击 <them>...击中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strFail""]",<us> tries to attack <them>...but misses!,<us> 尝试攻击 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=17]/../column[@name=""strPopUp""]","Ranged Attack
+Use current ranged attack on target.
+Must see target.
+Low chance of making you vulnerable.",远程攻击 使用当前的远程武器攻击目标。必须看到目标。低几率使你露出破绽。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strName""]",Get Up,起身
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strSuccess""]",<us> gets up.,<us> 爬了起来.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=18]/../column[@name=""strPopUp""]","Get Up
+Stand up from being prone.",起身 从地上爬起来。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strName""]",Blind attack,盲目攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strSuccess""]",<us> blindly lashes out...and hits!,<us> 胡乱地挥动武器...并击中了什么!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strFail""]",<us> blindly flails about...but misses!,<us> 胡乱地挥动武器...但什么都没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=19]/../column[@name=""strPopUp""]","Blind attack 
+Tries to melee attack an unseen target.
+Small chance to hit target.
+Must be in melee range.
+","盲目攻击 尝试近战攻击一个看不见的目标。击中目标的机会很小。必须在近战范围内。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strName""]",Melee surge,疯狂的近距离攻击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strSuccess""]",<us> launches a flurry of attacks at <them>...and hits!,<us> 疯狂地向 <them>发动一连串的攻击...并打中了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strFail""]",<us> tries to launch a flurry of attacks at <them>...but misses!,<us> 试图疯狂地向 <them>发动一连串的攻击...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=20]/../column[@name=""strPopUp""]","Melee surge 
+Launch a flurry of melee attacks at target.
+Chance to hit target 1-3 times, and stun them for 1 turn.
+You automatically lose next turn.
+Must be in melee range.
+Must see target.
+High chance of being detected if hidden.
+","疯狂的近距离攻击 对目标发起一连串近战攻击。有几率命中目标1-3次，并使其眩晕1回合。下一回合无法行动。必须在近战范围内。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",Retreat,撤离
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strSuccess""]",<us> retreats from <them>.,<us> 从 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strFail""]",<us> tries to retreat from <them>...but can't get away!,<us> 想从 <them>身旁撤离...但被没能逃走!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=21]/../column[@name=""strPopUp""]","Retreat 
+Chance to leave the battlefield, based on enemy numbers and proximities, movement rates, etc.
+Chance to move one space away from target if can't escape.
+Must be out of all enemies' ranges.
+Removes cover.
+Low chance of tripping on terrain.
+","撤离 离开战场的几率取决于敌人的数量和距离、移动速度等。如果逃不出去，有机会离开目标1格。必须在所有敌人的射程之外。移除掩护。在地形上跌倒的机会很小。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",Tackle target,扑倒对方
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strSuccess""]",<us> tackles <them>.,<us> 扑倒了 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strFail""]",<us> tries to tackle <them>...but misses!,<us> 想扑倒 <them>...但是扑空了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=22]/../column[@name=""strPopUp""]","Tackle target 
+Dives at the target, moving 1 space closer and trying to knock it down.
+Chance to knock down target and make them lose 1 turn.
+Must see target.
+Attacker automatically falls and loses cover.
+High chance of being detected if hidden.
+Not always available.",扑倒对方 向目标冲刺，移动1个单位，试图把它扑倒。有几率扑倒目标并使其下一回合无法行动。必须看到目标。攻击者会摔倒并失去掩护。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strName""]",Blast away,猛烈开火
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strSuccess""]","<us> unloads on <them>, pinning them down!","<us> 疯狂射击 <them>, 使得后者被压制得抬不起头!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strFail""]","<us> unloads on <them>, pinning them down!","<us> 想扫射 <them>, 但没有一发射中!"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=23]/../column[@name=""strPopUp""]","Blast away 
+Launch a volley of ranged attacks at target.
+Chance to hit target 3 times.
+Forces target to take cover and is suppressed.
+Must see target.
+High chance of being detected if hidden.
+","猛烈开火 向目标发起一连串的远程攻击。有机会命中目标3次。迫使目标寻求掩护并被压制。必须看到目标。如果隐藏，被发现的可能性高。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",Fall back,后退
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strSuccess""]",<us> falls back from <them>.,<us> 从 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=24]/../column[@name=""strPopUp""]","Fall back 
+Moves 1 space further from target.
+Must see target.
+Removes cover.
+Chance of tripping on terrain.
+Chance of being detected if hidden.
+","后退 远离目标一格。必须看到目标。移除掩护。有几率被地形绊倒。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strName""]",Shoot Blindly,盲目射击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strSuccess""]",<us> fires into the darkness...and hits!,<us> 向暗处射击...射中什么了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strFail""]",<us> fires into the darkness...but misses!,<us> 向暗处射击...但什么都没有射中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=25]/../column[@name=""strPopUp""]","Shoot Blindly
+Use current ranged attack against an unseen target.
+Slim chance to hit target.",盲目射击 使用目前的远程武器攻击一个看不见的目标。击中目标的机会很小。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",Dodge,躲闪
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strSuccess""]",<us> dodges <them>'s move.,<us> 闪避着 <them>的动作.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=26]/../column[@name=""strPopUp""]","Dodge 
+Duck the target's next attack, making you harder to hit.
+Chance to move 1 space away from target.
+Must see target.
+Chance of being detected if hidden.
+Not always available.
+","躲闪 闪避目标的下一次攻击，让你更难被击中。有机会远离目标 1 格。必须看到目标。如果隐藏，有被发现的可能性。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",Blind Retreat,盲目撤离
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strSuccess""]",<us> flees blindly.,<us> 盲目地逃跑了.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strFail""]",<us> flees blindly.,<us> 盲目地逃跑了...但是没能逃成.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=27]/../column[@name=""strPopUp""]","Blind Retreat 
+Chooses a random direction, and runs!
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+Not always available.
+","盲目撤离 胡乱选择一个方向，赶紧跑！移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",Threaten,威胁
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strNotes""]",Weapon,武器
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strSuccess""]",<us> threatens <them>!,<us> 威胁 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=28]/../column[@name=""strPopUp""]","Threaten with Weapon
+Raise weapon and threaten to use it.
+High chance of being detected if hidden.",用武器威胁 举起武器并威胁要使用它。如果隐藏，被发现的可能性高。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",Sprint Away!,迅速逃跑!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strSuccess""]",<us> sprints away from the fray!,<us> 从战斗中猛冲逃跑!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=29]/../column[@name=""strPopUp""]","Sprint Away!
+Moves 3-5 spaces away from all visible targets.
+Must see target.
+Removes cover.
+Makes you vulnerable.
+High chance of tripping on terrain.
+High chance of being detected if hidden.
+Not always available.",迅速逃跑!远离所有可见目标3-5格。必须看到目标。移除掩护。使你露出破绽。在地形上跌倒的机会高。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",Lure,引诱
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strSuccess""]",<us> lures <them> into a trap!,<us> 把 <them> 引诱进陷阱了!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strFail""]",<us> tries to lure <them> into a trap...but fails!,<us> 尝试把 <them> 引诱进陷阱...但没能成功!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=30]/../column[@name=""strPopUp""]","Lure
+Tries to use the environment against the target.
+Moves 1 space away from target.
+Chance to knock down target and make them lose 1 turn.
+Chance to damage target.
+Must see target.
+Target must see you.
+Attacker automatically becomes vulnerable.
+Not always available.",引诱 尝试利用环境来伤害目标。远离目标 1 格。有几率击倒目标并使其失去一回合行动机会。有机会伤害目标。必须看到目标。目标必须看到你。攻击者会露出破绽。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strName""]",Headbutt,用头撞击
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strSuccess""]",<us> head butts <them>!,<us> 用头撞击 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=31]/../column[@name=""strPopUp""]","Headbutt
+Headbutt the target.
+Chance to injure target, knock them down, and force them to lose 1 turn.
+Must be in melee range.
+Target must not be fallen.
+Must see target.
+High chance of being detected if hidden.
+Not always available.",用头撞击 用头撞向目标。有几率伤害目标，使其倒地并失去下一回合行动机会。必须在近战范围内。目标不能倒地。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strName""]",Leg Trip,踢绊
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strSuccess""]",<us> trips <them>!,<us> 绊倒了 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strFail""]",<us> tries to trip <them>...but misses!,<us> 想要绊倒 <them>...但没有成功!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=32]/../column[@name=""strPopUp""]","Leg Trip
+Trip the target.
+Chance to knock down target.
+Must be in melee range.
+Must see target.
+Both you and target must not be fallen.
+High chance of being detected if hidden.
+Not always available.
+","踢绊 试着绊倒目标。有机会击倒目标。必须在近战范围内。必须看到目标。你和目标不能倒地。如果隐藏，被发现的可能性高。并非总是可用。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",Create Obstacle,制造障碍
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strSuccess""]",<us> knocks some debris towards <them>!,<us> 将一些碎物丢向了 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=33]/../column[@name=""strPopUp""]","Create Obstacle
+Knocks some debris, a log, or other item towards target.
+Chance to make them lose 1 turn.
+Chance to knock them down.
+Chance to damage target.
+Must see target.
+Not always available.",制造障碍 将一些碎片、木头或其他物品丢向目标。有几率使他们下一回合无法行动。有几率将他们绊倒。有机会伤害目标。必须看到目标。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",Leap at Target,跳击对方
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strSuccess""]",<us> leaps onto <them>!,<us> 突然跳向 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strFail""]",<us> tries to leap at <them>...but misses!,<us> 突然跳出想击倒 <them>...但没有击中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=34]/../column[@name=""strPopUp""]","Leap at Target
+Leap at target, moving 2 spaces closer and trying to knock them down.
+Chance to knock down target and make them lose 1 turn.
+Must see target.
+Automatically lose cover.
+High chance of being detected if hidden.
+Not always available.",跳击对方 跳向目标移动2格，并试着将其击倒。有机会击倒目标并使他们下一回合无法行动。必须看到目标。自动脱离掩体。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strName""]",Trample,践踏
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strSuccess""]",<us> tramples <them> while they're down!,<us> 趁着 <them> 倒地，狠狠地进行了践踏!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strFail""]",<us> tries to trample <them> while they're down...but misses!,<us> 想趁着 <them> 倒地去狠踩他...但没有踩中!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=35]/../column[@name=""strPopUp""]","Trample 
+Trample the target while they're down.
+Injures target, plus keeps them fallen and forces them to lose 1 turn.
+Must be in melee range.
+Must see target.
+High chance of being detected if hidden.
+Not always available.",践踏 在目标跌倒的时候踩压对方。对目标造成伤害，让他们无法起身并失去一回合行动机会。必须在近战范围内。必须看到目标。如果隐藏，被发现的可能性高。并非总是可用。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strName""]",Call Melonhead,唤来瓜头人
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strSuccess""]",<us> started wailing for help!,<us> 开始哀嚎求助!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=36]/../column[@name=""strPopUp""]","Call Melonhead
+Cry out to nearby melonheads for help.",呼叫瓜头人 向附近的瓜头人大声呼救。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",Leap Away!,跳退!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strSuccess""]",<us> leaps away from <them>!,<us> 为远离 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=37]/../column[@name=""strPopUp""]","Leap Away!
+Move 2-3 spaces away from target.
+Must see target.
+Removes cover.
+Makes you vulnerable.
+High chance of being detected if hidden.",跳退!远离目标2-3格 必须看到目标。移除掩护。移除掩护。使你露出破绽。如果隐藏，被发现的可能性高。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strName""]",Check Body for Loot,搜索战利品
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strSuccess""]",<us> checks <them>'s body for loot!,<us> 搜了 <them>的身!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=38]/../column[@name=""strPopUp""]","Check Body for Loot 
+Check an unconscious body for any useful items, emptying them onto the ground.
+Must be in melee range.
+Must see target.
+Same penalty as accessing inventory.",搜索战利品 摸索这位失去意识家伙的身体，寻找有用的物品，将它们倒在地上。必须在近战范围内。必须看到目标。和开启道具栏相同消耗。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=39]/../column[@name=""strName""]",Surrender to Target,向目标投降
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=39]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=39]/../column[@name=""strSuccess""]",<us> offers their surrender to <them>!,<us> 请求向 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=39]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=39]/../column[@name=""strPopUp""]","Surrender to Target
+
+**CAUTION**
+
+Drop all your items, and offer your surrender.
+Both you and target must see each other.",向目标投降 **警告** 你会放下所有物品，并投降。你和目标必须能互相看见。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=40]/../column[@name=""strName""]",Demand Target's Surrender!,要求目标投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=40]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=40]/../column[@name=""strSuccess""]",<us> demands <them>'s surrender!,<us> 要求 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=40]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=40]/../column[@name=""strPopUp""]","Demand Target's Surrender!
+Demand target to drop all items and walk away.
+Both you and target must see each other.",要求目标投降!要求目标放下所有物品然后离开。你和目标必须能互相看见。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=41]/../column[@name=""strName""]",Accept Target's Surrender,接受目标投降
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=41]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=41]/../column[@name=""strSuccess""]",<us> accepts <them>'s surrender!,<us> 接受了 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=41]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=41]/../column[@name=""strPopUp""]","Accept Target's Surrender
+Accept target's offer to surrender. Target drops all items and walks away.
+Both you and target must see each other.
+Target must have previously offered surrender.",接受目标投降 接受目标投降，目标会交出所有物品并离开。要求目标放下所有物品然后离开。你和目标必须能互相看见。目标必须提出过投降。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=42]/../column[@name=""strName""]",Agree to Surrender,同意投降
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=42]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=42]/../column[@name=""strSuccess""]",<us> agrees to surrender to <them>!,<us> 同意向 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=42]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=42]/../column[@name=""strPopUp""]","Agree to Surrender
+
+**CAUTION**
+
+Accept target's demand for surrender. Drop all your items, and leave battle.
+Both you and target must see each other.
+Target must have previously demanded surrender.",**警告** 接受提议向对方投降，丢下你所有的物品然后离开战斗。**警告** 接受提议向对方投降，丢下你所有的物品然后离开战斗。你和目标必须能互相看见。必须被目标要求投降。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=43]/../column[@name=""strName""]",Surrender to Target,向目标投降
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=43]/../column[@name=""strNotes""]",AI version,AI version
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=43]/../column[@name=""strSuccess""]",<us> offers their surrender to <them>!,<us> 请求向 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=43]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=43]/../column[@name=""strPopUp""]","Surrender to Target
+Drop all your items, and offer your surrender.
+Both you and target must see each other.",向目标投降 丢弃所有物品，并投降告饶。你和目标必须能互相看见。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=44]/../column[@name=""strName""]",Steal Eyes,窃眼
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=44]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=44]/../column[@name=""strSuccess""]",<us> steals <them>'s eyes!,<us> 挖走了 <them>的眼睛!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=44]/../column[@name=""strFail""]",<us> tries to steal <them>'s eyes... but misses!,<us> 想挖走 <them>的眼睛... 但没有成功!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=44]/../column[@name=""strPopUp""]","Steal Eyes
+Steal target's eyes.
+Must see target.
+Low chance of making you vulnerable.
+High chance of being detected if hidden.",窃眼 挖掉且偷走目标的眼睛。必须看到目标。低几率使你露出破绽。如果隐藏，被发现的可能性高。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=45]/../column[@name=""strName""]",Ditch Vehicle,扔下载具
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=45]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=45]/../column[@name=""strSuccess""]",<us> ditches their vehicle!,<us> 扔下了载具!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=45]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=45]/../column[@name=""strPopUp""]","Ditch Vehicle
+Abandon vehicle, freeing you to run. Makes you harder to hit this turn.
+Drops equipped vehicle onto the ground.
+Must be using a vehicle that can be quickly discarded.",扔下载具 抛弃载具，让你能够奔跑，并在这个回合中更难被击中。让你在这个回合更难命中。把载具留在所处区域上。必须使用可以快速丢弃的车辆。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=46]/../column[@name=""strName""]",Offer to Talk,提出交谈
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=46]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=46]/../column[@name=""strSuccess""]",<us> offers to talk with <them>.,<us> 请求和 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=46]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=46]/../column[@name=""strPopUp""]","Offer to Talk
+Offer to stop battle with target and begin talks.
+If any combatants still want to fight, battle continues.
+Distracts you for 1 turn.
+Must see target.",提出交谈 提议停止与目标的战斗并开始谈判。如果你们之中有人仍想战斗，战斗将继续。使你分心 1 回合。必须看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=47]/../column[@name=""strName""]",Offer Ceasefire,提议停战
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=47]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=47]/../column[@name=""strSuccess""]",<us> offers ceasefire to <them>.,<us> 请求和 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=47]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=47]/../column[@name=""strPopUp""]","Offer Ceasefire
+Offer to stop battle with target.
+If any combatants still want to fight, battle continues.
+Distracts you for 1 turn.
+Must see target.",提议停战 提议停止与目标的战斗。如果你们之中有人仍想战斗，战斗将继续。使你分心 1 回合。必须看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=48]/../column[@name=""strName""]",Accept Ceasefire,接受停战
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=48]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=48]/../column[@name=""strSuccess""]",<us> accepts <them>'s ceasefire.,<us> 接受了 <them>的停战请求.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=48]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=48]/../column[@name=""strPopUp""]","Accept Ceasefire
+Accepts target's offer to stop battle.
+If any combatants still want to fight, battle continues.
+Must see target.",接受停战 接受目标停止战斗的提议。如果你们之中有人仍想战斗，战斗将继续。必须看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=49]/../column[@name=""strName""]",Reveal Self,现身
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=49]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=49]/../column[@name=""strSuccess""]",<us> reveals themselves to <them>.,<us> 向 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=49]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=49]/../column[@name=""strPopUp""]","Reveal Self
+Make yourself visible to target.
+Target must not see you yet.",现身 使自己对目标可见。目标必须尚未看到你。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=50]/../column[@name=""strName""]",Accept Offer to Talk,接受谈话请求
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=50]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=50]/../column[@name=""strSuccess""]",<us> accepts <them>'s offer to talk.,<us> 接受了 <them>的交谈请求.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=50]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=50]/../column[@name=""strPopUp""]","Accept Offer to Talk
+Accept target's offer to talk.
+If any combatants still want to fight, battle continues.
+Must see target.",接受谈话请求 接受目标的谈话请求。如果你们之中有人仍想战斗，战斗将继续。必须看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=51]/../column[@name=""strName""]",Radio DMC Drone,呼叫底特律无人机
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=51]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=51]/../column[@name=""strSuccess""]",<us> radioed for drone support fire!,<us> 使用无线电呼叫无人机火力支援!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=51]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=51]/../column[@name=""strPopUp""]","Radio DMC Drone
+Call in drone support fire.
+Marks target as enemy of DMC if they don't stand down.",呼叫底特律无人机 呼叫无人机给予火力支援。如果目标不趴下，则将其标记为 DMC 的敌人。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=52]/../column[@name=""strName""]",Crawl Towards,爬向
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=52]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=52]/../column[@name=""strSuccess""]",<us> crawls towards <them>.,<us> 爬向 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=52]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=52]/../column[@name=""strPopUp""]","Crawl Towards
+Moves 1 space closer to target.
+Must see target.
+Chance of tripping on terrain.
+Chance of being detected if hidden.
+","爬向 向目标靠近 1 格。必须看到目标。有几率被地形绊倒。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=53]/../column[@name=""strName""]",Crawl away,爬走
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=53]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=53]/../column[@name=""strSuccess""]",<us> crawls away from <them>.,<us> 爬离 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=53]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=53]/../column[@name=""strPopUp""]","Crawl Away
+Moves 1 space further from target.
+Must see target.
+Chance of being detected if hidden.
+","爬走 远离目标 1 格。必须看到目标。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=54]/../column[@name=""strName""]",Advance,前进
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=54]/../column[@name=""strNotes""]",Ignore ceasefire/talk version,对停火／谈话请求不予理睬
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=54]/../column[@name=""strSuccess""]",<us> advances towards <them>.,<us> 靠近 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=54]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=54]/../column[@name=""strPopUp""]","Advance 
+Moves 1 space closer to target.
+Must see target.
+Removes cover.
+Chance of tripping on terrain.
+Chance of being detected if hidden.
+","前进 向目标靠近 1 格。必须看到目标。移除掩护。有几率被地形绊倒。如果隐藏，有被发现的机会。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=55]/../column[@name=""strName""]",Exit Battle,离开战斗
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=55]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=55]/../column[@name=""strSuccess""]",<us> leaves battle.,<us> 离开了战斗.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=55]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=55]/../column[@name=""strPopUp""]","Exit Battle
+Stands down if no enemy is found.
+Always succeeds.",离开战斗 如果未发现敌人，则停止行动。总能成功。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=57]/../column[@name=""strName""]",Retreat (Crawl),爬着撤离
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=57]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=57]/../column[@name=""strSuccess""]",<us> crawls away from <them>.,<us> 爬离 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=57]/../column[@name=""strFail""]",<us> tries to crawl away from <them>...but can't get away!,<us> 尝试爬离 <them>...但没能成功
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=57]/../column[@name=""strPopUp""]","Retreat (Crawl)
+Try to leave the battlefield, based on enemy numbers and proximities, movement rates, etc.
+Must be out of all enemies' ranges.
+Removes cover.",爬着撤离 根据敌人的数量和距离、移动速度等，尝试离开战场。必须在所有敌人的射程之外。移除掩护。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=58]/../column[@name=""strName""]",Radio DMC Drone,呼叫底特律无人机
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=58]/../column[@name=""strNotes""]",(blind),(失明)
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=58]/../column[@name=""strSuccess""]",<us> radioed for drone support fire!,<us> 用无线电呼叫无人机火力支援!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=58]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=58]/../column[@name=""strPopUp""]","Radio DMC Drone
+Call in drone support fire.",呼叫底特律无人机 呼叫无人机给予火力支援。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=59]/../column[@name=""strName""]",Search,搜索
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=59]/../column[@name=""strNotes""]",thermal,热源
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=59]/../column[@name=""strSuccess""]",<us> searches for <them>.,<us> 寻找 <them>身旁后退.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=59]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=59]/../column[@name=""strPopUp""]","Search 
+Scan area for hidden targets.
+Must not see target yet.",搜索 扫描区域寻找隐藏目标。必须还没有看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=60]/../column[@name=""strName""]",Vanish,消失
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=60]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=60]/../column[@name=""strSuccess""]",<us> vanishes from sight.,<us> 消失在视野中.
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=60]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=60]/../column[@name=""strPopUp""]","Vanish from Sight
+Disappears from battle without being seen.
+Must see target.
+","从视野中消失 从战斗中消失而不被发现。必须看到目标。
+"
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=61]/../column[@name=""strName""]",Exploit Weakness,看出弱点
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=61]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=61]/../column[@name=""strSuccess""]",<us> finds a weakness in <them>!,<us> 发现了 <them>投降!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=61]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=61]/../column[@name=""strPopUp""]","Exploit Weakness
+Seeks a weakness to exploit in target, helping future attacks against it.
+Must see target.",看出弱点 寻找目标的弱点，加强的你对他攻击效果。必须看到目标。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=62]/../column[@name=""strName""]",Intimidate,恐吓
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=62]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=62]/../column[@name=""strSuccess""]",<us> goes absolutely berzerk with rage!,<us> 展现出疯狂地愤怒!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=62]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=62]/../column[@name=""strPopUp""]","Intimidate
+Explode with unbridled rage, scaring target.
+Both you and target must see each other.",恐吓 爆发出不受控制的愤怒，恐吓目标。你和目标必须能互相看见。
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=63]/../column[@name=""strName""]",Lethal Trap,致命陷阱
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=63]/../column[@name=""strNotes""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=63]/../column[@name=""strSuccess""]",<us> lures <them> into a lethal trap!,<us> 把 <them> 引诱进了绝杀陷阱!
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=63]/../column[@name=""strFail""]",,
+"//table[@name=""battlemoves""]/column[@name=""id""][text()=63]/../column[@name=""strPopUp""]","Lethal Trap
+Leads target into a deadly situation, killing it.
+Must be closer to target than 4 spaces.
+Both you and target must see each other.
+Rarely available.",致命陷阱 将目标带入必死之境，将其杀死。与目标的距离必须低于4格。你和目标必须能互相看见。罕见技能。

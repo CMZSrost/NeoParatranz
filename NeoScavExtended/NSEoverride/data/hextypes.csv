@@ -1,0 +1,48 @@
+"//table[@name=""hextypes""]/column[@name=""id""][text()=2]/../column[@name=""strName""]",coast ruins,海岸废墟
+"//table[@name=""hextypes""]/column[@name=""id""][text()=2]/../column[@name=""strDesc""]",abandoned port,废弃港口
+"//table[@name=""hextypes""]/column[@name=""id""][text()=3]/../column[@name=""strName""]",sand,沙地
+"//table[@name=""hextypes""]/column[@name=""id""][text()=3]/../column[@name=""strDesc""]",flat area of sand,平坦沙地
+"//table[@name=""hextypes""]/column[@name=""id""][text()=4]/../column[@name=""strName""]",plains,平原
+"//table[@name=""hextypes""]/column[@name=""id""][text()=4]/../column[@name=""strDesc""]",flat grassland,平坦草原
+"//table[@name=""hextypes""]/column[@name=""id""][text()=5]/../column[@name=""strName""]",forest,森林
+"//table[@name=""hextypes""]/column[@name=""id""][text()=5]/../column[@name=""strDesc""]",forested area,森林地带
+"//table[@name=""hextypes""]/column[@name=""id""][text()=6]/../column[@name=""strName""]",hill,山丘
+"//table[@name=""hextypes""]/column[@name=""id""][text()=6]/../column[@name=""strDesc""]",hills or foothills,山麓丘陵
+"//table[@name=""hextypes""]/column[@name=""id""][text()=8]/../column[@name=""strName""]",suburban ruins,郊区废墟
+"//table[@name=""hextypes""]/column[@name=""id""][text()=8]/../column[@name=""strDesc""]",abandoned houses and trailers,废弃房屋和拖车
+"//table[@name=""hextypes""]/column[@name=""id""][text()=9]/../column[@name=""strName""]",cryo facility,冷冻设施
+"//table[@name=""hextypes""]/column[@name=""id""][text()=9]/../column[@name=""strDesc""]",cryogenics lab where player wakes up,你苏醒时所在的冷冻实验室
+"//table[@name=""hextypes""]/column[@name=""id""][text()=10]/../column[@name=""strName""]",urban ruins (skyscraper),城市废墟（摩天大楼）
+"//table[@name=""hextypes""]/column[@name=""id""][text()=10]/../column[@name=""strDesc""]",abandoned high-rise buildings,废弃的高层建筑
+"//table[@name=""hextypes""]/column[@name=""id""][text()=11]/../column[@name=""strName""]",forest shack,森林小屋
+"//table[@name=""hextypes""]/column[@name=""id""][text()=11]/../column[@name=""strDesc""]",secluded shack in the woods,隐蔽的森林小屋
+"//table[@name=""hextypes""]/column[@name=""id""][text()=12]/../column[@name=""strName""]",urban ruins,城市废墟
+"//table[@name=""hextypes""]/column[@name=""id""][text()=12]/../column[@name=""strDesc""]",abandoned buildings,废弃的建筑物
+"//table[@name=""hextypes""]/column[@name=""id""][text()=14]/../column[@name=""strName""]",tent city,棚户区
+"//table[@name=""hextypes""]/column[@name=""id""][text()=14]/../column[@name=""strDesc""]",tent city,棚户区
+"//table[@name=""hextypes""]/column[@name=""id""][text()=15]/../column[@name=""strName""]",bazaar,市场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=15]/../column[@name=""strDesc""]",bazaar,市场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=16]/../column[@name=""strName""]",rubble,废墟
+"//table[@name=""hextypes""]/column[@name=""id""][text()=16]/../column[@name=""strDesc""]",piles of rubble from what was a city,废墟堆积地
+"//table[@name=""hextypes""]/column[@name=""id""][text()=21]/../column[@name=""strName""]",megacity midtown,大都市中心城区
+"//table[@name=""hextypes""]/column[@name=""id""][text()=21]/../column[@name=""strDesc""]",megacity midtown,大都市中心城区
+"//table[@name=""hextypes""]/column[@name=""id""][text()=22]/../column[@name=""strName""]",hill (Clearbone Valley),山丘（惊骸之谷）
+"//table[@name=""hextypes""]/column[@name=""id""][text()=22]/../column[@name=""strDesc""]",hills or foothills,山麓丘陵
+"//table[@name=""hextypes""]/column[@name=""id""][text()=24]/../column[@name=""strName""]",parkade,停车场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=24]/../column[@name=""strDesc""]",parkade,停车场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=26]/../column[@name=""strName""]",hill (water),山丘（水）
+"//table[@name=""hextypes""]/column[@name=""id""][text()=26]/../column[@name=""strDesc""]",hills or foothills with water,溪流山丘
+"//table[@name=""hextypes""]/column[@name=""id""][text()=27]/../column[@name=""strName""]",marsh,沼泽
+"//table[@name=""hextypes""]/column[@name=""id""][text()=27]/../column[@name=""strDesc""]",marshlands,沼泽地
+"//table[@name=""hextypes""]/column[@name=""id""][text()=28]/../column[@name=""strName""]",plains (water),平原（水）
+"//table[@name=""hextypes""]/column[@name=""id""][text()=28]/../column[@name=""strDesc""]",flat grassland with water,露水平原
+"//table[@name=""hextypes""]/column[@name=""id""][text()=29]/../column[@name=""strName""]",great black swamp,大黑沼
+"//table[@name=""hextypes""]/column[@name=""id""][text()=29]/../column[@name=""strDesc""]",Great Black Swamp,大黑沼
+"//table[@name=""hextypes""]/column[@name=""id""][text()=30]/../column[@name=""strName""]",Zom Zom's,僵僵餐厅
+"//table[@name=""hextypes""]/column[@name=""id""][text()=30]/../column[@name=""strDesc""]","Zom Zom's, a place to eat","僵僵餐厅, 一个吃饭的地方"
+"//table[@name=""hextypes""]/column[@name=""id""][text()=33]/../column[@name=""strName""]",Allegan Fairgrounds,阿勒根游乐场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=33]/../column[@name=""strDesc""]",Allegan Fairgrounds,阿勒根游乐场
+"//table[@name=""hextypes""]/column[@name=""id""][text()=34]/../column[@name=""strName""]",Anishinabe Tribal Nation,阿尼什纳比部落民族
+"//table[@name=""hextypes""]/column[@name=""id""][text()=34]/../column[@name=""strDesc""]",Anishinabe Tribal Nation,阿尼什纳比部落民族
+"//table[@name=""hextypes""]/column[@name=""id""][text()=37]/../column[@name=""strName""]",plains,平原
+"//table[@name=""hextypes""]/column[@name=""id""][text()=37]/../column[@name=""strDesc""]",flat grassland,平坦草原

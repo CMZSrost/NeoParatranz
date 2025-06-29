@@ -1,0 +1,18 @@
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=5]/../column[@name=""strPropertyName""]",tool: screwdriver,工具: 螺丝起子
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=6]/../column[@name=""strPropertyName""]",flat point/end,平头/端部
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=12]/../column[@name=""strPropertyName""]",organic,有机的
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=19]/../column[@name=""strPropertyName""]",flexible/inelastic,柔性/非弹性
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=30]/../column[@name=""strPropertyName""]",chambered in .308,.308枪膛
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=35]/../column[@name=""strPropertyName""]",burnt,烧焦的
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=37]/../column[@name=""strPropertyName""]",liquid absorbent,液体吸收剂
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=53]/../column[@name=""strPropertyName""]",wheel,轮子、轴
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=55]/../column[@name=""strPropertyName""]",frame/receiver,框架/接收器
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=59]/../column[@name=""strPropertyName""]",archery bow,射手用弓
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=61]/../column[@name=""strPropertyName""]",chambered in 12-gauge,１２口径子弹舱室
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=69]/../column[@name=""strPropertyName""]",computer,电脑
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=79]/../column[@name=""strPropertyName""]",mobile phone,手机
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=80]/../column[@name=""strPropertyName""]",tactical,战术性的
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=84]/../column[@name=""strPropertyName""]",footwear,脚上穿的
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=95]/../column[@name=""strPropertyName""]",rifle stock,枪械库存
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=96]/../column[@name=""strPropertyName""]",DMC drone part,底特律无人机部件
+"//table[@name=""itemprops""]/column[@name=""nID""][text()=103]/../column[@name=""strPropertyName""]",trousers/pants,长裤/短裤
