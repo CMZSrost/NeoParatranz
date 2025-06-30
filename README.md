@@ -27,7 +27,11 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 git clone https://github.com/CMZSrost/NeoParatranz.git
 ```
 
-4. 运行脚本（第一次运行会联网下载依赖环境）
+4. 配置token（可选，用于上传与下载翻译文件）
+
+将.env_example文件重命名为.env，并在其中配置paratranz的token (token可以在paratranz的个人设置中获取) 以及 paratranz的项目id
+
+5. 运行脚本（第一次运行会联网下载依赖环境）
 
 查看帮助
 ```powershell
@@ -35,11 +39,26 @@ uv run main.py --help
 ```
 导出翻译文件
 ```powershell
-uv run main.py convert "mod文件夹路径"
+uv run main.py convert "mod文件夹路径" "翻译文件导出路径，默认在运行目录"
 ```
 复原翻译文件
 ```powershell
 uv run main.py convert "mod文件夹路径" "解压后的翻译文件夹路径"
+```
+
+罗列项目文件
+```powershell
+uv run main.py list
+```
+
+上传翻译文件到paratranz
+```powershell
+uv run main.py upload "翻译文件路径" -c(创建文件) -o(更新原文) -t(更新译文) -f(更新译文时更新所有词条)
+```
+
+下载翻译文件到本地
+```powershell
+uv run main.py download "保存路径，默认在运行目录" -z(解压并删除zip文件)
 ```
 
 # 运行示例
