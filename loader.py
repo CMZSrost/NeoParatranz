@@ -95,12 +95,11 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
             node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
-                # print(f"{xpath} -> {dst} {element.text}")
-                element.set('value', dst)
+                element.text = dst
             elif len(node) > 1:
                 print(f"xpath not unique: {xpath} {dst}")
-                # for i, element in enumerate(node):
-                #     print(f"{xpath} -> {dst} {element.text}")
+                element = node[-1]
+                element.text = dst
             else:
                 print(f"xpath not found: {xpath} {dst}")
 
