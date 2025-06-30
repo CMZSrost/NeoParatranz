@@ -8,9 +8,8 @@
 
 from pathlib import Path
 from glob import glob
-from typing import Annotated, Optional
+from typing import Annotated
 
-import lxml
 import typer
 from loader import convert_xml, deconvert_xml
 
