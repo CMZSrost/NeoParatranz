@@ -64,3 +64,16 @@ uv run main.py convert "D:\Neo Scavenger\Mods\NeoScavExtended"
 uv run main.py deconvert "D:\Neo Scavenger\Mods\NeoScavExtended" "D:\Download\utf-8\NeoScavExtended"
 ```
 > 注意，这里会对文件进行覆盖更新操作，运行前建议做好备份工作，或者将"D:\Neo Scavenger\Mods\NeoScavExtended"改为复制后的文件夹路径，这样可以避免覆盖原文件
+
+# 更新方法
+
+1. git 克隆得到
+```powershell
+git pull
+```
+
+2. 直接下载zip
+
+如果不介意重新安装依赖，直接运行即可，会直接安装依赖
+
+如果想复用依赖，可以将旧文件夹里的.venv文件夹挪到新文件夹里
