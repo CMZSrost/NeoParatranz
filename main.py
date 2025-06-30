@@ -25,11 +25,12 @@ def convert(
                 dir_okay=True,
                 file_okay=False,
                 resolve_path=True,
+                help="需要导出翻译文件的mod目录"
             )
         ],
         todst: Annotated[
             bool,
-            typer.Option()
+            typer.Option("--todst", "-t", help="导出到译文位置")
         ] = False,
 ):
     # 从mod_dir中遍历所有xml文件
@@ -53,6 +54,7 @@ def deconvert(
                 dir_okay=True,
                 file_okay=False,
                 resolve_path=True,
+                help="更新翻译的mod目录"
             )
         ],
         csv_dir: Annotated[
@@ -63,18 +65,19 @@ def deconvert(
                 file_okay=False,
                 resolve_path=True,
                 # autocompletion=current_dir_autocompletion
+                help="翻译文件存放目录",
             )
         ],
-        onlydst: Annotated[
+        src_exists: Annotated[
             bool,
-            typer.Option()
+            typer.Option("--src-exists", "-e", help="翻译文件存在原文与译文")
         ] = False,
 ):
     query_mod_dir = str(mod_dir/"**"/"*.xml")
     for xml_file in glob(query_mod_dir, recursive=True, root_dir=mod_dir):
         csv_file = Path(csv_dir) / Path(xml_file).relative_to(mod_dir).with_suffix(".csv")
         if csv_file.exists():
-            deconvert_xml(Path(xml_file), csv_file, onlydst)
+            deconvert_xml(Path(xml_file), csv_file, src_exists)
         else:
             print(f"CSV file {csv_file} not found for {xml_file}")
 

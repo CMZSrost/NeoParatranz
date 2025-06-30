@@ -69,16 +69,16 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
         print(len(rows))
         csv_writer.writerows(list(rows.values()))
 
-def deconvert_xml(xml_path: Path, csv_path: Path, onlydst: bool = False):
+def deconvert_xml(xml_path: Path, csv_path: Path, src_exists: bool = False):
     print(f"deconvert_xml: {csv_path} to {xml_path}")
     tree = etree.parse(str(xml_path))
     with csv_path.open('r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
-            if onlydst:
-                xpath, dst = row
-            else:
+            if src_exists:
                 xpath, _, dst = row
+            else:
+                xpath, dst = row
             node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
