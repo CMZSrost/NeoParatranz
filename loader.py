@@ -47,6 +47,8 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
                             continue
                         elif key == "strName" and data_type == "maps":
                             continue
+                        elif key == "strType" and data_type == "gamevars":
+                            continue
                         else:
                             attrib[child.attrib['name']] = child.text
                     except KeyError:
@@ -67,14 +69,6 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
         print(len(rows))
         csv_writer.writerows(list(rows.values()))
 
-def clean_xpath(xpath: str):
-    new_xpath = xpath.strip().replace("﻿", "").replace('""', '"')
-    if new_xpath.startswith('"'):
-        new_xpath = new_xpath[1:]
-    if new_xpath.endswith('"'):
-        new_xpath = new_xpath[:-1]
-    return new_xpath
-
 def deconvert_xml(xml_path: Path, csv_path: Path, onlydst: bool = False):
     print(f"deconvert_xml: {csv_path} to {xml_path}")
     tree = etree.parse(str(xml_path))
@@ -85,19 +79,15 @@ def deconvert_xml(xml_path: Path, csv_path: Path, onlydst: bool = False):
                 xpath, dst = row
             else:
                 xpath, _, dst = row
-            xpath = clean_xpath(xpath)
-            try:
-                node = tree.xpath(xpath)
-            except etree.XPathEvalError as e:
-                print(f"xpath not found: {xpath}")
-                raise e
+            node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
-                element.text = dst
+                # print(f"{xpath} -> {dst} {element.text}")
+                element.set('value', dst)
             elif len(node) > 1:
                 print(f"xpath not unique: {xpath} {dst}")
-                element = tree.xpath(xpath)[-1]
-                element.text = dst
+                # for i, element in enumerate(node):
+                #     print(f"{xpath} -> {dst} {element.text}")
             else:
                 print(f"xpath not found: {xpath} {dst}")
 

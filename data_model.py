@@ -452,4 +452,5 @@ translation_name = {
     "strPropertyName",
     "strDescAlt",
     "strSecretName",
+    "strType",
 }
