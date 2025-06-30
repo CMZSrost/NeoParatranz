@@ -37,6 +37,7 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
             csv_reader = csv.reader(f)
             for row in tqdm.tqdm(csv_reader, desc=f"loading existed csv {str(csv_path)}"):
                 xpath, value, dst = row
+                xpath = clean_xpath(xpath)
                 rows[xpath] = (xpath, value, dst)
 
     with csv_path.open('w', encoding='utf-8') as f:
