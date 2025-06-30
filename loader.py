@@ -1,11 +1,23 @@
 from pathlib import Path
 from lxml import etree
 import csv
+import tqdm
 
 from data_model import data_types, translation_name
 
 def get_xpath(id: str, data_type: str, field: str, id_field: str):
     return f'//table[@name="{data_type}"]/column[@name="{id_field}"][text()={id}]/../column[@name="{field}"]'
+
+def clean_xpath(xpath: str):
+    xpath = xpath.strip()
+    xpath = xpath.replace('""', '"')
+    spl = xpath.split('//', 1)
+    xpath = f'//{spl[1]}'
+    if xpath.startswith('"'):
+        xpath = xpath[1:]
+    if xpath.endswith('"'):
+        xpath = xpath[:-1]
+    return xpath
 
 def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
     """
@@ -17,20 +29,19 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
     Returns:
         An ElementTree object representing the XML file.
     """
-    print(f"convert_xml: {xml_path} to {csv_path}")
     tree = etree.parse(str(xml_path))
 
     rows = {}
     if csv_path.exists():
         with csv_path.open('r', encoding='utf-8') as f:
             csv_reader = csv.reader(f)
-            for row in csv_reader:
+            for row in tqdm.tqdm(csv_reader, desc=f"loading existed csv {str(csv_path)}"):
                 xpath, value, dst = row
                 rows[xpath] = (xpath, value, dst)
 
     with csv_path.open('w', encoding='utf-8') as f:
         csv_writer = csv.writer(f, lineterminator='\n')
-        for data_type in data_types:
+        for data_type in tqdm.tqdm(data_types, desc=f"converting {str(xml_path)} to {str(csv_path)}"):
             for element in tree.xpath(f'//table[@name="{data_type}"]'):
                 attrib = {}
                 id = None
@@ -66,19 +77,21 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
                             row = (xpath, value, rows[xpath][2])
                     rows[xpath] = row
         # 对rows的[xpath, value, ""]中的xpath进行去重，取出最后一个值
-        print(len(rows))
         csv_writer.writerows(list(rows.values()))
 
-def deconvert_xml(xml_path: Path, csv_path: Path, src_exists: bool = False):
+def deconvert_xml(xml_path: Path, csv_path: Path):
     print(f"deconvert_xml: {csv_path} to {xml_path}")
     tree = etree.parse(str(xml_path))
     with csv_path.open('r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
-        for row in csv_reader:
-            if src_exists:
+        for row in tqdm.tqdm(csv_reader, desc=f"loading {str(csv_path)}"):
+            if len(row) == 2:
+                xpath, dst = row
+            elif len(row) == 3:
                 xpath, _, dst = row
             else:
-                xpath, dst = row
+                print(f"invalid row: {row}")
+            xpath = clean_xpath(xpath)
             node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
