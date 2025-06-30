@@ -1,10 +1,14 @@
-import logging
+import os.path
 from pathlib import Path
 from lxml import etree
 import csv
 import tqdm
 
+import loguru
+
 from data_model import data_types, translation_name
+
+logging = loguru.logger
 
 def get_xpath(id: str, data_type: str, field: str, id_field: str):
     return f'//table[@name="{data_type}"]/column[@name="{id_field}"][text()={id}]/../column[@name="{field}"]'
@@ -36,7 +40,7 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
     if csv_path.exists():
         with csv_path.open('r', encoding='utf-8') as f:
             csv_reader = csv.reader(f)
-            for row in tqdm.tqdm(csv_reader, desc=f"loading existed csv {str(csv_path.parent / csv_path.name)}", unit='row', colour='blue',leave=False,position=1):
+            for row in tqdm.tqdm(csv_reader, desc=f"loading existed csv {os.path.join(csv_path.parent.name, csv_path.name)}", unit='row', colour='blue',leave=False,position=1):
                 xpath, value, dst = "", "", ""
                 if len(row) == 2:
                     xpath, dst = row
@@ -50,7 +54,7 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
 
     with csv_path.open('w', encoding='utf-8') as f:
         csv_writer = csv.writer(f, lineterminator='\n')
-        for data_type in tqdm.tqdm(data_types, desc=f"converting {str(xml_path.parent / xml_path.name)}\n-> {str(csv_path.parent / csv_path.name)}", unit='table', colour='blue',leave=False,position=1):
+        for data_type in tqdm.tqdm(data_types, desc=f"converting {os.path.join(xml_path.parent.name, xml_path.name)} -> {os.path.join(csv_path.parent.name, csv_path.name)}", unit='table', colour='blue',leave=False,position=1):
             for element in tree.xpath(f'//table[@name="{data_type}"]'):
                 attrib = {}
                 id = None
@@ -91,7 +95,7 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
     tree = etree.parse(str(xml_path))
     with csv_path.open('r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
-        for row in tqdm.tqdm(csv_reader, desc=f"deconvert_xml {str(csv_path.parent / csv_path.name)}\n-> {str(xml_path.parent / xml_path.name)}", unit='row', colour="blue",position=1,leave=False):
+        for row in tqdm.tqdm(csv_reader, desc=f"deconvert_xml {os.path.join(csv_path.parent.name, csv_path.name)} -> {os.path.join(xml_path.parent.name, xml_path.name)}", unit='row', colour="blue",position=1,leave=False):
             if len(row) == 2:
                 xpath, dst = row
             elif len(row) == 3:
