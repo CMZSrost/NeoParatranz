@@ -122,6 +122,7 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
             parsed_rows[parse_xpath(xpath)] = dst.replace("\\n", "\n")
 
         for data_type in tqdm.tqdm(data_types, desc=f"deconvert {os.path.join(xml_path.parent.name, xml_path.name)} <- {os.path.join(csv_path.parent.name, csv_path.name)}", unit='table', colour='blue',position=1,leave=False):
+            ids = set()
             for table in tree.xpath(f'//table[@name="{data_type}"]'):
                 columns = {}
                 id_field = None
@@ -142,6 +143,11 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
                 if id is None:
                     warning_write(f"id field not found in {data_type}")
                     continue
+                elif id in ids:
+                    warning_write(f"duplicate id: {data_type} {id}")
+                    continue
+                else:
+                    ids.add(id)
 
                 for field, column in columns.items():
                     if (data_type, id_field, id, field) in parsed_rows:
