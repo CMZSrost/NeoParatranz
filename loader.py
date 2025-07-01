@@ -10,6 +10,10 @@ from data_model import data_types, translation_name
 
 logging = loguru.logger
 
+def warning_write(msg: str):
+    logging.warning(msg)
+    tqdm.tqdm.write(f'warning: {msg}')
+
 def get_xpath(id: str, data_type: str, field: str, id_field: str):
     return f'//table[@name="{data_type}"]/column[@name="{id_field}"][text()={id}]/../column[@name="{field}"]'
 
@@ -47,7 +51,7 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
                 elif len(row) == 3:
                     xpath, value, dst = row
                 else:
-                    logging.warning(f"invalid row: {row}")
+                    warning_write(f"invalid row: {row}")
                 if len(row) in [2, 3]:
                     xpath = clean_xpath(xpath)
                     rows[xpath] = (xpath, value, dst)
@@ -101,18 +105,18 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
             elif len(row) == 3:
                 xpath, _, dst = row
             else:
-                logging.warning(f"invalid row: {row}")
+                warning_write(f"invalid row: {row}")
             xpath = clean_xpath(xpath)
             node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
                 element.text = dst
             elif len(node) > 1:
-                logging.warning(f"xpath not unique: {xpath} {dst}")
+                warning_write(f"xpath not unique: {xpath} {dst}")
                 element = node[-1]
                 element.text = dst
             else:
-                logging.warning(f"xpath not found: {xpath} {dst}")
+                warning_write(f"xpath not found: {xpath} {dst}")
 
     tree.write(str(xml_path), pretty_print=True, encoding='utf-8', xml_declaration=True)
 

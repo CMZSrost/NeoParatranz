@@ -26,7 +26,7 @@ from dotenv import load_dotenv
 import loguru
 import requests
 
-from loader import convert_xml, deconvert_xml
+from loader import convert_xml, deconvert_xml, warning_write
 from paratranz_model import File
 
 logging = loguru.logger
@@ -42,6 +42,15 @@ app = typer.Typer()
 def info_write(msg: str):
     logging.info(msg)
     tqdm.tqdm.write(msg)
+
+def raise_for_env():
+    msg = "{env} not set in environment, please set it in.env file or export it to environment variable"
+    if os.getenv("PROJECT_ID", "") == "":
+        logging.error(msg.format(env="PROJECT_ID"))
+        raise ValueError(msg.format(env="PROJECT_ID"))
+    if os.getenv("TOKEN", "") == "":
+        logging.error(msg.format(env="TOKEN"))
+        raise ValueError(msg.format(env="TOKEN"))
 
 @contextmanager
 def timer(name: str):
@@ -136,6 +145,8 @@ def deconvert(
 @app.command(help="列出paratranz上该项目的文件")
 def files():
     logging.add(f"logs/files/{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log")
+    raise_for_env()
+
     resp = get(f"{paratranz_url}/projects/{os.getenv('PROJECT_ID')}/files")
     resp.raise_for_status()
     files = [File(**file) for file in resp.json()]
@@ -164,6 +175,8 @@ def upload(
         force_translated: bool = typer.Option(False, "--force-translated", "-f", help="更新译文时对涉及的所有词条进行覆盖"),
 ):
     logging.add(f"logs/upload/{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log")
+    raise_for_env()
+
     info_write(f"Upload mode: c:{create} o:{original} t:{translated} f:{force_translated}")
     info_write(f"Project ID: {os.getenv('PROJECT_ID')}")
 
@@ -228,6 +241,8 @@ def download(
         unzip_delete: Annotated[bool, typer.Option("--unzip-delete", "-z", help="解压并删除zip文件")] = False,
 ):
     logging.add(f"logs/download/{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log")
+    raise_for_env()
+
     info_write(f"Download mode: r:{renew}")
     info_write(f"Project ID: {os.getenv('PROJECT_ID')}")
     info_write(f"Save Dir: {save_dir}")

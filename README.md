@@ -84,6 +84,29 @@ uv run main.py deconvert "D:\Neo Scavenger\Mods\NeoScavExtended" "D:\Download\ut
 ```
 > 注意，这里会对文件进行覆盖更新操作，运行前建议做好备份工作，或者将"D:\Neo Scavenger\Mods\NeoScavExtended"改为复制后的文件夹路径，这样可以避免覆盖原文件
 
+# 场景示例
+
+mod版本更新
+```powershell
+# 首先新mod下载到游戏MOD目录，如"D:\Neo Scavenger\Mods\NeoScavExtended"
+# 然后运行以下命令导出翻译文件
+uv run main.py convert "D:\Neo Scavenger\Mods\NeoScavExtended" "."
+# 导出完成后，将翻译文件上传到paratranz
+uv run main.py upload "NeoScavExtended" -c # 创建文件
+uv run main.py upload "NeoScavExtended" -o # 更新原文
+
+# 如果mod存在新的机翻（一般不该从mod源文件机翻操作，因为管理混乱）需要更新翻译文件
+uv run main.py convert "D:\Neo Scavenger\Mods\NeoScavExtended" -t # 更新译文到翻译文件中
+uv run main.py upload "NeoScavExtended" -t # 更新译文到paratranz，如果要对已有翻译的词条进行更新，需要加-f参数
+```
+
+完成一版翻译后
+```powershell
+# 下载最新翻译文件，-r触发压缩包更新，-z解压并删除zip文件。一般会解压出"encoding/文件夹"，如"utf-8/NeoScavExtended"
+uv run main.py download "NeoScavExtended" -z -r
+# 复原翻译文件
+uv run main.py deconvert "D:\Neo Scavenger\Mods\NeoScavExtended" "utf-8\NeoScavExtended"
+```
 # 更新方法
 
 1. git 克隆得到
