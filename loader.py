@@ -144,8 +144,7 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
                     warning_write(f"id field not found in {data_type}")
                     continue
                 elif id in ids:
-                    warning_write(f"duplicate id: {data_type} {id}")
-                    continue
+                    warning_write(f"duplicate id: {data_type} {id} {columns}")
                 else:
                     ids.add(id)
 
