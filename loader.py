@@ -3,6 +3,7 @@ from pathlib import Path
 from lxml import etree
 import csv
 import tqdm
+import re
 
 import loguru
 
@@ -16,6 +17,15 @@ def warning_write(msg: str):
 
 def get_xpath(id: str, data_type: str, field: str, id_field: str):
     return f'//table[@name="{data_type}"]/column[@name="{id_field}"][text()={id}]/../column[@name="{field}"]'
+
+def parse_xpath(xpath: str):
+    patten = re.compile(r'//table\[@name="(\w+)"\]/column\[@name="(\w+)"\]\[text\(\)=(\w+)\]/../column\[@name="(\w+)"\]')
+    match = patten.match(xpath)
+    if match:
+        data_type, id_field, id, field = match.groups()
+        return data_type, id_field, id, field
+    else:
+        return None
 
 def clean_xpath(xpath: str):
     xpath = xpath.strip()
@@ -100,7 +110,8 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
 
     with csv_path.open('r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
-        for row in tqdm.tqdm(csv_reader, desc=f"deconvert_xml {os.path.join(csv_path.parent.name, csv_path.name)} -> {os.path.join(xml_path.parent.name, xml_path.name)}", unit='row', colour="blue",position=1,leave=False):
+        parsed_rows = {}
+        for row in tqdm.tqdm(csv_reader, desc=f"parse_csv {os.path.join(csv_path.parent.name, csv_path.name)}", unit='row', colour="blue",position=1,leave=False):
             if len(row) == 2:
                 xpath, dst = row
             elif len(row) == 3:
@@ -108,16 +119,44 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
             else:
                 warning_write(f"invalid row: {row}")
             xpath = clean_xpath(xpath)
-            node = tree.xpath(xpath)
-            if len(node) == 1:
-                element = tree.xpath(xpath)[0]
-                element.text = dst.replace("\\n", "\n")
-            elif len(node) > 1:
-                warning_write(f"xpath not unique: {xpath} {dst}")
-                element = node[-1]
-                element.text = dst.replace("\\n", "\n")
-            else:
-                warning_write(f"xpath not found: {xpath} {dst}")
+            parsed_rows[parse_xpath(xpath)] = dst.replace("\\n", "\n")
+
+        for data_type in tqdm.tqdm(data_types, desc=f"deconvert {os.path.join(xml_path.parent.name, xml_path.name)} <- {os.path.join(csv_path.parent.name, csv_path.name)}", unit='table', colour='blue',position=1,leave=False):
+            for table in tree.xpath(f'//table[@name="{data_type}"]'):
+                columns = {}
+                id_field = None
+                id = None
+                for column in table.getchildren():
+                    attrib = column.attrib.get('name')
+                    if attrib is None:
+                        continue
+                    elif attrib == 'id':
+                        id_field = 'id'
+                        id = column.text
+                    elif attrib == 'nID':
+                        id_field = 'nID'
+                        id = column.text
+                    else:
+                        columns[column.attrib['name']] = column
+
+                if id is None:
+                    warning_write(f"id field not found in {data_type}")
+                    continue
+
+                for field, column in columns.items():
+                    if (data_type, id_field, id, field) in parsed_rows:
+                        column.text = parsed_rows[data_type, id_field, id, field]
+
+            # node = tree.xpath(xpath)
+            # if len(node) == 1:
+            #     element = tree.xpath(xpath)[0]
+            #     element.text = dst
+            # elif len(node) > 1:
+            #     warning_write(f"xpath not unique: {xpath} {dst}")
+            #     element = node[-1]
+            #     element.text = dst.replace("\\n", "\n")
+            # else:
+            #     warning_write(f"xpath not found: {xpath} {dst}")
 
     tree.write(str(xml_path), pretty_print=True, encoding='utf-8', xml_declaration=True, strip_text=True)
 
