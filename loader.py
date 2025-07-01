@@ -96,7 +96,8 @@ def convert_xml(xml_path: Path, csv_path: Path, turn_to_dst: bool = False):
         csv_writer.writerows(list(rows.values()))
 
 def deconvert_xml(xml_path: Path, csv_path: Path):
-    tree = etree.parse(str(xml_path))
+    tree: etree._ElementTree = etree.parse(str(xml_path))
+
     with csv_path.open('r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
         for row in tqdm.tqdm(csv_reader, desc=f"deconvert_xml {os.path.join(csv_path.parent.name, csv_path.name)} -> {os.path.join(xml_path.parent.name, xml_path.name)}", unit='row', colour="blue",position=1,leave=False):
@@ -110,15 +111,15 @@ def deconvert_xml(xml_path: Path, csv_path: Path):
             node = tree.xpath(xpath)
             if len(node) == 1:
                 element = tree.xpath(xpath)[0]
-                element.text = dst
+                element.text = dst.replace("\\n", "\n")
             elif len(node) > 1:
                 warning_write(f"xpath not unique: {xpath} {dst}")
                 element = node[-1]
-                element.text = dst
+                element.text = dst.replace("\\n", "\n")
             else:
                 warning_write(f"xpath not found: {xpath} {dst}")
 
-    tree.write(str(xml_path), pretty_print=True, encoding='utf-8', xml_declaration=True)
+    tree.write(str(xml_path), pretty_print=True, encoding='utf-8', xml_declaration=True, strip_text=True)
 
 if __name__ == '__main__':
     xml_path = Path(r"D:\software\Steam\steamapps\common\Neo Scavenger\Mods\NeoScavExtended\NSExtended\neogame.xml")
