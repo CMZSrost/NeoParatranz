@@ -203,7 +203,8 @@ def upload(
             info_write(f"upload file_payload {file_payload} to {c_url}")
             resp = post(c_url, files=file_payload)
             resp.raise_for_status()
-            info_write(f"create new file {csv_file} -> {File(**(resp.json()['file'])).name}")
+            if 'file' in resp.json():
+                info_write(f"create new file {csv_file} -> {File(**(resp.json()['file'])).name}")
         elif csv_file in file_paths:
             file_id = files[file_paths.index(csv_file)].id
             if original:
